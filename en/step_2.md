@@ -34,7 +34,7 @@ As you can see, it’s important to choose your username carefully. Let's create
 
 	![screenshot](images/usernames-clicked.png)
 	
-+ You need to combine an adjective and a noun. Add a `join`{:class="blockoperators"} block inside your `set` block:
++ You need to combine an adjective and a noun. Add a `join`{:class="blockoperators"} block inside your `set`{:class="blockdata"} block:
 
 	![screenshot](images/usernames-join.png)
 	
