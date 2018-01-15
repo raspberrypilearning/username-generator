@@ -1,12 +1,12 @@
 ## Introduction
 
-It’s important not to use your real name or any personal information in your online username. In this project you’ll generate usernames that you can use on websites like Scratch. 
+It’s important not to use your real name or any personal information in your online username. In this project you’ll generate usernames that you can use on websites like Scratch.
 
 To try out the finished project:
 
 + Click the girl to generate a new username;
-+ When you find a username you like click on the tick to add it to the list;
-+ Right-click on the username list to save your list of usernames to a file. 
++ When you find a username you like click on the <span style="color: green;">✔</span> to add it to the list;
++ Right-click on the username list to save your list of usernames to a file.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/138858379/?autostart=false" frameborder="0"></iframe>
@@ -25,7 +25,7 @@ title: Club leader notes
 
 
 ## Introduction:
-In this project, children will create a username generator that suggests screen names that they can use for online accounts. They will learn how to export a text file and an image from Scratch. This project ties in with Safer Internet Day and the importance of not sharing personal information online. 
+In this project, children will create a username generator that suggests screen names that they can use for online accounts. They will learn how to export a text file and an image from Scratch. This project ties in with Safer Internet Day and the importance of not sharing personal information online.
 
 ## Resources
 For this project, Scratch 2 should be used. Scratch 2 can either be used online at [jumpto.cc/scratch-on](http://jumpto.cc/scratch-on) or can be downloaded from [jumpto.cc/scratch-off](http://jumpto.cc/scratch-off) and used offline.
@@ -59,10 +59,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 ## Challenges
 + "Add more variety" - Add more variety to the usernames by adding items to the lists;
 + "Add a number" - Add a random number to the end of generated usernames;
-+ "Create your profile picture" - use the paint tool in Scratch to create a profile picture to go with a username. 
-
-## Frequently Asked Questions
-
++ "Create your profile picture" - use the paint tool in Scratch to create a profile picture to go with a username.
 
 --- /collapse ---
 
