@@ -15,8 +15,8 @@ site_areas: codeclub, scratch
 steps:
 - title: Introduction
 - title: Generating usernames
-- title: 'Challenge: add more variety'
+- title: "Challenge: add more variety"
 - title: Saving your favourite usernames
-- title: 'Challenge: add a number'
-- title: 'Challenge: create your profile picture'
+- title: "Challenge: add a number"
+- title: "Challenge: create your profile picture"
 
