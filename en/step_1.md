@@ -17,7 +17,7 @@ To try out the finished project:
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print).
 
 
 --- collapse ---
