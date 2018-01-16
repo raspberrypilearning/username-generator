@@ -19,6 +19,8 @@ Save your picture so that you can use it on websites or apps which show profile 
 
 ![screenshot](images/usernames-save-costume.png)
 
-Images created in **bitmap mode** will be saved as `.png` files. Images created in vector mode will be saved as `.svg` files. `.png` files are more widely used — if you've been drawing in vector mode and want to save your picture as a `.png` file, switch to bitmap mode before saving. Clicking **undo** will get you back to vector mode.
+Images created in **bitmap mode** will be saved as `.png` files. Images created in vector mode will be saved as `.svg` files.
+
+`.png` files are more widely used — if you've been drawing in vector mode and want to save your picture as a `.png` file, switch to bitmap mode before saving. Clicking **undo** will get you back to vector mode.
 
 --- /challenge ---
