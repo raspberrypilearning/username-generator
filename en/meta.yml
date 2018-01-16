@@ -5,18 +5,18 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Username Generator
-description: Generate awesome usernames that you can use online.
+curriculum: creator, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+title: Username generator
+description: Generate awesome usernames that you can use online
 original_url: https://codeclubprojects.org/en-GB/scratch/username-generator
 interests: ''
 technologies: scratch
 site_areas: codeclub, scratch
 steps:
 - title: Introduction
-- title: Generating Usernames
-- title: 'Challenge: Add more variety'
-- title: Saving Your Favourite Usernames
-- title: 'Challenge: Add a number'
-- title: 'Challenge: Create your profile picture'
+- title: Generating usernames
+- title: "Challenge: add more variety"
+- title: Saving your favourite usernames
+- title: "Challenge: add a number"
+- title: "Challenge: create your profile picture"
 
