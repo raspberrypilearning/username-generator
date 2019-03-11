@@ -5,7 +5,7 @@ On popular websites and apps, it can be really hard to find a username that some
 
 Can you use the following blocks to generate usernames with a random number at the end?
 
-```blocks
+```blocks3
 set [username v] to [0]
 
 join [hello] [world]

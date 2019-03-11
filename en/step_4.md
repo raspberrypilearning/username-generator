@@ -6,7 +6,7 @@ You probably want to consider a few different usernames. Let’s add usernames t
 
 Create a new list called `names I like`:
 
-[[[generic-scratch-make-list]]]
+[[[generic-scratch3-make-list]]]
 
 --- /task ---
 
@@ -30,7 +30,7 @@ Add the `Button4` sprite, which looks like <span style="color: green;">✔</span
 
 Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
 
-```blocks
+```blocks3
 when this sprite clicked
 add (username :: variables) to [names I like v]
 ```

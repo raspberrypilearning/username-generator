@@ -24,7 +24,7 @@ You should see two lists on the stage — `adjectives` and `nouns`:
 
 --- task ---
 
-Click on **Data**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
 
 ![adjectives and nouns variables](images/usernames-hide.png)
 
@@ -34,7 +34,7 @@ Click on **Data**, and then click the boxes next to `adjectives` and `nouns` to 
 
 Add a variable called `username`.
 
-[[[generic-scratch-add-variable]]]
+[[[generic-scratch3-add-variable]]]
 
 --- /task ---
 
@@ -60,7 +60,7 @@ You can also click on **Costumes** and choose the costume you prefer.
 
 Add this code to your person sprite:
 
-```blocks
+```blocks3
 when this sprite clicked
 set [username v] to []
 ```
@@ -69,33 +69,40 @@ set [username v] to []
 
 --- task ---
 
-You need to combine an adjective and a noun, so add a `join`{:class="blockoperators"} block inside your `set`{:class="blockdata"} block.
+You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
 
-```blocks
+```blocks3
 when this sprite clicked
-set [username v] to (join [hello] [world] :: +)
+set [username v] to (join [apple] [banana] :: +)
 ```
 
 --- /task ---
 
 --- task ---
 
-Add a random adjective in the first box in the `join`{:class="blockoperators"} block.
+Add an adjective in the first box in the `join`{:class="block3operators"} block.
 
-```blocks
+```blocks3
 when this sprite clicked
-set [username v] to (join (item (random v) of [adjectives v] :: +) [world])
+set [username v] to (join (item (1) of [adjectives v] :: +) [world])
 ```
 
 --- /task ---
+
+Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+
+```blocks
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [world])
+```
 
 --- task ---
 
 Add a random noun in the second box.
 
-```blocks
+```blocks3
 when this sprite clicked
-set [username v] to (join (item (random v) of [adjectives v]) (item (random v) of [adjectives v] :: +))
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v] :: +) :: +) of [nouns v] :: +))
 ```
 
 --- /task ---
@@ -104,9 +111,9 @@ set [username v] to (join (item (random v) of [adjectives v]) (item (random v) o
 
 Now add code blocks to get your person to say the username.
 
-```blocks
+```blocks3
 when this sprite clicked
-set [username v] to (join (item (random v) of [adjectives v]) (item (random v) of [adjectives v]))
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v])) of [nouns v]))
 + say (username :: variables)
 ```
 
