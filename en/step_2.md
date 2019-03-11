@@ -107,7 +107,7 @@ Now add code blocks to get your person to say the username.
 ```blocks
 when this sprite clicked
 set [username v] to (join (item (random v) of [adjectives v]) (item (random v) of [adjectives v]))
-say (username :: variables)
++ say (username :: variables)
 ```
 
 --- /task ---
