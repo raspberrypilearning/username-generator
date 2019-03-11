@@ -60,6 +60,8 @@ You can also click on **Costumes** and choose the costume you prefer.
 
 Add this code to your person sprite:
 
+![person sprite](images/person-sprite.png)
+
 ```blocks3
 when this sprite clicked
 set [username v] to []
@@ -70,6 +72,8 @@ set [username v] to []
 --- task ---
 
 You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+
+![person sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -82,6 +86,8 @@ set [username v] to (join [apple] [banana] :: +)
 
 Add an adjective in the first box in the `join`{:class="block3operators"} block.
 
+![person sprite](images/person-sprite.png)
+
 ```blocks3
 when this sprite clicked
 set [username v] to (join (item (1) of [adjectives v] :: +) [world])
@@ -89,16 +95,24 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [world])
 
 --- /task ---
 
+--- task ---
+
 Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
 
-```blocks
+![person sprite](images/person-sprite.png)
+
+```blocks3
 when this sprite clicked
 set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [world])
 ```
 
+--- /task ---
+
 --- task ---
 
 Add a random noun in the second box.
+
+![person sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -110,6 +124,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 --- task ---
 
 Now add code blocks to get your person to say the username.
+
+![person sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked

@@ -30,6 +30,8 @@ Add the `Button4` sprite, which looks like <span style="color: green;">✔</span
 
 Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
 
+![button sprite](images/button-sprite.png)
+
 ```blocks3
 when this sprite clicked
 add (username :: variables) to [names I like v]
