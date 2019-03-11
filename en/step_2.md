@@ -90,7 +90,7 @@ Add an adjective in the first box in the `join`{:class="block3operators"} block.
 
 ```blocks3
 when this sprite clicked
-set [username v] to (join (item (1) of [adjectives v] :: +) [world])
+set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 ```
 
 --- /task ---
@@ -103,7 +103,7 @@ Pick a `random`{:class="block3operators"} adjective between 1 and the `length of
 
 ```blocks3
 when this sprite clicked
-set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [world])
+set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [banana])
 ```
 
 --- /task ---
