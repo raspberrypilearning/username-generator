@@ -24,6 +24,8 @@ Add the `Button4` sprite, which looks like <span style="color: green;">✔</span
 
 ![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
 
+You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+
 --- /task ---
 
 --- task ---

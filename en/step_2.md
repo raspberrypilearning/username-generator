@@ -32,7 +32,7 @@ Click on **Variables**, and then click the boxes next to `adjectives` and `nouns
 
 --- task ---
 
-Add a variable called `username`.
+Add a variable called `username` which should be available **for all sprites**.
 
 [[[generic-scratch3-add-variable]]]
 
