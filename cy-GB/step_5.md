@@ -1,15 +1,23 @@
---- challenge ---
-## Her: Ychwanegu rhif
+\--- challenge \---
 
-Ar rhai gwefannau ac apiau poblogaidd mae'n gallu bod yn anodd i ddod o hyd i enw defnyddiwr nad yw'n cael ei ddefnyddio'n barod. Mae'n bosib y byddi di'n darganfod bod dy enw defnyddiwr yn cael ei ddefnyddio'n barod. Fe alli di ychwanegu rhif i ddiwedd yr enw. Cofia beidio defnyddio dy oedran, dyddiad dy benblwydd neu dy flwyddyn geni.
+## Challenge: add a number
 
-Wyt ti'n gallu defnyddio'r blociau yma i gynhyrchu enwau defnyddiwr gyda rhif ar hap ar eu diwedd?
+On popular websites and apps, it can be really hard to find a username that someone else isn’t already using. Or you might find that the username you use on one site is already taken on other sites. To get around that, you could add a number to the end of your username. **Remember not to use your age, birth date, or birth year.**
 
-![screenshot](images/usernames-number.png)
+Can you use the following blocks to generate usernames with a random number at the end?
 
-Fe ddylai dy enw defnyddiwr gael rhif ar y diwedd:
+```blocks3
+set [username v] to [0]
+
+join [hello] [world]
+
+username :: variables
+
+pick random (20) to (99)
+```
+
+New usernames you generate should now have numbers at the end:
 
 ![screenshot](images/usernames-with-numbers.png)
 
-
---- /challenge ---
+\--- /challenge \---

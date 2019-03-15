@@ -1,20 +1,22 @@
---- challenge ---
-## Her: Ychwanegu mwy o amrywiaeth
-Alli di ychwanegu mwy o eitemau i'r rhestr o ansoddeiriau ac enwau?
+\--- challenge \---
 
-Dewisa'r rhestrau i'w dangos nhw ar y llwyfan.  Yna clicia __+__ i ychwanegu eitem newydd i'r rhestr. Paid anghofio cychwyn pob gair newydd gyda phrif lythyren.
+## Challenge: add more variety
+
+Can you add more items to the lists of adjectives and nouns?
+
+Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
 
 ![screenshot](images/usernames-add.png)
 
-Mae anifeiliaid a chreaduriaid go iawn a dychmygol yn gweithio'n dda ar gyfer enwau. Ceisia feddwl am rai anghyffredin.
+Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
 
-Dyma rai syniadau ar gyfer ansoddeiriau:
+Here are some ideas for the `adjectives` list:
 
-+ Metalau: Sinc, Copor, Haearn, Efydd, Arian, Aur
-+ Lliwiau: Rhuddgoch, Glaswyrdd, Euraidd, Indigo
-+ Perlau: Emrald, Saffir, Deimwnt
-+ Cynefinoedd: Lleuad, Anialwch, Eira, Jwngwl, Coedwig, Gofod
++ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
++ Colours: Crimson, Aqua, Magenta, Golden, Indigo
++ Gemstones: Quartz, Emerald, Sapphire, Diamond
++ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
 
-Cofia guddio dy restrau o'r llwyfan pan wyt ti'n profi'r prosiect.
+Remember to hide the lists from the stage when testing your project.
 
---- /challenge ---
+\--- /challenge \---

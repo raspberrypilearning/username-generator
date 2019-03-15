@@ -1,29 +1,60 @@
-## Arbed dy hoff Enw Defnyddiwr
+## Saving your favourite usernames
 
-Rwyt ti siwr o fod eisiau ystyried enwau defnyddiwr gwahanol. Fe awn ati i ychwanegu enwau defnyddiwr rwyt ti'n eu hoffi i restr.
+You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
 
-+ Bydd angen creu rhestr newydd o'r enw 'Hoff enwau':
+\--- task \---
 
-	![screenshot](images/usernames-like.png)
+Create a new list called `names I like`:
 
-+ Bydd y rhestr yn ymddangos ar y llwyfan. Llusga'r rhestr i'r dde o dy berson i'w wneud yn fwy llydan:
+[[[generic-scratch3-make-list]]]
 
-	![screenshot](images/usernames-like-stage.png)
+\--- /task \---
 
-+ Ychwanega ciplun tic a'i lusgo ar y llwyfan i'r dde o'r person:
+\--- task \---
 
-	![screenshot](images/usernames-tick.png)
+The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
 
-+ Ychwanega gôd i giplun y tic i ychwanegu'r enw defnyddiwr cyfredol i 'hoff enwau' pan yn clicio'r tic:
+![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
 
-	![screenshot](images/usernames-add-like.png)
+\--- /task \---
 
-+ Profa dy gôd trwy glicio ar y person tan dy fod yn dod o hyd i enw defnyddiwr rwyt ti'n ei hoffi ac yna clicio'r tic:
+\--- task \---
 
-	![screenshot](images/usernames-like-list.png)
+Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
 
-+ Mae modd i ti allforio dy restr o enwau posib i ffeil testun. Gwna clic-dde ar y rhestr 'hoff enwau' ar y Llwyfan a dewis 'Allforio' a dewis lle i'w arbed (gofyna i arweinydd dy glwb os nad wyt ti'n siwr lle i'w arbed.)
+![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
 
-	![screenshot](images/usernames-export.png)
-	
-	Mae gen ti nawr ffeil testun yn cynnwys rhestr o enwau mae modd i ti ei agor gyda Notepad neu olygydd testun arall. 
+You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+
+\--- /task \---
+
+\--- task \---
+
+Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+
+![button sprite](images/button-sprite.png)
+
+```blocks3
+when this sprite clicked
+add (username :: variables) to [names I like v]
+```
+
+\--- /task \---
+
+\--- task \---
+
+Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+
+![names i like list populated](images/usernames-like-list.png)
+
+\--- /task \---
+
+\--- task \---
+
+You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+
+![list menu with export option highlighted](images/usernames-export.png)
+
+You now have a text file containing a list of names that you can open with Notepad or another text editor.
+
+\--- /task \---
