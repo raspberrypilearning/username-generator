@@ -1,55 +1,144 @@
-## Cynhyrchu Enwau Defnyddiwr
+## Generating usernames
 
-Mae llawer o wefannau ac apiau yn defnyddio enwau defnyddwyr i dy adnabod di. Mae'r enw defnyddiwr yma yn aml yn weledol i bobl eraill.
+There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
 
-Mae'n bwysig nad yw dy enw defnyddiwr yn defnyddio dy enw go iawn nac yn cynnwys unrhyw wybodaeth bersonol fel oedran, blwyddyn geni neu lle wyt ti'n byw.  Bydd pobl eraill yn gweld dy enw defnyddiol felly gwna'n siwr ei fod yn gwrtais ac ystyria beth fydd pobl yn meddwl amdano ti pan maent yn ei ddarllen. Cofia y mae'n bosib y gwnei di ddefnyddio dy enw defnyddiwr am gyfnod hir, a fyddi di dal yn ei hoffi mewn tair mlynedd?
+It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
 
-Fel rwyt ti'n gweld, mae'n bwysig dewis dy enw defnyddiwr yn ofalus.  Fe wnawn ni greu prosiect Scratch i gynhyrchu enwau defnyddiwr _EnwAnsoddair_ fel __IgwanaAur__.
+As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
 
-+ Agora prosiect Scratch 'Cynhyrchu Enw Defnyddiwr'. Bydd arweinydd y clwb yn darparu copi o'r prosiect, neu mae modd ei agor arlein yma <a href="https://scratch.mit.edu/projects/214080011/" target="_blank">jumpto.cc/username-go</a>.
+\--- task \---
 
-+ Fe ddylet weld dwy restr ar y llwyfan: `ansoddair` ac `enwau`:
+Open the Scratch starter project.
 
-	![screenshot](images/usernames-lists.png)
+**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
 
-+ Clicia Data a dad-glicia'r bocs drws nesaf i `ansoddair` ac `enwau` i'w cuddio.
+**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-	![screenshot](images/usernames-hide.png)
-	
-+ Ychwanega newidyn `enw defnyddiwr`:
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-	![screenshot](images/usernames-variable.png)
-	
-+ Dad-glicia'r bocs drws nesaf i'r newidyn enw defnyddiwr i'w guddio o'r llwyfan:
+You should see two lists on the stage — `adjectives` and `nouns`:
 
-	![screenshot](images/usernames-hide-variable.png)
+![lists with adjectices and nouns](images/usernames-lists.png)
 
-+ Ychwanega ciplun person, fe alli di ddewis pa un yr hoffet ti.  
+\--- /task \---
 
-	![screenshot](images/usernames-person.png)
-	
-	Fe alli di hefyd glicio Gwisgoedd a dewis y wisg. 
+\--- task \---
 
-+ Ychwanega'r côd yma i giplun y person: 
+Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
 
-	![screenshot](images/usernames-clicked.png)
-	
-+ Mae angen i ti gyfuno enw ac ansoddair. Ychwanegu bloc `uno`{:class="blockoperators"} tu fewn i dy floc gosod:
+![adjectives and nouns variables](images/usernames-hide.png)
 
-	![screenshot](images/usernames-join.png)
-	
-+ Ychwanega enw ar hap yn y blwch uno cyntaf: 
+\--- /task \---
 
-	![screenshot](images/usernames-adjective.png)
-	
-+ Ychwanega ansoddair ar hap yn yr ail flwch: 
+\--- task \---
 
-	![screenshot](images/usernames-noun.png)
-	
-+ Nawr ychwanega'r côd yma fel bod dy berson yn dweud yr enw defnyddiwr:
+Add a variable called `username` which should be available **for all sprites**.
 
-	![screenshot](images/usernames-say.png)
+[[[generic-scratch3-add-variable]]]
 
-+ Profa dy gôd trwy glicio ar y person.  Fe ddylet gael enw ar hap bob tro.
+\--- /task \---
 
-	![screenshot](images/usernames-click.png)
+\--- task \---
+
+Click the box next to `username` to uncheck it and hide the variable from the stage.
+
+![username variable](images/usernames-hide-variable.png)
+
+\--- /task \---
+
+\--- task \---
+
+Add a person sprite — you can choose your favourite one.
+
+![a person sprite](images/usernames-person.png)
+
+You can also click on **Costumes** and choose the costume you prefer.
+
+\--- /task \---
+
+\--- task \---
+
+Add this code to your person sprite:
+
+![person sprite](images/person-sprite.png)
+
+```blocks3
+when this sprite clicked
+set [username v] to []
+```
+
+\--- /task \---
+
+\--- task \---
+
+You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+
+![person sprite](images/person-sprite.png)
+
+```blocks3
+when this sprite clicked
+set [username v] to (join [apple] [banana] :: +)
+```
+
+\--- /task \---
+
+\--- task \---
+
+Add an adjective in the first box in the `join`{:class="block3operators"} block.
+
+![person sprite](images/person-sprite.png)
+
+```blocks3
+when this sprite clicked
+set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
+```
+
+\--- /task \---
+
+\--- task \---
+
+Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+
+![person sprite](images/person-sprite.png)
+
+```blocks3
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [banana])
+```
+
+\--- /task \---
+
+\--- task \---
+
+Add a random noun in the second box.
+
+![person sprite](images/person-sprite.png)
+
+```blocks3
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v] :: +) :: +) of [nouns v] :: +))
+```
+
+\--- /task \---
+
+\--- task \---
+
+Now add code blocks to get your person to say the username.
+
+![person sprite](images/person-sprite.png)
+
+```blocks3
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v])) of [nouns v]))
++ say (username :: variables)
+```
+
+\--- /task \---
+
+\--- task \---
+
+Test your code by clicking on the person sprite. You should get a new random username each time.
+
+![person sprite saying Arctic Kestrel](images/usernames-click.png)
+
+\--- /task \---
