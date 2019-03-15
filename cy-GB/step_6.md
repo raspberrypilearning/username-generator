@@ -1,24 +1,13 @@
---- challenge ---
-## Her: Creu dy lun proffil 
+\--- challenge \---
 
-Wyt ti'n gallu defnyddio'r teclyn paentio ciplun yn Scratch i greu dy lun proffil i gyd-fynd gyda dy enw defnyddiwr?
+## Challenge: create your profile picture
 
-![screenshot](images/usernames-paint.png)
+Can you use the paint tool in Scratch to create your own profile picture to go with a username?
 
-Os wyt ti eisiau ceisio tynnu llun yn defnyddio siapau mae modd symud o gwmpas, yna trosa i fector trwy glicio'r botwm ar waelod dde y sgrin:
+Here's an example:
 
-![screenshot](images/usernames-vector.png)
+![example of a profile picture](images/usernames-picture.png)
 
-Dyma enghraifft:
+Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
 
-![screenshot](images/usernames-picture.png)
-
-Fe alli di hefyd arbed dy lun fel dy fod yn gallu ei ddefnyddio ar wefannau ac apiau yn lle llun proffil. Gwna clic-dde ar y wisg i'w arbed i ffeil lleol:
-
-![screenshot](images/usernames-save-costume.png)
-
-Bydd lluniau wedi cael eu creu mewn modd didfap yn arbed fel ffeiliau '.png'. Bydd lluniau fector yn arbed fel ffeiliau 'svg'.
-
-Mae ffeiliau '.png' yn cael eu defnyddio yn fwy aml, mae modd newid i fodd didfap i gael ffeil '.png' (bydd dad-wneud yn mynd a ti nol i fodd fector).
-
---- /challenge ---
+\--- /challenge \---
