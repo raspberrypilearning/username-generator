@@ -18,5 +18,3 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 ![complete project](images/skiing-final.png)
 
 --- /print-only ---
-
---- collapse ---
