@@ -8,6 +8,10 @@ steps:
 - title: Introduction
 - title: Generating usernames
 - title: "Challenge: add more variety"
+  challenge: true
 - title: Saving your favourite usernames
 - title: "Challenge: add a number"
+  challenge: true
 - title: "Challenge: create your profile picture"
+  challenge: true
+- title: 'What next?'

@@ -1,4 +1,3 @@
---- challenge ---
 ## Challenge: add more variety
 Can you add more items to the lists of adjectives and nouns?
 
@@ -16,5 +15,3 @@ Here are some ideas for the `adjectives` list:
 + Habitats: Moon, Desert, Snow, Jungle, Forest, Space
 
 Remember to hide the lists from the stage when testing your project.
-
---- /challenge ---
