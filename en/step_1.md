@@ -31,7 +31,6 @@ To try out the finished project:
 --- /print-only ---
 
 --- collapse ---
-
 ---
 title: What you will need
 ---
@@ -51,7 +50,6 @@ The starter project can be found [here](http://rpf.io/p/en/username-generator-go
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: What you will learn
 ---
