@@ -1,4 +1,4 @@
-## Generating usernames
+## Cynhyrchu Enwau Defnyddiwr
 
 There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
 
@@ -11,6 +11,8 @@ As you can see, it’s important to choose your username carefully. Let's create
 Open the Scratch starter project.
 
 **Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+
+If you have a Scratch account you can make a copy by clicking **Remix**.
 
 **Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
