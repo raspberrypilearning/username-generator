@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduction
+## Cyflwyniad
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### What you will make
+### Yr hyn byddi di'n ei greu
 
 \--- no-print \---
 
@@ -30,17 +30,15 @@ To try out the finished project:
 
 \--- /print-only \---
 
-\--- collapse \---
-
-* * *
+## \--- collapse \---
 
 ## title: What you will need
 
-### Hardware
+### Caledwedd
 
-- A computer capable of running Scratch
+- Cyfrifiadur sy'n gallu rhedeg Scratch
 
-### Software
+### Meddalwedd
 
 - Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
@@ -50,9 +48,7 @@ The starter project can be found [here](http://rpf.io/p/en/username-generator-go
 
 \--- /collapse \---
 
-\--- collapse \---
-
-* * *
+## \---collapse\---
 
 ## title: What you will learn
 
@@ -72,6 +68,6 @@ If you need to print this project, please use the [printer-friendly version](htt
 
 \--- /no-print \---
 
-You can [find the solution for this project here](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+You can find the [completed project here](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
