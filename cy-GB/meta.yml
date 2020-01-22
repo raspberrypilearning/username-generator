@@ -3,8 +3,8 @@ hero_image: images/banner.png
 listed: true
 title: Creu Enw Defnyddiwr
 description: Cynhyrcha enwau defnyddiwr gwych i'w defnyddio arlein
-version: 3
-last_tested: 2017-01-01
+version: 4
+last_tested: 2018-03-11
 steps:
   - 
     title: Cyflwyniad
@@ -12,9 +12,14 @@ steps:
     title: Cynhyrchu Enwau Defnyddiwr
   - 
     title: "Her: Ychwanegu mwy o amrywiaeth"
+    challenge: true
   - 
     title: Arbed dy hoff Enw Defnyddiwr
   - 
     title: "Her: Ychwanegu rhif"
+    challenge: true
   - 
     title: "Her: Creu dy lun proffil"
+    challenge: true
+  - 
+    title: 'What next?'
