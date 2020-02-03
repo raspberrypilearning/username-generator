@@ -1,25 +1,25 @@
 ---
 hero_image: images/banner.png
 listed: true
-title: Creu Enw Defnyddiwr
-description: Cynhyrcha enwau defnyddiwr gwych i'w defnyddio arlein
+title: Username generator
+description: Generate awesome usernames that you can use online
 version: 4
 last_tested: 2018-03-11
 steps:
   - 
-    title: Cyflwyniad
+    title: Introduction
   - 
-    title: Cynhyrchu Enwau Defnyddiwr
+    title: Generating usernames
   - 
-    title: "Her: Ychwanegu mwy o amrywiaeth"
+    title: "Challenge: add more variety"
     challenge: true
   - 
-    title: Arbed dy hoff Enw Defnyddiwr
+    title: Saving your favourite usernames
   - 
-    title: "Her: Ychwanegu rhif"
+    title: "Challenge: add a number"
     challenge: true
   - 
-    title: "Her: Creu dy lun proffil"
+    title: "Challenge: create your profile picture"
     challenge: true
   - 
     title: 'What next?'
