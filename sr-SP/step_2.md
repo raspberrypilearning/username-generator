@@ -10,7 +10,7 @@ As you can see, it’s important to choose your username carefully. Let's create
 
 Open the Scratch starter project.
 
-**На мрежи**: отвори почетни пројекат на [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
 
 If you have a Scratch account you can make a copy by clicking **Remix**.
 
