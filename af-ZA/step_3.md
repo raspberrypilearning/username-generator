@@ -1,4 +1,4 @@
-## Uitdaging: voeg meer verskeidenheid by
+## Challenge: add more variety
 
 Can you add more items to the lists of adjectives and nouns?
 
@@ -10,9 +10,9 @@ Real and imaginary animals and creatures work well in the `nouns` list. Try to t
 
 Here are some ideas for the `adjectives` list:
 
-+ Metale: sink, koper, yster, messing, silwer, goud
-+ Kleure: Crimson, Aqua, Magenta, Golden, Indigo
-+ Edelstene: Kwarts, Smaragd, Sapphire, Diamant
-+ Habitats: Maan, Woestyn, Sneeu, Jungle, Bos, Ruimte
++ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
++ Colours: Crimson, Aqua, Magenta, Golden, Indigo
++ Gemstones: Quartz, Emerald, Sapphire, Diamond
++ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
 
 Remember to hide the lists from the stage when testing your project.
