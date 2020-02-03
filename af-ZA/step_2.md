@@ -1,16 +1,16 @@
-## Genereer gebruikersname
+## Generating usernames
 
-Daar is baie webwerwe en programme wat 'n gebruikersnaam gebruik om jou te identifiseer. Hierdie gebruikersnaam is dikwels vir ander sigbaar. Gebruikers name kan ook skerm name, gamer tags of handvatsels genoem word.
+There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
 
-Dit is belangrik dat u gebruikersnaam nie u regte naam is nie en ook geen persoonlike inligting bevat nie, soos u ouderdom, geboortejaar of waar u woon. Ander mense sal jou gebruikersnaam sien, so maak seker dit is beleefd en oorweeg wat mense oor jou sal dink wanneer hulle dit lees. Onthou dat jy vir 'n lang tyd jou gebruikersnaam kan gebruik - sal jy dit nog oor drie jaar hou?
+It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
 
-Soos u kan sien, is dit belangrik om u gebruikersnaam noukeurig te kies. Kom ons skep 'n Scratch-projek om 'AdjectiveNoun' gebruikers name soos 'DiamondIguana' te genereer.
+As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
 
-\--- taak \---
+\--- task \---
 
-Maak die Scratch-aanvangsprojek oop.
+Open the Scratch starter project.
 
-**Aanlyn**: maak die aanvangsprojek by [rpf.io/usernameon](http://rpf.io/usernameon){: target = "_ blank"} oop.
+**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
 
 If you have a Scratch account you can make a copy by clicking **Remix**.
 
@@ -65,8 +65,8 @@ Add this code to your person sprite:
 ![person sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite gekliek het
-stel [gebruikersnaam v] na []
+when this sprite clicked
+set [username v] to []
 ```
 
 \--- /task \---
@@ -78,8 +78,8 @@ You need to combine an adjective and a noun, so add a `join`{:class="block3opera
 ![person sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite geklik het
-stel [gebruikersnaam v] aan (sluit [apple] [banana] :: +) in
+when this sprite clicked
+set [username v] to (join [apple] [banana] :: +)
 ```
 
 \--- /task \---
@@ -91,8 +91,8 @@ Add an adjective in the first box in the `join`{:class="block3operators"} block.
 ![person sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite gekliek het
-stel [gebruikersnaam v] na (voeg (item (1) van [byvoeglike naamwoorde v] :: +) [banana])
+when this sprite clicked
+set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 ```
 
 \--- /task \---
@@ -104,8 +104,8 @@ Pick a `random`{:class="block3operators"} adjective between 1 and the `length of
 ![person sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite gekliek het
-stel [gebruikersnaam v] aan (sluit aan (item (kies ewekansige (1) na (lengte van [byvoeglike naamwoorde v] :: +) :: +) van [byvoeglike naamwoorde v]) [banana])
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [banana])
 ```
 
 \--- /task \---
@@ -117,8 +117,8 @@ Add a random noun in the second box.
 ![person sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite geklik het
-stel [gebruikersnaam v] aan (sluit aan (item (kies ewekansige (1) tot (lengte van [byvoeglike naamwoorde v])) van [byvoeglike naamwoorde v]) (item (kies ewekansig (1) na (lengte van [ selfstandige naamwoorde v] :: +) :: +) van [nouns v] :: +))
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v] :: +) :: +) of [nouns v] :: +))
 ```
 
 \--- /task \---
@@ -130,9 +130,9 @@ Now add code blocks to get your person to say the username.
 ![person sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite geklik het
-stel [gebruikersnaam v] aan (sluit aan (item (kies ewekansige (1) tot (lengte van [byvoeglike naamwoorde v])) van [byvoeglike naamwoorde v]) (item (kies ewekansig (1) na (lengte van [ selfstandige naamwoorde v])) van [selfstandige naamwoorde v]))
-+ sê (gebruikersnaam :: veranderlikes)
+when this sprite clicked
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v])) of [nouns v]))
++ say (username :: variables)
 ```
 
 \--- /task \---
