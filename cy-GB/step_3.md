@@ -1,4 +1,4 @@
-## Her: Ychwanegu mwy o amrywiaeth
+## Challenge: add more variety
 
 Can you add more items to the lists of adjectives and nouns?
 
