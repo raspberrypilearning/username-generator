@@ -6,7 +6,7 @@ It’s important that your username isn’t your real name and also doesn’t in
 
 As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
 
-\--- uppgift \---
+\--- task \---
 
 Open the Scratch starter project.
 
