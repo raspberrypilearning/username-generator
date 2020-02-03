@@ -2,7 +2,7 @@
 
 You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
 
-\--- proba\---
+\--- task \---
 
 Create a new list called `names I like`:
 
