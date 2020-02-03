@@ -8,7 +8,7 @@ Create a new list called `names I like`:
 
 [[[generic-scratch3-make-list]]]
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -16,7 +16,7 @@ The list will appear on the stage. Drag it to the right of your person sprite an
 
 ![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -26,7 +26,7 @@ Add the `Button4` sprite, which looks like <span style="color: green;">✔</span
 
 You may need to move the `names I like` list if the `Button4` sprite is underneath it.
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -39,7 +39,7 @@ when this sprite clicked
 add (username :: variables) to [names I like v]
 ```
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -47,7 +47,7 @@ Test your code by clicking on the person sprite until you find a username you li
 
 ![names i like list populated](images/usernames-like-list.png)
 
-\--- /görev \---
+\--- /task \---
 
 \--- task \---
 
@@ -57,4 +57,4 @@ You can export your list of usernames to a text file to save them. Right-click o
 
 You now have a text file containing a list of names that you can open with Notepad or another text editor.
 
-\--- /görev \---
+\--- /task \---
