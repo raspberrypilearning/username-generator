@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## المقدمة
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### ما الذي ستصنعه
+### What you will make
 
 \--- no-print \---
 
@@ -34,13 +34,13 @@ To try out the finished project:
 
 ## title: What you will need
 
-### الأجهزة
+### Hardware
 
-- جهاز كمبيوتر يدعم تشغيل برنامج Scratch
+- A computer capable of running Scratch
 
-### البرامج
+### Software
 
-- برنامج Scratch 3 (سواء أكان [عبر الإنترنت](http://rpf.io/scratchon){:target="_blank"} أو [دون اتصال بالإنترنت](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
