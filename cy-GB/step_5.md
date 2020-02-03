@@ -1,4 +1,4 @@
-## Her: Ychwanegu rhif
+## Challenge: add a number
 
 On popular websites and apps, it can be really hard to find a username that someone else isn’t already using. Or you might find that the username you use on one site is already taken on other sites. To get around that, you could add a number to the end of your username. **Remember not to use your age, birth date, or birth year.**
 
