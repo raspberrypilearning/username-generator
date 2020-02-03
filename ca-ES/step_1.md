@@ -2,13 +2,13 @@
 
 This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
-\--- / no-print \---
+\--- /no-print \---
 
-## Introducció
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Què faràs
+### What you will make
 
 \--- no-print \---
 
@@ -22,27 +22,27 @@ To try out the finished project:
   <img src="images/usernames-final.png">
 </div>
 
-\--- / no-print \---
+\--- /no-print \---
 
-\--- només imprimir \---
+\--- print-only \---
 
 ![complete project](images/usernames-final.png)
 
-\--- / print-only \---
+\--- /print-only \---
 
 ## \--- collapse \---
 
 ## title: What you will need
 
-### Maquinari
+### Hardware
 
-- Un ordinador capaç d'executar Scratch
+- A computer capable of running Scratch
 
-### Programari
+### Software
 
-- Scratch 3 (tant [en línia](http://rpf.io/scratchon){: target = "_ blank"} o [fora de línia](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Baixades
+### Downloads
 
 The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
@@ -56,7 +56,7 @@ The starter project can be found [here](http://rpf.io/p/en/username-generator-go
 - Use the paint tool to create images
 - How to exporting text files and images from Scratch
 
-\--- / collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
