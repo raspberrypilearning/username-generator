@@ -1,16 +1,16 @@
-\--- không in \---
+\--- no-print \---
 
 This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
-\--- / không in \---
+\--- /no-print \---
 
-## Giới thiệu
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Những gì bạn sẽ làm
+### What you will make
 
-\--- không in \---
+\--- no-print \---
 
 To try out the finished project:
 
@@ -22,7 +22,7 @@ To try out the finished project:
   <img src="images/usernames-final.png">
 </div>
 
-\--- / không in \---
+\--- /no-print \---
 
 \--- print-only \---
 
@@ -34,13 +34,13 @@ To try out the finished project:
 
 ## title: What you will need
 
-### Phần cứng
+### Hardware
 
-- Một máy tính có khả năng chạy Scratch
+- A computer capable of running Scratch
 
-### Phần mềm
+### Software
 
-- Cào 3 ( [trực tuyến](http://rpf.io/scratchon){: target = "_ blank"} hoặc [ngoại tuyến](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
