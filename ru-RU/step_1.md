@@ -2,13 +2,13 @@
 
 This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
-\--- /без печати \---
+\--- /no-print \---
 
-## Введение
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Что тебе нужно будет сделать
+### What you will make
 
 \--- no-print \---
 
@@ -34,13 +34,13 @@ To try out the finished project:
 
 ## title: What you will need
 
-### Оборудование
+### Hardware
 
-- Компьютер, способный запускать Scratch
+- A computer capable of running Scratch
 
-### Программное обеспечение
+### Software
 
-- Scratch 3 (либо [онлайн-редактор](http://rpf.io/scratchon){:target="_blank"}, либо [автономный редактор (без подключения к Интернету)](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
