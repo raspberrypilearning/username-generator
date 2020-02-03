@@ -1,4 +1,4 @@
-## Cynhyrchu Enwau Defnyddiwr
+## Generating usernames
 
 There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
 
