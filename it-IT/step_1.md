@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduzione
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Che cosa creerai
+### What you will make
 
 \--- no-print \---
 
@@ -36,11 +36,11 @@ To try out the finished project:
 
 ### Hardware
 
-- Un computer in grado di eseguire Scratch
+- A computer capable of running Scratch
 
 ### Software
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} o [offline](http://rpf.io/scratchoff){:target="_blank"}"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -56,7 +56,7 @@ The starter project can be found [here](http://rpf.io/p/en/username-generator-go
 - Use the paint tool to create images
 - How to exporting text files and images from Scratch
 
-\--- / chiudi \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
