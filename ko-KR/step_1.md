@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## 들어가며
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### 만들 작품
+### What you will make
 
 \--- no-print \---
 
@@ -34,13 +34,13 @@ To try out the finished project:
 
 ## title: What you will need
 
-### 하드웨어
+### Hardware
 
 - A computer capable of running Scratch
 
-### 소프트웨어
+### Software
 
-- 스크래치 3 ( [온라인](http://rpf.io/scratchon){:target="_ blank"} 또는 [offline](http://rpf.io/scratchoff){:target="_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
