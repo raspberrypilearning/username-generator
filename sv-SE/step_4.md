@@ -2,7 +2,7 @@
 
 You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
 
-\--- uppgift \---
+\--- task \---
 
 Create a new list called `names I like`:
 
@@ -10,7 +10,7 @@ Create a new list called `names I like`:
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
 
@@ -18,7 +18,7 @@ The list will appear on the stage. Drag it to the right of your person sprite an
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
 
@@ -28,7 +28,7 @@ You may need to move the `names I like` list if the `Button4` sprite is undernea
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
 
@@ -41,7 +41,7 @@ add (username :: variables) to [names I like v]
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
 
@@ -49,7 +49,7 @@ Test your code by clicking on the person sprite until you find a username you li
 
 \--- /task \---
 
-\--- uppgift \---
+\--- task \---
 
 You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
 
