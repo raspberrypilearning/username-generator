@@ -1,4 +1,4 @@
-## Uitdaging: maak jou profielfoto
+## Challenge: create your profile picture
 
 Can you use the paint tool in Scratch to create your own profile picture to go with a username?
 
