@@ -4,11 +4,11 @@ This is the **Scratch 3** version of the project. There is also a [Scratch 2 ver
 
 \--- /no-print \---
 
-## Introduktion
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Hvad du vil lave
+### What you will make
 
 \--- no-print \---
 
@@ -36,7 +36,7 @@ To try out the finished project:
 
 ### Hardware
 
-- En computer, der er i stand til at køre Scratch
+- A computer capable of running Scratch
 
 ### Software
 
