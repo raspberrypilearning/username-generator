@@ -1,34 +1,34 @@
-\--- geen druk \---
+\--- no-print \---
 
-Dit is die **Scratch 3** weergawe van die projek. Daar is ook 'n [Scratch 2 weergawe van die projek](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
-\--- / geen druk \---
+\--- /no-print \---
 
-## inleiding
+## Introduction
 
-Dit is belangrik om nie u regte naam of enige persoonlike inligting in u aanlyngebruikernaam te gebruik nie. In hierdie projek genereer jy leuke gebruikers name wat jy kan gebruik op webwerwe soos Scratch.
+It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Wat jy sal maak
+### What you will make
 
-\--- geen druk \---
+\--- no-print \---
 
-Om die finale projek uit te probeer:
+To try out the finished project:
 
-- Klik op die meisiesprit om 'n nuwe gebruikersnaam te genereer
-- Klik op die <span style="color: green;">✔</span> om 'n gebruikersnaam by te voeg wat jy van die lys hou
+- Click the girl sprite to generate a new username
+- Click the <span style="color: green;">✔</span> to add a username you like to the list
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/292974184/?autostart=false" frameborder="0" scrolling="no"></iframe>
   <img src="images/usernames-final.png">
 </div>
 
-\--- / geen druk \---
+\--- /no-print \---
 
-\--- slegs druk \---
+\--- print-only \---
 
-![voltooi projek](images/usernames-final.png)
+![complete project](images/usernames-final.png)
 
-\--- / slegs druk \---
+\--- /print-only \---
 
 ## \--- collapse \---
 
@@ -36,27 +36,27 @@ Om die finale projek uit te probeer:
 
 ### Hardware
 
-- 'N rekenaar wat Scratch kan hardloop
+- A computer capable of running Scratch
 
-### sagteware
+### Software
 
-- Scratch 3 (óf [aanlyn](http://rpf.io/scratchon){: target = "_ blank"} of [offline](http://rpf.io/scratchoff){: target = "_ blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### downloads
+### Downloads
 
 The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
-## \--- inval \---
+## \--- collapse \---
 
 ## title: What you will learn
 
-- Gebruik lyste in Scratch
-- Gebruik die verf instrument om beelde te skep
-- Hoe om tekslêers en prente vanaf Scratch uit te voer
+- Use lists in Scratch
+- Use the paint tool to create images
+- How to exporting text files and images from Scratch
 
-\--- /inval \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
