@@ -32,7 +32,7 @@ You may need to move the `names I like` list if the `Button4` sprite is undernea
 
 Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
 
-![obrázek tlačítka](images/button-sprite.png)
+![button sprite](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
