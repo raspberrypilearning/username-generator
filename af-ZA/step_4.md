@@ -1,60 +1,60 @@
-## Stoor jou gunsteling gebruikersname
+## Saving your favourite usernames
 
-Jy sal waarskynlik 'n paar verskillende gebruikers name wil oorweeg. Kom ons voeg gebruikers name by wat jy graag na 'n lys wil.
+You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
 
-\--- taak \---
+\--- task \---
 
-Skep 'n nuwe lys genaamd `name. Ek hou van`:
+Create a new list called `names I like`:
 
 [[[generic-scratch3-make-list]]]
 
-\--- / taak \---
+\--- /task \---
 
-\--- taak \---
+\--- task \---
 
-Die lys sal op die verhoog verskyn. Sleep dit regs van jou persoon se sprite en maak dit wyer.
+The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
 
-![Name Ek hou van lys met die grootte in die onderste linker gemerk](images/usernames-like-stage.png)
+![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
 
-\--- / taak \---
+\--- /task \---
 
-\--- taak \---
+\--- task \---
 
-Voeg die `Button4` sprite, wat lyk soos <span style="color: green;">✔</span>, en sleep dit oor die verhoog regs van die spraakborrel.
+Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
 
-![groen tiksprite op die verhoog langs die name wat ek graag lys](images/usernames-tick.png)
+![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
 
-Jy mag dalk die `name skuif wat ek` lys wil hê as die `Button4` sprite daaronder is.
+You may need to move the `names I like` list if the `Button4` sprite is underneath it.
 
-\--- / taak \---
+\--- /task \---
 
-\--- taak \---
+\--- task \---
 
-Voeg kode by die knoppie sprite sodat wanneer dit geklik word, die huidige gebruikersnaam by `name gevoeg word. Ek hou van`.
+Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
 
-![knoppie sprite](images/button-sprite.png)
+![button sprite](images/button-sprite.png)
 
 ```blocks3
-wanneer hierdie sprite geklik het
-voeg (gebruikersnaam :: veranderlikes) by [name ek hou van v]
+when this sprite clicked
+add (username :: variables) to [names I like v]
 ```
 
-\--- / taak \---
+\--- /task \---
 
-\--- taak \---
+\--- task \---
 
-Toets jou kode deur op die persoon se sprite te klik totdat jy 'n gebruikersnaam vind wat jy wil en dan op die <span style="color: green;">✔</span>klik.
+Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
 
-![Name Ek hou van lys bevolkte](images/usernames-like-list.png)
+![names i like list populated](images/usernames-like-list.png)
 
-\--- / taak \---
+\--- /task \---
 
-\--- taak \---
+\--- task \---
 
-U kan u lys gebruikers name na 'n tekslêer uitvoer om dit te stoor. Regskliek op die `name Ek hou van` lys op die verhoog, klik **Uitvoer**, en kies 'n plek om die lys as 'n lêer te stoor.
+You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
 
-![lys kieslys met uitvoer opsie uitgelig](images/usernames-export.png)
+![list menu with export option highlighted](images/usernames-export.png)
 
-U het nou 'n tekslêer met 'n lys name wat u kan oopmaak met Notepad of 'n ander teksredakteur.
+You now have a text file containing a list of names that you can open with Notepad or another text editor.
 
-\--- / taak \---
+\--- /task \---
