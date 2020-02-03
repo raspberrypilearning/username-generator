@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van dit project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
 \--- /no-print \---
 
-## Inleiding
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Wat ga je maken
+### What you will make
 
 \--- no-print \---
 
@@ -26,7 +26,7 @@ To try out the finished project:
 
 \--- print-only \---
 
-![voltooid project](images/usernames-final.png)
+![complete project](images/usernames-final.png)
 
 \--- /print-only \---
 
@@ -40,7 +40,7 @@ To try out the finished project:
 
 ### Software
 
-- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
