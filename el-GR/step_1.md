@@ -1,14 +1,14 @@
 \--- no-print \---
 
-Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης η [έκδοση Scratch 2 του έργου](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
 \--- /no-print \---
 
-## Εισαγωγή
+## Introduction
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
-### Τι θα φτιάξεις
+### What you will make
 
 \--- no-print \---
 
@@ -34,15 +34,15 @@ To try out the finished project:
 
 ## title: What you will need
 
-### Υλικό
+### Hardware
 
-- Ένας υπολογιστής ικανός να τρέχει το Scratch
+- A computer capable of running Scratch
 
-### Λογισμικό
+### Software
 
-- Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Λήψεις
+### Downloads
 
 The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
