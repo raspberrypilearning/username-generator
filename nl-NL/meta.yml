@@ -1,13 +1,13 @@
 ---
-hero_image: afbeeldingen / banner.png
+hero_image: images/banner.png
 listed: true
 title: Username generator
 description: Generate awesome usernames that you can use online
 version: 4
-last_tested: 2018/03/11
+last_tested: 2018-03-11
 steps:
   - 
-    title: Inleiding
+    title: Introduction
   - 
     title: Generating usernames
   - 
