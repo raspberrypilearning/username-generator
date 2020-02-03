@@ -8,7 +8,7 @@ Create a new list called `names I like`:
 
 [[[generic-scratch3-make-list]]]
 
-\---/task--
+\--- /task \---
 
 \--- task \---
 
