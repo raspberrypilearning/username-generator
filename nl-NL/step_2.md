@@ -1,40 +1,40 @@
-## Generating usernames
+## Gebruikersnamen genereren
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+Er zijn veel websites en apps die een gebruikersnaam gebruiken om je te identificeren. Deze gebruikersnaam is vaak zichtbaar voor anderen. Gebruikersnamen kunnen ook schermnamen, gamer tags of handles worden genoemd.
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+Het is belangrijk dat je gebruikersnaam niet je echte naam is en ook geen persoonlijke informatie bevat, zoals je leeftijd, geboortejaar of waar je woont. Andere mensen zullen je gebruikersnaam zien, dus zorg ervoor dat deze beschaafd is en overweeg wat mensen over je zullen denken als ze hem lezen. Vergeet niet dat je je gebruikersnaam mogelijk heel lang zult gebruiken - vind je het over drie jaar nog leuk?
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+Zoals je ziet, is het belangrijk om je gebruikersnaam zorgvuldig te kiezen. Laten we een Scratch-project maken om 'BijvoeglijknaamwoordZelfstandignaamwoord' gebruikersnamen zoals 'ArctischIguana' te genereren.
 
 \--- task \---
 
-Open the Scratch starter project.
+Open het Scratch startproject.
 
-**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**Online**: open het startproject via [rpf.io/usernameon](http://rpf.io/usernameon){:target="_ blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Als je een Scratch-account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**Offline**: open het [startproject](http://rpf.io/p/en/username-generator-go){:target="_ blank"} in de offline editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+Je zou twee lijsten op het podium moeten zien - `bijvoeglijke naamwoorden` en `zelfstandige naamwoorden`:
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![lijsten met bijvoeglijke naamwoorden en zelfstandige naamwoorden](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+Klik op **Variabelen** en klik vervolgens op de vakjes naast `bijvoeglijke naamwoorden` en `zelfstandige naamwoorden` om ze uit te vinken en de lijsten te verbergen.
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![bijvoeglijke naamwoorden en zelfstandige naamwoorden](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+Voeg een variabele toe met de naam `gebruikersnaam` die beschikbaar moet zijn **voor alle sprites**.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,105 +42,105 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+Klik op het vakje naast `gebruikersnaam` om het uit te vinken en de variabele op het speelveld te verbergen.
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![gebruikersnaam variabele](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+Voeg een persoon sprite toe - je kunt jouw favoriete kiezen.
 
-![person sprite](images/person-sprite.png)
+![een persoon sprite](images/usernames-person.png)
+
+Je kunt ook klikken op **Uiterlijken** en het gewenste uiterlijk kiezen.
+
+\--- /task \---
+
+\--- task \---
+
+Voeg deze code toe aan je persoonlijke sprite:
+
+![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [username v] to []
+wanneer op deze sprite wordt geklikt
+maak [gebruikersnaam v] []
 ```
 
 \--- /task \---
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+Je moet een bijvoeglijk naamwoord en een zelfstandig naamwoord combineren, dus voeg een `voeg samen`{:class="block3operators"} blok toe binnen je `maak`{:class="block3variables"} blok.
 
-![person sprite](images/person-sprite.png)
+![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [username v] to (join [apple] [banana] :: +)
+wanneer op deze sprite wordt geklikt
+maak [gebruikersnaam v] (voeg [appel] en [banaan] samen :: +)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+Voeg een bijvoeglijk naamwoord toe in het eerste vak in het blok `voeg samen`{:class="block3operators"}.
 
-![person sprite](images/person-sprite.png)
+![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
+wanneer op deze sprite wordt geklikt
+maak [gebruikersnaam v] (voeg (item (1) van [bijvoeglijk naamwoord v] :: +) [banaan])
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+Kies een `willekeurig`{:class="block3operators"} bijvoeglijk naamwoord tussen 1 en de `lengte van de bijvoeglijke naamwoordenlijst`{:class="block3variables"}
 
-![person sprite](images/person-sprite.png)
+![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [banana])
+wanneer op deze sprite wordt geklikt
+maak [gebruikersnaam v] (voeg (item (kies willekeurig (1) tot (lengte van [bijvoeglijk naamwoord v] :: +) :: +) van [bijvoeglijk naamwoord v]) [banaan])
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Add a random noun in the second box.
+Voeg een willekeurig zelfstandig naamwoord toe in het tweede vak.
 
-![person sprite](images/person-sprite.png)
+![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v] :: +) :: +) of [nouns v] :: +))
+wanneer op deze sprite wordt geklikt
+Maak [gebruikersnaam v] (voeg (item (kies willekeurig (1) tot (lengte van [bijvoeglijk naamwoord v])) van [bijvoeglijk naamwoord v]) (item (kies willekeurig (1) tot (lengte van [ zelfstandig naamwoord v] :: +) :: +) van [zelfstandig naamwoord v] :: +))
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+Voeg nu codeblokken toe om je sprite de gebruikersnaam te laten zeggen.
 
-![person sprite](images/person-sprite.png)
+![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-when this sprite clicked
-set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v])) of [nouns v]))
-+ say (username :: variables)
+wanneer op deze sprite wordt geklikt
+maak [gebruikersnaam v] (voeg (item (kies willekeurig (1) tot (lengte van [bijvoeglijk naamwoord v])) van [bijvoeglijk naamwoord v]) (item (kies willekeurig (1) tot (lengte van [ zelfstandig naamwoord v])) van [zelfstandig naamwoord v]))
++ zeg (gebruikersnaam :: variables)
 ```
 
 \--- /task \---
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+Test je code door op de sprite te klikken. Je zou elke keer een nieuwe willekeurige gebruikersnaam moeten krijgen.
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![persoon sprite zeggen Arctische Torenvalk](images/usernames-click.png)
 
 \--- /task \---
