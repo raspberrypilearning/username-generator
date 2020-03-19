@@ -1,21 +1,21 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+Dit is de **Scratch 3** versie van het project. Er is ook een [Scratch 2 versie van dit project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Inleiding
 
-It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
+Het is belangrijk om je echte naam of persoonlijke informatie niet in je online gebruikersnaam te gebruiken. In dit project genereer je leuke gebruikersnamen die je kunt gebruiken op websites zoals Scratch.
 
-### What you will make
+### Wat ga je maken
 
 \--- no-print \---
 
-To try out the finished project:
+Om het voltooide project uit te proberen:
 
-- Click the girl sprite to generate a new username
-- Click the <span style="color: green;">✔</span> to add a username you like to the list
+- Klik op de meiden sprite om een nieuwe gebruikersnaam te genereren
+- Klik op <span style="color: green;">✔</span> om een gewenste gebruikersnaam toe te voegen aan de lijst
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/292974184/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -26,48 +26,48 @@ To try out the finished project:
 
 \--- print-only \---
 
-![complete project](images/usernames-final.png)
+![voltooid project](images/usernames-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Wat heb je nodig
 
 ### Hardware
 
-- A computer capable of running Scratch
+- Een computer die Scratch kan uitvoeren
 
 ### Software
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 ([online](http://rpf.io/scratchon){:target="_blank"} of [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
-The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
+Het startproject kan [hier](http://rpf.io/p/en/username-generator-go){:target="_blank"} gevonden worden.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: Wat ga je leren
 
-- Use lists in Scratch
-- Use the paint tool to create images
-- How to exporting text files and images from Scratch
+- Gebruik lijsten in Scratch
+- Gebruik het tekengereedschap om afbeeldingen te maken
+- Hoe tekstbestanden en afbeeldingen vanuit Scratch te exporteren
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Aanvullende informatie voor docenten
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"}.
+Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_ blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+Je kunt het [voltooide project hier](http://rpf.io/p/en/username-generator-get)"{:target="_blank"} vinden.
 
 \--- /collapse \---
