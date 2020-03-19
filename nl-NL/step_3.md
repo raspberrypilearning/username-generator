@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## Uitdaging: voeg meer variatie toe
 
-Can you add more items to the lists of adjectives and nouns?
+Kun je meer items toevoegen aan de lijsten met bijvoeglijke naamwoorden en zelfstandige naamwoorden?
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+Vink de vakjes voor de lijsten aan om ze op het speelveld te tonen. Klik vervolgens op het pictogram **+** en typ een nieuw woord in de lijst. Vergeet niet om elk woord met een hoofdletter te beginnen.
 
-![screenshot](images/usernames-add.png)
+![schermafbeelding](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+Echte en denkbeeldige dieren en wezens werken goed in de lijst met `zelfstandige naamwoorden`. Probeer aan ongewone te denken.
 
-Here are some ideas for the `adjectives` list:
+Hier zijn enkele ideeën voor de lijst met `bijvoeglijke naamwoorden`:
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ Metalen: Zink, Koper, IJzer, Messing, Zilver, Goud
++ Kleuren: Roze, Blauw, Paars, Goud, Indigo
++ Edelstenen: Kwarts, Smaragd, Saffier, Diamant
++ Gebieden: Maan, Woestijn, Sneeuw, Jungle, Bos, Ruimte
 
-Remember to hide the lists from the stage when testing your project.
+Vergeet niet om de lijsten te verbergen voor het testen van je project.
