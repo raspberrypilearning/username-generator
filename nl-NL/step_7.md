@@ -1,10 +1,10 @@
-## What next?
+## Wat kun je verder nog doen?
 
-Take a look at the [Scratch cat goes skking](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+Bekijk het [Scratch kat gaat skiën](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Klik op de groene vlag om te beginnen. Gebruik de linker en rechter pijltjestoetsen om de skiër te besturen.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![voltooid project](images/skiing-final.png)
 
 --- /print-only ---
