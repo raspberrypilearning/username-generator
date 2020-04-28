@@ -1,7 +1,7 @@
-adjectives
+bijvoeglijk naamwoord
 
-nouns
+zelfstandig naamwoord
 
-username
+gebruikersnaam
 
-names I like
+leuke namen
