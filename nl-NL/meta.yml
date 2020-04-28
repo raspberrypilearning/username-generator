@@ -1,0 +1,18 @@
+---
+hero_image: images/banner.png
+listed: true
+title: Gebruikersnaam generator
+description: Genereer geweldige gebruikersnamen die je online kunt gebruiken
+version: 4
+last_tested: 2018/03/11
+steps:
+  - title: Inleiding
+  - title: Gebruikersnamen genereren
+  - title: "Uitdaging: voeg meer variatie toe"
+    challenge: true
+  - title: Je favoriete gebruikersnamen opslaan
+  - title: "Uitdaging: voeg een nummer toe"
+    challenge: true
+  - title: "Uitdaging: maak een profielfoto"
+    challenge: true
+  - title: 'Wat kun je verder nog doen?'
