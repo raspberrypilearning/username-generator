@@ -91,8 +91,8 @@ Voeg een bijvoeglijk naamwoord toe in het eerste vak in het blok `voeg samen`{:c
 ![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-maak [gebruikersnaam v] (voeg (item (1) van [bijvoeglijk naamwoord v] :: +) [banaan])
+when this sprite clicked
+set [gebruikersnaam v] to (join (item (1) of [bijvoeglijk naamwoord v] :: +) [banaan])
 ```
 
 --- /task ---
@@ -104,8 +104,8 @@ Kies een `willekeurig`{:class="block3operators"} bijvoeglijk naamwoord tussen 1 
 ![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-maak [gebruikersnaam v] (voeg (item (kies willekeurig (1) tot (lengte van [bijvoeglijk naamwoord v] :: +) :: +) van [bijvoeglijk naamwoord v]) [banaan])
+when this sprite clicked
+set [gebruikersnaam v] to (join (item (pick random (1) to (length of [bijvoeglijk naamwoord v] :: +) :: +) of [bijvoeglijk naamwoord v]) [banaan])
 ```
 
 --- /task ---
@@ -117,8 +117,8 @@ Voeg een willekeurig zelfstandig naamwoord toe in het tweede vak.
 ![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-Maak [gebruikersnaam v] (voeg (item (kies willekeurig (1) tot (lengte van [bijvoeglijk naamwoord v])) van [bijvoeglijk naamwoord v]) (item (kies willekeurig (1) tot (lengte van [ zelfstandig naamwoord v] :: +) :: +) van [zelfstandig naamwoord v] :: +))
+when this sprite clicked
+set [gebruikersnaam v] to (join (item (pick random (1) to (length of [bijvoeglijk naamwoord v])) of [bijvoeglijk naamwoord v]) (item (pick random (1) to (length of [zelfstandig naamwoord v] :: +) :: +) of [zelfstandig naamwoord v] :: +))
 ```
 
 --- /task ---
@@ -130,9 +130,9 @@ Voeg nu codeblokken toe om je sprite de gebruikersnaam te laten zeggen.
 ![persoon sprite](images/person-sprite.png)
 
 ```blocks3
-wanneer op deze sprite wordt geklikt
-maak [gebruikersnaam v] (voeg (item (kies willekeurig (1) tot (lengte van [bijvoeglijk naamwoord v])) van [bijvoeglijk naamwoord v]) (item (kies willekeurig (1) tot (lengte van [ zelfstandig naamwoord v])) van [zelfstandig naamwoord v]))
-+ zeg (gebruikersnaam :: variables)
+when this sprite clicked
+set [gebruikersnaam v] to (join (item (pick random (1) to (length of [bijvoeglijk naamwoord v])) of [bijvoeglijk naamwoord v]) (item (pick random (1) to (length of [zelfstandig naamwoord v])) of [zelfstandig naamwoord v]))
++ say (gebruikersnaam :: variables)
 ```
 
 --- /task ---
