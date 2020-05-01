@@ -1,6 +1,6 @@
 ## What next?
 
-Take a look at the [Scratch cat goes skking](https://projects.raspberrypi.org/en/projects/synchronised-swimming) Scratch project.
+Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
 
 --- no-print ---
 
