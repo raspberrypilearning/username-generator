@@ -73,7 +73,7 @@ set [username v] to []
 
 \--- task \---
 
-Um ein Adjektiv und ein Nomen zu kombinieren, füge einen Block `join`{: class = "block3operators"} in Deinen Block `set`{: class = "block3variables"} ein.
+Um ein Adjektiv und ein Nomen zu kombinieren, füge einen Block `verbinde`{: class = "block3operators"} in Deinen Block `setze`{: class = "block3variables"} ein.
 
 ![Person Sprite](images/person-sprite.png)
 
@@ -86,7 +86,7 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Füge im ersten Feld des Blocks `join`{: class = "block3operators"} ein Adjektiv hinzu.
+Füge im ersten Feld des Blocks `verbinde`{: class = "block3operators"} ein Adjektiv hinzu.
 
 ![Person Sprite](images/person-sprite.png)
 
