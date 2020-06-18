@@ -51,7 +51,7 @@ Teste Deinen Code, indem Du auf das Personensprite klickst, bis Du einen gewüns
 
 --- task ---
 
-Du kannst Deine Liste der Benutzernamen in eine Textdatei exportieren, um sie zu speichern. Klicke mit der rechten Maustaste auf die `Meine Benutzernamen,` Liste auf der Bühne, dann auf **Exportieren**und wähle einen Ort aus, in dem die Liste als Datei gespeichert werden soll.
+Du kannst Deine Liste der Benutzernamen in eine Textdatei exportieren, um sie zu speichern. Klicke mit der rechten Maustaste auf die `Meine Benutzernamen,` Liste auf der Bühne, dann auf **Exportieren** und wähle einen Ort aus, in dem die Liste als Datei gespeichert werden soll.
 
 ![Listenmenü mit hervorgehobener Exportoption](images/usernames-export.png)
 
