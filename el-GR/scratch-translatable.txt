@@ -1,7 +1,7 @@
-adjectives
+επίθετα
 
-nouns
+ουσιαστικά
 
-username
+όνομα χρήστη
 
-names I like
+ονόματα που μου αρέσουν
