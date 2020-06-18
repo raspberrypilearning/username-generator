@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## Herausforderung: mehr Abwechslung hinzufügen
 
-Can you add more items to the lists of adjectives and nouns?
+Kannst Du der Liste der Adjektive und Substantive weitere Elemente hinzufügen?
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+Aktiviere die Kontrollkästchen für die Listen, um sie auf der Bühne anzuzeigen. Klicke dann auf das Symbol **+** und gib ein neues Wort in die Liste ein. Vergiss nicht, jedes Wort mit einem Großbuchstaben zu beginnen.
 
-![screenshot](images/usernames-add.png)
+![Screenshot](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+Reale und imaginäre Tiere und Kreaturen funktionieren gut in der Liste der `Nomen`. Versuche an ungewöhnliche Tiere zu denken.
 
-Here are some ideas for the `adjectives` list:
+Hier sind einige Ideen für die Liste `Adjektive`:
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ Metalle: Zink, Kupfer, Eisen, Messing, Silber, Gold
++ Farben: Purpur, Aqua, Magenta, Golden, Indigo
++ Edelsteine: Quarz, Smaragd, Saphir, Diamant
++ Lebensräume: Mond, Wüste, Schnee, Dschungel, Wald, Weltraum
 
-Remember to hide the lists from the stage when testing your project.
+Denke daran, die Listen beim Testen Deines Projekts von der Bühne auszublenden.
