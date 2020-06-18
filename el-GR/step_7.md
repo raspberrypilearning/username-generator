@@ -1,10 +1,10 @@
-## What next?
+## Τι υπάρχει στη συνέχεια;
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+Ρίξε μια ματιά στο Scratch έργο [Η γάτα του Scratch πάει για σκι](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing).
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Κάνε κλικ στην πράσινη σημαία για να ξεκινήσεις. Χρησιμοποίησε το αριστερό και το δεξί βελάκι για τον έλεγχο του σκιέρ.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![ολοκληρωμένο έργο](images/skiing-final.png)
 
 --- /print-only ---
