@@ -1,0 +1,25 @@
+---
+hero_image: images/banner.png
+listed: true
+title: यूजरनेम जनरेटर
+description: "यूजरनेम बनायें जो आप ऑनलाइन उपयोग कर कर सकते हैं I\n"
+version: 4
+last_tested: 2018-03-11
+steps:
+  - 
+    title: परिचय
+  - 
+    title: यूजरनेम  बनाना
+  - 
+    title: "चुनौती: अधिक शैलियों (variety) को जोड़ें"
+    challenge: true
+  - 
+    title: अपने पसंदीदा यूजरनेम सहेजना
+  - 
+    title: "चुनौती: एक नंबर जोड़ें"
+    challenge: true
+  - 
+    title: "चुनौती: अपना प्रोफ़ाइल चित्र बनाएँ"
+    challenge: true
+  - 
+    title: 'आगे क्या है?'
