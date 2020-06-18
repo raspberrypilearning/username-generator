@@ -1,7 +1,7 @@
-adjectives
+Adjektive
 
-nouns
+Nomen
 
-username
+Benutzername
 
-names I like
+Meine Benutzernamen
