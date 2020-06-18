@@ -1,40 +1,40 @@
-## Generating usernames
+## Benutzernamen generieren
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+Es gibt viele Websites und Apps, die Dich mit einem Benutzernamen identifizieren. Dieser Benutzername ist oft für andere sichtbar. Benutzernamen können auch als Bildschirmnamen, Gamer-Tags oder Handles bezeichnet werden.
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+Es ist wichtig, dass Dein Benutzername nicht Dein richtiger Name ist und auch keine persönlichen Daten wie Alter, Geburtsjahr oder Wohnort enthält. Andere Leute werden Deinen Benutzernamen sehen, stell also sicher, dass er höflich ist und überlege, was die Leute über Dich denken, wenn sie ihn lesen. Denke daran, dass Du Deinen Benutzernamen möglicherweise für eine lange Zeit verwenden wirst - wird er Dir in drei Jahren immer noch gefallen?
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+Wie Du siehst, ist es wichtig, dass Du Deinen Benutzernamen sorgfältig auswählst. Erstellen wir ein Scratch-Projekt, um 'AdjektivNomen'-Benutzernamen wie 'DiamanteneEidechse' zu generieren.
 
 \--- task \---
 
-Open the Scratch starter project.
+Öffne das Scratch Start-Projekt.
 
-**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**Online**: Öffne das Start-Projekt: [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Wenn Du bereits einen Scratch-Account besitzt, kannst Du Dir durch Klick auf **Remix** eine Kopie anlegen.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**Offline**: Öffne das [Start-Projekt](http://rpf.io/p/en/username-generator-go){:target="_blank"} im Offline-Editor.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn Du Scratch herunterladen und auf Deinem Rechner installieren möchtest, dann findest Du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+Du solltest zwei Listen auf der Bühne sehen – `adjectives` (Adjektive) und `nouns` (Nomen):
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![Listen mit Adjektiven und Substantiven](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+Klicke auf **Variablen** und dann auf die Kästchen neben `Adjektive` und `Nomen`, um sie zu deaktivieren und die Listen auszublenden.
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![Adjektive und Nomenvariablen](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+Erstelle eine Variable mit dem Namen `Benutzername`, die **für alle Sprites** verfügbar sein sollte.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,27 +42,27 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+Klicke auf das Kontrollkästchen neben `Benutzername`, um es zu deaktivieren und die Variable nicht auf der Bühne anzuzeigen.
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![Benutzername Variable](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+Füge ein Personen-Sprite hinzu - Du kannst Dein Lieblings-Sprite auswählen.
 
-![person sprite](images/person-sprite.png)
+![ein Personen Sprite](images/usernames-person.png)
+
+Du kannst auch auf **Kostüme** klicken und das Kostüm auswählen, das Du bevorzugst.
+
+\--- /task \---
+
+\--- task \---
+
+Füge diesen Code Deinem persönlichen Sprite hinzu:
+
+![Person Sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+Um ein Adjektiv und ein Nomen zu kombinieren, füge einen Block `join`{: class = "block3operators"} in Deinen Block `set`{: class = "block3variables"} ein.
 
-![person sprite](images/person-sprite.png)
+![Person Sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+Füge im ersten Feld des Blocks `join`{: class = "block3operators"} ein Adjektiv hinzu.
 
-![person sprite](images/person-sprite.png)
+![Person Sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+Wähle ein `zufälliges`{: class = "block3operators"} Adjektiv zwischen 1 und `Länge der Adjektivliste`{: class = "block3variables"}
 
-![person sprite](images/person-sprite.png)
+![Person Sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+Füge im zweiten Feld ein zufälliges Nomen hinzu.
 
-![person sprite](images/person-sprite.png)
+![Person Sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+Füge nun Codeblöcke hinzu, damit Deine Person den Benutzernamen sagt.
 
-![person sprite](images/person-sprite.png)
+![Person Sprite](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+Teste Deinen Code, indem Du auf das Personensprite klickst. Du solltest jedes Mal einen neuen zufälligen Benutzernamen erhalten.
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![Person Sprite sagt Arctic Kestrel](images/usernames-click.png)
 
 \--- /task \---
