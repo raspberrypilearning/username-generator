@@ -1,8 +1,8 @@
-## Challenge: add a number
+## Herausforderung: Füge eine Nummer hinzu
 
-On popular websites and apps, it can be really hard to find a username that someone else isn’t already using. Or you might find that the username you use on one site is already taken on other sites. To get around that, you could add a number to the end of your username. **Remember not to use your age, birth date, or birth year.**
+Auf beliebten Websites und Apps kann es sehr schwierig sein, einen Benutzernamen zu finden, den noch niemand verwendet. Oder Du stellst möglicherweise fest, dass der Benutzername, den Du auf einer Seite verwendest, bereits auf anderen Sites verwendet wird. Um dies zu umgehen, kannst Du am Ende Deines Benutzernamens eine Nummer anhängen. **Denk daran nicht Dein Alter, Geburtsdatum oder Geburtsjahr zu verwenden.**
 
-Can you use the following blocks to generate usernames with a random number at the end?
+Kannst Du die folgenden Blöcke verwenden, um Benutzernamen mit einer Zufallszahl am Ende zu generieren?
 
 ```blocks3
 set [username v] to [0]
@@ -14,6 +14,6 @@ username :: variables
 pick random (20) to (99)
 ```
 
-New usernames you generate should now have numbers at the end:
+Neue Benutzernamen, die Du generierst, sollten jetzt am Ende Zahlen haben:
 
-![screenshot](images/usernames-with-numbers.png)
+![Screenshot](images/usernames-with-numbers.png)
