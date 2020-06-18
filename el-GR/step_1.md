@@ -1,21 +1,21 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+Αυτή είναι η έκδοση **Scratch 3** του έργου. Υπάρχει επίσης η [έκδοση Scratch 2 του έργου](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Εισαγωγή
 
-It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
+Είναι σημαντικό να μην χρησιμοποιείς το πραγματικό σου όνομα ή προσωπικά στοιχεία στο ηλεκτρονικό σου όνομα χρήστη (username). Σε αυτό το έργο θα δημιουργήσεις διασκεδαστικά ονόματα χρήστη που μπορείς να χρησιμοποιείς σε ιστότοπους όπως το Scratch.
 
-### What you will make
+### Τι θα φτιάξεις
 
 \--- no-print \---
 
-To try out the finished project:
+Για να δοκιμάσεις το ολοκληρωμένο έργο:
 
-- Click the girl sprite to generate a new username
-- Click the <span style="color: green;">✔</span> to add a username you like to the list
+- Κάνε κλικ στο κορίτσι για να δημιουργήσεις ένα νέο όνομα χρήστη
+- Κάνε κλικ στο <span style="color: green;">✔</span> για να προσθέσεις ένα όνομα χρήστη που σου αρέσει στη λίστα
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/292974184/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -26,48 +26,48 @@ To try out the finished project:
 
 \--- print-only \---
 
-![complete project](images/usernames-final.png)
+![ολοκληρωμένο έργο](images/usernames-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Τι θα χρειαστείς
 
-### Hardware
+### Υλικό
 
-- A computer capable of running Scratch
+- Έναν υπολογιστή ικανό να τρέχει το Scratch
 
-### Software
+### Λογισμικό
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3 (είτε [online](http://rpf.io/scratchon){:target="_blank"} είτε [offline](http://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Λήψεις
 
-The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use lists in Scratch
-- Use the paint tool to create images
-- How to exporting text files and images from Scratch
+Το αρχικό project μπορεί να βρεθεί [εδώ](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Τι θα μάθεις
+
+- Να χρησιμοποιείς τις λίστες στο Scratch
+- Να χρησιμοποιείς το εργαλείο ζωγραφικής για να δημιουργείς εικόνες
+- Πώς εξάγεις αρχεία κειμένου και εικόνας από το Scratch
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Πρόσθετες πληροφορίες για εκπαιδευτικούς
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"}.
+Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/username-generator/print)"{:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
