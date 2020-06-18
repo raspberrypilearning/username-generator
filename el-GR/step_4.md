@@ -1,36 +1,36 @@
-## Saving your favourite usernames
+## Αποθήκευση των αγαπημένων σου ονομάτων χρήστη
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+Πιθανότατα θέλεις να δεις μερικά ονόματα χρήστη πριν αποφασίσεις ποιο να διαλέξεις. Ας προσθέσουμε τα ονόματα χρηστών που σου αρέσουν σε μια λίστα.
 
 \--- task \---
 
-Create a new list called `names I like`:
+Δημιούργησε μια νέα λίστα `ονόματα που μου αρέσουν`:
 
 [[[generic-scratch3-make-list]]]
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+Η λίστα θα εμφανιστεί στη σκηνή. Σύρε τη στα δεξιά του αντικειμένου σου και κάνε την πιο πλατιά.
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
+![λίστα 'ονόματα που μου αρέσουν' με τονισμένη την αλλαγή μεγέθους κάτω αριστερά](images/usernames-like-stage.png)
+
+\--- /task \---
+
+\--- task --
+
+Πρόσθεσε το κουμπί `Button4`, που μοιάζει με <span style="color: green;">✔</span> και σύρε το δεξιά από το συννεφάκι ομιλίας.
+
+![αντικείμενο τικ στη σκηνή δίπλα στη λίστα 'ονόματα που μου αρέσουν'](images/usernames-tick.png)
+
+Ίσως χρειαστεί να μετακινήσεις τη λίστα `ονόματα που μου αρέσουν` εάν το κουμπί `Button4` βρίσκεται από κάτω.
 
 \--- /task \---
 
 \--- task \---
 
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
-
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
-
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
-
-\--- /task \---
-
-\--- task \---
-
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+Πρόσθεσε κώδικα στο κουμπί έτσι ώστε όταν κάνεις κλικ πάνω του, το τρέχον όνομα χρήστη να προστίθεται στη λίστα `ονόματα που μου αρέσουν`.
 
 ![button sprite](images/button-sprite.png)
 
@@ -41,20 +41,20 @@ add (username :: variables) to [names I like v]
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+Δοκίμασε τον κώδικά σου κάνοντας κλικ στο άτομο μέχρι να βρεις ένα όνομα χρήστη που σου αρέσει και στη συνέχεια κάνοντας κλικ στο <span style="color: green;">✔</span>.
 
-![names i like list populated](images/usernames-like-list.png)
+![λίστα 'ονόματα που μου αρέσουν' με εγγραφές](images/usernames-like-list.png)
 
 \--- /task \---
 
-\--- task \---
+\--- task --
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+Μπορείς να εξάγεις τη λίστα των ονομάτων χρήστη σε ένα αρχείο κειμένου για να τα αποθηκεύσεις. Κάνε δεξί κλικ στη λίστα `ονόματα που μου αρέσουν` πάνω στη σκηνή, κάνε κλικ στο **εξαγωγή** και επίλεξε ένα φάκελο για να αποθηκεύσεις τη λίστα ως αρχείο.
 
-![list menu with export option highlighted](images/usernames-export.png)
+![το μενού εξαγωγής εγγραφών από τη λίστα](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+Τώρα έχεις ένα αρχείο κειμένου που περιέχει μια λίστα ονομάτων που μπορείς να ανοίξεις με το Σημειωματάριο ή κάποιο άλλο πρόγραμμα επεξεργασίας κειμένου.
 
 \--- /task \---
