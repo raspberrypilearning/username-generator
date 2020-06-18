@@ -1,10 +1,10 @@
-## What next?
+## Wie geht's weiter?
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+Wirf einen Blick auf das [Scratch-Katze geht Skifahren](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch Projekt.
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Klicke zum Starten auf die grüne Flagge. Verwende die linke und rechte Pfeiltaste, um den Skifahrer zu steuern.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![fertiges Projekt](images/skiing-final.png)
 
 --- /print-only ---
