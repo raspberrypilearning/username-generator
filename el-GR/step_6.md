@@ -1,9 +1,9 @@
-## Challenge: create your profile picture
+## Πρόκληση: δημιούργησε την εικόνα του προφίλ σου
 
-Can you use the paint tool in Scratch to create your own profile picture to go with a username?
+Μπορείς να χρησιμοποιήσεις το εργαλείο ζωγραφικής στο Scratch για να δημιουργήσεις τη δική σου εικόνα προφίλ που θα συνοδεύει ένα όνομα χρήστη;
 
-Here's an example:
+Ακολουθεί ένα παράδειγμα:
 
-![example of a profile picture](images/usernames-picture.png)
+![παράδειγμα εικόνας προφίλ](images/usernames-picture.png)
 
-Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
+Χρησιμοποίησε ένα πρόγραμμα καταγραφής της οθόνης για να αποθηκεύσεις την εικόνα σου, ώστε να μπορείς να τη χρησιμοποιήσεις σε ιστότοπους ή εφαρμογές που εμφανίζουν εικόνες προφίλ
