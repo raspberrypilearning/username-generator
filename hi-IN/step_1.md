@@ -40,11 +40,11 @@
 
 ### सॉफ्टवेयर
 
-- Scratch 3 [online](http://rpf.io/scratchon){:target="_blank"} या [offline](http://rpf.io/scratchoff){:target="_blank"}) 
+- Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"})
 
 ### डाउनलोड
 
-स्टार्टर प्रोजेक्ट यहां पाया जा सकता है [here](http://rpf.io/p/en/username-generator-go){:target="_blank"} I
+स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](http://rpf.io/p/en/username-generator-go){:target="_blank"}|
 
 \--- /collapse \---
 
@@ -64,10 +64,10 @@
 
 \--- no-print \---
 
-यदि आपको इस प्रोजेक्टको प्रिंट करने की जरुरत है, तो कृपया <[printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"} का उपयोग करें I
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की आवश्यकता है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"} का उपयोग करें।
 
 \--- /no-print \---
 
-आप यहां [completed project here](http://rpf.io/p/en/username-generator-get){:target="_blank"} पा सकते हैं I
+आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/en/username-generator-get){:target="_blank"} देख सकते हैं ।
 
 \--- /collapse \---
