@@ -1,9 +1,9 @@
-## Challenge: create your profile picture
+## Desafio: criar sua foto do perfil
 
-Can you use the paint tool in Scratch to create your own profile picture to go with a username?
+Você pode usar a ferramenta de pintura no Scratch para criar sua própria foto do perfil para combinar com um nome de usuário?
 
-Here's an example:
+Aqui está um exemplo:
 
-![example of a profile picture](images/usernames-picture.png)
+![exemplo de uma foto do perfil](images/usernames-picture.png)
 
-Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
+Use um programa de captura de tela para salvar sua foto para que você possa usá-la em sites ou aplicativos que mostram fotos do perfil
