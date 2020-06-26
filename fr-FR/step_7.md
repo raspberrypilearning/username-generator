@@ -1,10 +1,10 @@
-## What next?
+## Et ensuite ?
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+Jette un œil au projet Scratch [Tir à l'arc](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing).
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Clique sur le drapeau vert pour démarrer. Utilise les touches fléchées gauche et droite pour contrôler le skieur.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![projet terminé](images/skiing-final.png)
 
 --- /print-only ---
