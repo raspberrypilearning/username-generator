@@ -8,7 +8,7 @@
 
 [[[generic-scratch3-make-list]]]
 
-\--- /task \---
+\---/task--
 
 \--- task \---
 
@@ -30,9 +30,9 @@
 
 \--- task \---
 
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+أضف تعليمة برمجية إلى كائن الزر بحيث عندما يتم النقر عليه، يتم إضافة اسم المستخدم الحالي إلى قائمة `اسماء احبها `.
 
-![button sprite](images/button-sprite.png)
+![كائن الزر](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,18 +43,18 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+اختبر التعليمات البرمجية الخاصة بك بالنقر على كائن الشخص حتى تجد اسم مستخدم تحبه ثم اضغط على <span style="color: green;">✔</span>.
 
-![names i like list populated](images/usernames-like-list.png)
+![قائمة اسماء احبها تحوي قيم](images/usernames-like-list.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+يمكنك تصدير قائمة أسماء المستخدمين الخاصة بك إلى ملف نصي لحفظها. انقر بالزر الأيمن على قائمة `اسماء احبها ` ثم انقر فوق **تصدير **، واختيار مكان لحفظ القائمة كملف.
 
-![list menu with export option highlighted](images/usernames-export.png)
+![القائمة مع تحديد خيار التصدير](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+لديك الآن ملف نصي يحتوي على قائمة أسماء يمكنك فتحها مع برنامج Notepad أو اي محرر نصوص آخر.
 
 \--- /task \---
