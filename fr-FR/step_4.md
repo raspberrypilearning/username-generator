@@ -1,4 +1,4 @@
-## Enregistrement de vos noms d'utilisateur favoris
+## Enregistrement de tes noms d'utilisateur favoris
 
 Tu veux probablement utiliser quelques noms d'utilisateur différents. Ajoute des noms d'utilisateur que tu aimes dans une liste.
 

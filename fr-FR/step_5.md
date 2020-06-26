@@ -1,4 +1,4 @@
-## Défi: ajoute un nombre
+## Défi: ajoute un chiffre
 
 Sur les sites Web et les applications populaires, il peut être vraiment difficile de trouver un nom d'utilisateur que quelqu'un d'autre n'utilise pas déjà. Ou tu peux trouver que le nom d'utilisateur que tu utilises sur un site est déjà pris sur d'autres sites. Pour contourner cela, tu peux ajouter un nombre à la fin de ton nom d'utilisateur. **N'oublie pas de ne pas utiliser ton âge, ta date de naissance ou ton année de naissance.**
 
