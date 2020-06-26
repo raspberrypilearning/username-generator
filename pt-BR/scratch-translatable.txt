@@ -1,6 +1,6 @@
-adjectives
+adjetivos
 
-nouns
+substantivos
 
 username
 
