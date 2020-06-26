@@ -1,7 +1,7 @@
-adjectives
+صفات
 
-nouns
+اسماء
 
-username
+اسم المستخدم
 
-names I like
+أسماء أحبها
