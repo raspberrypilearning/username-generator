@@ -73,7 +73,7 @@ set [username v] to []
 
 \--- task \---
 
-Necesitas combinar un adjetivo y un sustantivo, así que añade un bloque `unir`{:class="block3operators"} dentro de tu bloque `dar a`{:class="block3variables"}.
+Necesitas combinar un adjetivo y un sustantivo, así que añade un bloque `unir`{:class="block3operators"} dentro de tu bloque `establecer`{:class="block3variables"}.
 
 ![objeto persona](images/person-sprite.png)
 
