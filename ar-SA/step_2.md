@@ -1,40 +1,40 @@
-## Generating usernames
+## توليد أسماء المستخدمين
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+هناك العديد من المواقع والتطبيقات التي تستخدم اسم المستخدم للتعرف عليك. اسم المستخدم هذا غالبا ما يكون مرئيا للآخرين. يمكن أن تسمى أسماء المستخدمين أيضًا أسماء الشاشة، أو علامات اللاعب، أو التحكم.
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+من المهم أن يكون اسم المستخدم الخاص بك ليس اسمك الحقيقي كما أنه لا يتضمن أي معلومات شخصية. مثل عمرك أو سنة ميلادك أو مكان سكنك. سيرى أناس آخرون اسم المستخدم الخاص بك، لذا تأكد من أنه مهذب، والاخذ بالاعتبار في ما سيفكره الناس عنك عندما يقرأونه. تذكر أنك قد تستخدم اسم المستخدم الخاص بك لفترة طويلة - هل ستظل تحبه بعد ثلاث سنوات؟
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+كما ترون، من المهم اختيار اسم المستخدم الخاص بكم بعناية. دعونا ننشئ مشروع Scratch لتوليد أسماء مستخدمين يتكون من "صفات واسماء" مثل 'ياقوتإجوانا'.
 
 \--- task \---
 
-Open the Scratch starter project.
+افتح مشروع جديد من برنامج سكراتش.
 
-**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**متصل بالانترنت**: افتح مشروع البدء من هنا [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+اذا كنت تملك حساب على منصة السكراتش (Scratch) فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/en/username-generator-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+يجب أن تشاهد قائمتين على المسرح - ` صفات ` و `اسماء`:
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![قوائم مع الصفات والأسماء](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+انقر فوق **المتغيرات**، ثم انقر فوق المربع بجوار `صفات ` و `اسماء` لإلغاء تحديدها وإخفاء القوائم.
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![متغيرات الصفات والأسماء](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+قم بإضافة متغير يسمى `اسم المستخدم` والذي ينبغي أن يكون متاحاً **لجميع الكائنات **.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,27 +42,27 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+انقر فوق المربع بجوار `اسم المستخدم` لإلغائه وإخفاء المتغير من المنصة.
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![متغير الاسم](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+أضف كائن شخص - يمكنك اختيار الكائن المفضل لديك.
 
-![person sprite](images/person-sprite.png)
+![كائن الشخص](images/usernames-person.png)
+
+يمكنك أيضًا النقر على **المظاهر** واختيار المظهر الذي تفضله.
+
+\--- /task \---
+
+\--- task \---
+
+أضف هذه التعليمات البرمجية إلى كائن الشخص:
+
+![كائن الشخص](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+تحتاج إلى الجمع بين صفة و اسم ، لذلك أضف كتلة `اربط `{:class="block3operators"} داخل كتلة `اجعل `{:class="block3variables"}.
 
-![person sprite](images/person-sprite.png)
+![كائن الشخص](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+قم بإضافة صفة في المربع الأول في كتلة `اربط `{:class="block3operators"}.
 
-![person sprite](images/person-sprite.png)
+![كائن الشخص](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+اختر صفة `عشوائي`{:class="block3operators"} بين 1 و `طول قائمة الصفات`{:class="block3variables"}
 
-![person sprite](images/person-sprite.png)
+![كائن الشخص](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+قم بإضافة اسم عشوائي في الصندوق الثاني.
 
-![person sprite](images/person-sprite.png)
+![كائن الشخص](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+الآن أضف كتل التعليمات البرمجية لجعل شخصك يقول اسم المستخدم.
 
-![person sprite](images/person-sprite.png)
+![كائن الشخص](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+اختبر التعليمات البرمجية الخاصة بك بالنقر على كائن الشخص. يجب أن تحصل على اسم مستخدم عشوائي جديد في كل مرة.
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![كائن شخص يقول القطب الشمالي صقر](images/usernames-click.png)
 
 \--- /task \---
