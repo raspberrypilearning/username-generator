@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## تحدي: إضافة مزيد من التنوع
 
-Can you add more items to the lists of adjectives and nouns?
+هل يمكنك إضافة المزيد من العناصر إلى قوائم الصفات والأسماء؟
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+حدد المربعات الخاصة بالقوائم لعرضها على المسرح. ثم انقر فوق رمز **+** واكتب كلمة جديدة في القائمة. اذا كنت تستخدم اللغة الانكليزية، لا تنسى أن تبدأ كل كلمة بحرف كبير.
 
-![screenshot](images/usernames-add.png)
+![لقطة شاشة](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+تشتغل الحيوانات والمخلوقات الحقيقية والخالية بشكل جيد في قائمة `الاسماء`. حاول التفكير باسماء غير عادية.
 
-Here are some ideas for the `adjectives` list:
+فيما يلي بعض الأفكار لقائمة `الصفات `:
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ المعادن: زنك، النحاس، الحديد ، براس، الفضة، الذهب
++ الألوان: قرمزي ، السمائي ، أرجواني ، ذهبي ، نيلي
++ الأحجار الكريمة: الكوارتز، الزمرد، الياقوت، الماس
++ البيئة: القمر، الصحراء، الثلج، الغابة، الفضاء
 
-Remember to hide the lists from the stage when testing your project.
+تذكر أن تخفي القوائم من المسرح عند اختبار مشروعك.
