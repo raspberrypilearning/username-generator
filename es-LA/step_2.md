@@ -20,7 +20,7 @@ Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrar
 
 Deberías ver dos listas en el escenario — `adjetivos` y `sustantivos`:
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![listas con adjetivos y sustantivos](images/usernames-lists.png)
 
 \--- /task \---
 
@@ -28,7 +28,7 @@ Deberías ver dos listas en el escenario — `adjetivos` y `sustantivos`:
 
 Haz clic en **Variables**, y luego haz clic en las casillas junto a `adjetivos` y `sustantivos` para desmarcarlas y ocultar las listas.
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![variables de adjetivos y sustantivos](images/usernames-hide.png)
 
 \--- /task \---
 
@@ -44,7 +44,7 @@ Añade una variable llamada `nombre de usuario` que debería estar disponible **
 
 Haz clic en la casilla junto a ` nombre de usuario ` para desmarcarlo y ocultar la variable del escenario.
 
-![username variable](images/usernames-hide-variable.png)
+![variable nombre de usuario](images/usernames-hide-variable.png)
 
 \--- /task \---
 
@@ -52,7 +52,7 @@ Haz clic en la casilla junto a ` nombre de usuario ` para desmarcarlo y ocultar 
 
 Agrega un objeto de una persona — puedes elegir tu favorito.
 
-![a person sprite](images/usernames-person.png)
+![objeto persona](images/usernames-person.png)
 
 También puedes hacer clic en ** Disfraces ** y elige el disfraz que prefieras.
 
@@ -62,7 +62,7 @@ También puedes hacer clic en ** Disfraces ** y elige el disfraz que prefieras.
 
 Agrega este código a tu objeto persona:
 
-![person sprite](images/person-sprite.png)
+![objeto persona](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+Necesitas combinar un adjetivo y un sustantivo, así que añade un bloque `unir`{:class="block3operators"} dentro de tu bloque `dar a`{:class="block3variables"}.
 
-![person sprite](images/person-sprite.png)
+![objeto persona](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+Agrega un adjetivo en la primera caja del bloque `unir`{:class="block3operators"}.
 
-![person sprite](images/person-sprite.png)
+![objeto persona](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+Elige un adjetivo `aleatorio`{:class="block3operators"} entre 1 y la `longitud de la lista de adjetivos`{:class="block3variables"}
 
-![person sprite](images/person-sprite.png)
+![objeto persona](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+Agrega un sustantivo aleatorio en el segundo cuadro.
 
-![person sprite](images/person-sprite.png)
+![objeto persona](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+Ahora agrega bloques de código para que tu persona diga el nombre de usuario.
 
-![person sprite](images/person-sprite.png)
+![objeto persona](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+Prueba tu código haciendo clic en el objeto de la persona. Deberías obtener un nuevo nombre de usuario aleatorio cada vez.
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![objeto persona diciendo CernícaloÁrtico](images/usernames-click.png)
 
 \--- /task \---
