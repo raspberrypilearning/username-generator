@@ -1,0 +1,18 @@
+---
+hero_image: images/banner.png
+listed: true
+title: Γεννήτρια username
+description: Δημιούργησε εκπληκτικά ονόματα χρήστη (username) που μπορείς να χρησιμοποιήσεις στο διαδίκτυο
+version: 4
+last_tested: 2018-03-11
+steps:
+  - title: Εισαγωγή
+  - title: Δημιουργία ονομάτων χρήστη
+  - title: "Πρόκληση: πρόσθεσε μεγαλύτερη ποικιλία"
+    challenge: true
+  - title: Αποθήκευση των αγαπημένων σου ονομάτων χρήστη
+  - title: "Πρόκληση: πρόσθεσε έναν αριθμό"
+    challenge: true
+  - title: "Πρόκληση: δημιούργησε την εικόνα του προφίλ σου"
+    challenge: true
+  - title: 'Και τώρα;'
