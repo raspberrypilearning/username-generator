@@ -1,10 +1,10 @@
-## What next?
+## ما التالي؟
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+ألق نظرة على مشروع [قطة تذهب للتزلج](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) في برنامج Scratch.
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+أنقر على العلم الأخضر للبدء. استخدم مفتاحي السهم الأيمن والأيسر للتحكم في المتزلج.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![المشروع كامل](images/skiing-final.png)
 
 --- /print-only ---
