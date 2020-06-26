@@ -1,10 +1,10 @@
-## Saving your favourite usernames
+## حفظ أسماء المستخدمين المفضلة لديك
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+ربما تريد التفكير في بعض أسماء المستخدمين المختلفة. دعونا نضيف أسماء المستخدمين التي تحبها إلى قائمة.
 
 \--- task \---
 
-Create a new list called `names I like`:
+قم بإنشاء قائمة جديدة تسمى `اسماء احبها `:
 
 [[[generic-scratch3-make-list]]]
 
@@ -12,19 +12,19 @@ Create a new list called `names I like`:
 
 \--- task \---
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+ستظهر القائمة على المسرح. قم بسحبها إلى يمين الكائن الخاص بك واجعل عرضها أوسع.
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
+![قائمة اسماء احبها مع تغيير الحجم في أسفل اليسار](images/usernames-like-stage.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
+أضف كائن الزر ` Button4 `، والذي يبدو بالشكل <span style="color: green;"> ✔ </span> ، واسحبه عبر الجزء الرئيسي إلى يمين فقاعة الكلام.
 
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
+![كائن علامة خضراء على المسرح بجوار قائمة اسماء احبها](images/usernames-tick.png)
 
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+قد تحتاج إلى نقل قائمة `اسماء احبها ` إذا كان الكائن ` Button4 ` تحتها.
 
 \--- /task \---
 
