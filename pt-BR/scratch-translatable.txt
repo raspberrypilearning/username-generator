@@ -2,6 +2,6 @@ adjetivos
 
 substantivos
 
-username
+nome de usuário
 
 nomes que eu gosto
