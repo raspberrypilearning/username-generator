@@ -14,7 +14,7 @@ Crear una nueva lista llamada ` nombres que me gustan`:
 
 La lista aparecerá en el escenario. Arrástrala a la derecha del objeto de tu persona y hazla más amplio.
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
+![lista de nombres que me gustan con botón para incrementar el tamaño resaltado](images/usernames-like-stage.png)
 
 \--- /task \---
 
@@ -22,17 +22,17 @@ La lista aparecerá en el escenario. Arrástrala a la derecha del objeto de tu p
 
 Añade el objeto `Botón4`, que parece <span style="color: green;">✔</span>, y arrástralo a la derecha de la burbuja de voz.
 
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
+![objeto de tick verde en el escenario junto a la lista de nombres que me gustan](images/usernames-tick.png)
 
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+Puede que tengas que mover los `nombres que me gustan` si el objeto `Botón` está debajo de él.
 
 \--- /task \---
 
 \--- task \---
 
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+Agrega código al objeto de botón para que cuando se haga clic en él, el nombre de usuario actual se agregue a `nombres que me gusta`.
 
-![button sprite](images/button-sprite.png)
+![objeto de botón](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,18 +43,18 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+Prueba tu código haciendo clic en el objeto de la persona hasta que encuentres un nombre de usuario que te guste y luego haz clic en <span style="color: green;">✔</span>.
 
-![names i like list populated](images/usernames-like-list.png)
+![lista poblada de nombres que me gustan](images/usernames-like-list.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+Puedes exportar tu lista de nombres de usuario a un archivo de texto para guardarlos. Haz clic derecho en los `nombres que me gustan` en el escenario, haz clic en **Exportar**, y elije un lugar para guardar la lista como un archivo.
 
-![list menu with export option highlighted](images/usernames-export.png)
+![menú de lista con opción de exportación resaltada](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+Ahora tienes un archivo de texto que contiene una lista de nombres que puedes abrir con Bloc de notas u otro editor de texto.
 
 \--- /task \---
