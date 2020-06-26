@@ -1,0 +1,25 @@
+---
+hero_image: images/banner.png
+listed: true
+title: Générateur de nom d'utilisateur
+description: Générer des noms d'utilisateur géniaux que tu peux utiliser en ligne
+version: 4
+last_tested: 2018-03-11
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Génération des noms d'utilisateur
+  - 
+    title: "Défi : ajoute plus de variété"
+    challenge: true
+  - 
+    title: Enregistrement de tes noms d'utilisateur favoris
+  - 
+    title: "Défi : ajouter un chiffre"
+    challenge: true
+  - 
+    title: "Défi: crée ta photo de profil"
+    challenge: true
+  - 
+    title: 'Et ensuite ?'
