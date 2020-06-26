@@ -1,10 +1,10 @@
-## Saving your favourite usernames
+## Guardando tus nombres de usuario favoritos
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+Probablemente quieras considerar algunos nombres de usuario diferentes. Agreguemos los nombres de usuario que te gusten a una lista.
 
 \--- task \---
 
-Create a new list called `names I like`:
+Crear una nueva lista llamada ` nombres que me gustan`:
 
 [[[generic-scratch3-make-list]]]
 
@@ -12,7 +12,7 @@ Create a new list called `names I like`:
 
 \--- task \---
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+La lista aparecerá en el escenario. Arrástrala a la derecha del objeto de tu persona y hazla más amplio.
 
 ![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
 
@@ -20,7 +20,7 @@ The list will appear on the stage. Drag it to the right of your person sprite an
 
 \--- task \---
 
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
+Añade el objeto `Botón4`, que parece <span style="color: green;">✔</span>, y arrástralo a la derecha de la burbuja de voz.
 
 ![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
 
