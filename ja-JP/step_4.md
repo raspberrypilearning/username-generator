@@ -1,10 +1,10 @@
-## Saving your favourite usernames
+## 好きなユーザー名を保存する
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+You probably want to consider a few different usernames. 好きなユーザー名をリストに追加しましょう。
 
 \--- task \---
 
-Create a new list called `names I like`:
+`好きな名前`という新しいリストを作りましょう。
 
 [[[generic-scratch3-make-list]]]
 
@@ -12,27 +12,27 @@ Create a new list called `names I like`:
 
 \--- task \---
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+リストがステージ上に表示されます。 リストを人物のスプライトの右にドラッグして、はばを広げます。
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
-
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
-
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+![左下でハイライト表示されている、サイズをかえた「好きな名前」リスト](images/usernames-like-stage.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+<span style="color: green;">✔</span>のような`Button4` (ボタン4) スプライトを追加し、ふきだしの右にドラッグします。
 
-![button sprite](images/button-sprite.png)
+![ステージ上の「好きな名前」リストのとなりにある緑色のチェックマークのスプライト](images/usernames-tick.png)
+
+`Button4`スプライトが`好きな名前`リストの下にある場合は、リストを動かす必要があるかもしれません。
+
+\--- /task \---
+
+\--- task \---
+
+ボタンのスプライトにコードを追加して、スプライトがクリックされたら、今のユーザー名を`好きな名前`に追加するようにします。
+
+![ボタンのスプライト](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,18 +43,18 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+好きなユーザー名が出てくるまで人物のスプライトをクリックし、その後に<span style="color: green;">✔</span>をクリックしてコードをテストしましょう。
 
-![names i like list populated](images/usernames-like-list.png)
+![ユーザー名が追加された「好きな名前」リスト](images/usernames-like-list.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+テキストファイルにエクスポートして、ユーザー名のリストを保存できます。 ステージにある`好きな名前`リストを右クリックして、**書き出し**をクリックし、ファイルとして保存する場所をえらびます。
 
-![list menu with export option highlighted](images/usernames-export.png)
+![「書き出し」オプションがハイライト表示されたリストメニュー](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+メモ帳や他のテキストエディタで開くことができる、ユーザー名のリストをふくむテキストファイルが作成されています。
 
 \--- /task \---
