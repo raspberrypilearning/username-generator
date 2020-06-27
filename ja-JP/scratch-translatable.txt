@@ -1,7 +1,7 @@
-adjectives
+形容詞
 
-nouns
+名詞
 
-username
+ユーザー名
 
-names I like
+好きなユーザー名
