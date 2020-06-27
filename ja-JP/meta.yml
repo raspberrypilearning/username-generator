@@ -11,7 +11,7 @@ steps:
   - 
     title: ユーザー名の生成
   - 
-    title: "チャレンジ: 種類をふやす"
+    title: "チャレンジ: 単語をふやす"
     challenge: true
   - 
     title: 好きなユーザー名を保存する
