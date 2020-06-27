@@ -1,8 +1,8 @@
 ## チャレンジ: 数字を追加する
 
-人気のあるウェブサイトやアプリでは、他のユーザーがまだ使っていないユーザー名を見つけるのがむつかしいことがあります。 あるいは、あるサイトで使っているユーザー名が他のサイトですでに使われていることに気づくかもしれません。 To get around that, you could add a number to the end of your username. **Remember not to use your age, birth date, or birth year.**
+人気のあるウェブサイトやアプリでは、他のユーザーがまだ使っていないユーザー名を見つけるのがむつかしいことがあります。 あるいは、あるサイトで使っているユーザー名が他のサイトですでに使われていることに気づくかもしれません。 これをさけるには、ユーザー名の最後 (さいご) に数字を追加します。 **年齢や誕生日、生まれた年を使わないようにしてください。**
 
-Can you use the following blocks to generate usernames with a random number at the end?
+このブロックを使って、最後がランダムな数字になるユーザー名を生成できますか？
 
 ```blocks3
 set [username v] to [0]
@@ -14,6 +14,6 @@ username :: variables
 pick random (20) to (99)
 ```
 
-New usernames you generate should now have numbers at the end:
+生成した新しいユーザー名の最後には数字がついているはずです。
 
-![screenshot](images/usernames-with-numbers.png)
+![スクリーンショット](images/usernames-with-numbers.png)
