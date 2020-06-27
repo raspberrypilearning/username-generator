@@ -6,16 +6,16 @@
 
 ## はじめに
 
-It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
+オンラインでのユーザー名には本名や個人情報 (こじんじょうほう) を使わないことが大切です。 このプロジェクトでは、Scratch のようなウェブサイトで使える、おもしろいユーザー名を生成します。
 
-### What you will make
+### 作るもの
 
 \--- no-print \---
 
-To try out the finished project:
+これが完成 (かんせい) したプロジェクトです。
 
-- Click the girl sprite to generate a new username
-- Click the <span style="color: green;">✔</span> to add a username you like to the list
+- 女の子のスプライトをクリックして、新しいユーザー名を生成します。
+- <span style="color: green;">✔</span>をクリックして、リストにユーザー名を追加 (ついか) します。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/292974184/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -26,33 +26,33 @@ To try out the finished project:
 
 \--- print-only \---
 
-![complete project](images/usernames-final.png)
+![完成したプロジェクト](images/usernames-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 必要 (ひつよう) なもの
 
-### Hardware
+### ハードウェア
 
-- A computer capable of running Scratch
+- Scratch を実行できるコンピュータ
 
-### Software
+### ソフトウェア
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
 
-### Downloads
+### ダウンロード
 
-The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
+基本（きほん）のプロジェクトは [こちら](http://rpf.io/p/en/username-generator-go){:target="_blank"}にあります。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: What you will learn
+## title: 学ぶこと
 
-- Use lists in Scratch
+- Scratch でのリストの使い方
 - Use the paint tool to create images
 - How to exporting text files and images from Scratch
 
@@ -60,14 +60,14 @@ The starter project can be found [here](http://rpf.io/p/en/username-generator-go
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 教育者向けの追加情報
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"}.
+このプロジェクトを印刷する必要がある場合は、[印刷用バージョン](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_ blank"}を使用してください。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+[完成したプロジェクトはこちら](http://rpf.io/p/en/username-generator-get){:target="_blank"}にあります。
 
 \--- /collapse \---
