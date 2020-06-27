@@ -1,6 +1,6 @@
 ## 好きなユーザー名を保存する
 
-You probably want to consider a few different usernames. 好きなユーザー名をリストに追加しましょう。
+ちがうユーザー名をいくつか考えてみたいと思うでしょう。 好きなユーザー名をリストに追加しましょう。
 
 \--- task \---
 
