@@ -53,8 +53,8 @@
 ## title: 学ぶこと
 
 - Scratch でのリストの使い方
-- Use the paint tool to create images
-- How to exporting text files and images from Scratch
+- ペイントツールを使った画像 (がぞう) の作り方
+- Scratch からテキストファイルと画像を書き出す方法
 
 \--- /collapse \---
 
