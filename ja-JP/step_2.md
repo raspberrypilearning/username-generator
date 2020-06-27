@@ -99,7 +99,7 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-1から`形容詞の(リストの)長さ`{:class="block3variables"}までの`乱数`{:class="block3operators"} (らんすう) で形容詞をえらびます。(1番目からリストにある形容詞の数までの中から (この時点では6番目まで) 、ランダムに形容詞をえらびます)
+1から`形容詞の(リストの)長さ`{:class="block3variables"}までの`乱数`{:class="block3operators"} (らんすう) で形容詞をえらびます。(リストの1番目～最後にある形容詞の中から (この時点では6番目まで) 、ランダムにえらびます)
 
 ![人物のスプライト](images/person-sprite.png)
 
