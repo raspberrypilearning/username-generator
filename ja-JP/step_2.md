@@ -1,40 +1,40 @@
-## Generating usernames
+## ユーザー名の生成
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+ユーザー名を使って個人を特定 (とくてい) するウェブサイトやアプリはたくさんあります。 このユーザー名は他の人にも見えることが多いです。 ユーザー名はスクリーン名、ゲーマータグ、ハンドルネームともいいます。
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+ユーザー名が本名ではないこと、そして自分の年や誕生日 (たんじょうび)、住所といった個人情報をふくんでいないことが大切です。 あなたのユーザー名を他の人が見ることになるので、しつれいな名前でないかをたしかめましょう。そして、他の人があなたのユーザー名を読んだときにどう思うかを考えましょう。 ユーザー名は長い間使うかもしれないことをわすれないでください。3年たってもそのユーザー名を好きでいられますか？
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+このように、ユーザー名はしんちょうにえらぶことが大切です。 「ダイヤでできたイグアナ」（DiamondIguana）のような「形容詞 (けいようし)＋名詞 (めいし) 」のユーザー名を生成する Scratch プロジェクトをつくりましょう。
 
 \--- task \---
 
-Open the Scratch starter project.
+基本（きほん）の Scratch プロジェクトを開きます。
 
-**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**オンライン**: [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}から基本のプロジェクトを開きます。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Scratch アカウントを持っている場合は、**リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**オフライン**: オフラインエディターで[基本のプロジェクト](http://rpf.io/p/en/username-generator-go){:target="_blank"}を開きます。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}から Scratch オフラインエディターをダウンロードしてインストールできます。
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+ステージ上に2つのリスト（`形容詞`と`名詞`）があります。
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![形容詞と名詞のリスト](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+**変数** (へんすう) をクリックして、`形容詞`と`名詞`の横にあるチェックボックスをクリックしてチェックを外し、リストを表示 (ひょうじ) しないようにします。
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![形容詞と名詞の変数](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+**すべてのスプライトで**使えるように`ユーザー名`という名前の変数を追加します。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,27 +42,27 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+`ユーザー名`の横にあるチェックボックスをクリックし、チェックを外してステージに変数を表示しないようにします。
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![ユーザー名の変数](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+人物のスプライトを追加しましょう。好きなものをえらんでかまいません。
 
-![person sprite](images/person-sprite.png)
+![人物のスプライト](images/usernames-person.png)
+
+**コスチューム**をクリックして好きなコスチュームもえらべます。
+
+\--- /task \---
+
+\--- task \---
+
+人物のスプライトにこのコードを追加しましょう。
+
+![人物のスプライト](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+形容詞と名詞をつなげる必要があるので、`〜にする`{:class="block3variables"}ブロックに`〜と〜`{:class="block3operators"}ブロックを追加します。
 
-![person sprite](images/person-sprite.png)
+![人物のスプライト](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
