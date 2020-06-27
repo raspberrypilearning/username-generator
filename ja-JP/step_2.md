@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+1から`形容詞の(リストの)長さ`{:class="block3variables"}までの`乱数`{:class="block3operators"} (らんすう) で形容詞をえらびます。(1番目からリストにある形容詞の数までの中から (この時点では6番目まで) 、ランダムに形容詞をえらびます)
 
-![person sprite](images/person-sprite.png)
+![人物のスプライト](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+2番目のボックスにランダムにえらんだ名詞を追加します。
 
-![person sprite](images/person-sprite.png)
+![人物のスプライト](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+次に、コードブロックを追加して人物がユーザ名を言うようにします。
 
-![person sprite](images/person-sprite.png)
+![人物のスプライト](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+人物のスプライトをクリックしてコードをテストしましょう。 毎回新しいユーザー名がランダムに表示されるはずです。
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![北極チョウゲンボウ（Arctic Kestrel）と言う人物のスプライト](images/usernames-click.png)
 
 \--- /task \---
