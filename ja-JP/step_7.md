@@ -1,10 +1,10 @@
-## What next?
+## 次は何をしましょうか？
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+Scratch プロジェクト [Scratchネコがスキーに行く](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) を見てみましょう。
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+緑の旗（はた）をクリックしてスタートします。 左右の矢印 (やじるし) キーを使ってスキーヤーを動かします。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![完成したプロジェクト](images/skiing-final.png)
 
 --- /print-only ---
