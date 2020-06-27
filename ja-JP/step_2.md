@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+`〜と〜`{:class="block3operators"}ブロックの1番目のボックスに形容詞を追加します。
 
-![person sprite](images/person-sprite.png)
+![人物のスプライト](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
