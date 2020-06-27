@@ -1,9 +1,9 @@
-## Challenge: create your profile picture
+## チャレンジ: プロフィール画像 (がぞう) をつくる
 
-Can you use the paint tool in Scratch to create your own profile picture to go with a username?
+Scratch のペイントツールを使って、ユーザー名といっしょに自分のプロフィール画像を作成することはできますか？
 
-Here's an example:
+これは一例 (いちれい) です。
 
-![example of a profile picture](images/usernames-picture.png)
+![プロフィール画像の例](images/usernames-picture.png)
 
-Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
+画面キャプチャプログラムを使って画像を保存し、プロフィール画像を表示するウェブサイトやアプリで使えるようにします。
