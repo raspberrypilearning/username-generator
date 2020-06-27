@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## チャレンジ: 単語をふやす
 
-Can you add more items to the lists of adjectives and nouns?
+形容詞と名詞のリストにさらに単語を追加できますか？
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+リストのチェックボックスをクリックしてステージ上に表示します。 次に**+**アイコンをクリックして、リストに追加する新しい単語を入力します。 各単語の先頭を大文字にすることをわすれないでください。
 
-![screenshot](images/usernames-add.png)
+![スクリーンショット](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+`名詞`リストには、本物の動物や生き物、または想像 (そうぞう) 上の動物や生き物の名前がてきしています。 かわったものを考えてみましょう。
 
-Here are some ideas for the `adjectives` list:
+これは`形容詞`リスト用のアイデアです。
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ 金属 (きんぞく): Zinc（亜鉛（あえん））、Cooper（銅 (どう) ）、Iron（鉄）、Brass（真鍮（しんちゅう））、Gold（金）
++ 色: Crimson（真紅 (しんく) ）、Aqua（水色）、Magendta（赤紫（あかむらさき）色）、Golden（金色）、Indigo（藍（あい）色）
++ 宝石: Quartz（石英（せきえい））、Emerald（エメラルド）、Diamond（ダイヤモンド）
++ 生息地: Moon（月）、Desert（砂漠 (さばく) ）、Snow（雪）、Jungle（ジャングル）、Forest（森）、Space（宇宙 (うちゅう) ）
 
-Remember to hide the lists from the stage when testing your project.
+プロジェクトをテストするときは、ステージにリストを表示させないようにしましょう。
