@@ -14,7 +14,7 @@ Es ist wichtig, dass Du nicht Deinen richtigen Namen oder persönliche Informati
 
 So probierst Du das fertige Projekt aus:
 
-- Klicke auf das Mädchen-Sprite, um einen neuen Benutzernamen zu generieren
+- Klicke auf die Mädchenfigur, um einen neuen Benutzernamen zu generieren
 - Klicke auf <span style="color: green;">✔</span>, um der Liste einen gewünschten Benutzernamen hinzuzufügen
 
 <div class="scratch-preview">
