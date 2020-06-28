@@ -34,7 +34,7 @@ Klicke auf **Variablen** und dann auf die Kästchen neben `Adjektive` und `Nomen
 
 \--- task \---
 
-Erstelle eine Variable mit dem Namen `Benutzername`, die **für alle Sprites** verfügbar sein sollte.
+Erstelle eine Variable mit dem Namen `Benutzername`, die **für alle Figuren** verfügbar sein sollte.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -50,9 +50,9 @@ Klicke auf das Kontrollkästchen neben `Benutzername`, um es zu deaktivieren und
 
 \--- task \---
 
-Füge ein Personen-Sprite hinzu - Du kannst Dein Lieblings-Sprite auswählen.
+Füge eine Personen-Figur hinzu - Du kannst Deine Lieblingsfigur auswählen.
 
-![ein Personen Sprite](images/usernames-person.png)
+![eine Personen-Figur](images/usernames-person.png)
 
 Du kannst auch auf **Kostüme** klicken und das Kostüm auswählen, das Du bevorzugst.
 
@@ -60,9 +60,9 @@ Du kannst auch auf **Kostüme** klicken und das Kostüm auswählen, das Du bevor
 
 \--- task \---
 
-Füge diesen Code Deinem persönlichen Sprite hinzu:
+Füge diesen Code zu Deiner persönlichen Figur hinzu:
 
-![Person Sprite](images/person-sprite.png)
+![Personen-Figur](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -75,7 +75,7 @@ set [username v] to []
 
 Um ein Adjektiv und ein Nomen zu kombinieren, füge einen Block `verbinde`{: class = "block3operators"} in Deinen Block `setze`{: class = "block3variables"} ein.
 
-![Person Sprite](images/person-sprite.png)
+![Personen-Figur](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -88,7 +88,7 @@ set [username v] to (join [apple] [banana] :: +)
 
 Füge im ersten Feld des Blocks `verbinde`{: class = "block3operators"} ein Adjektiv hinzu.
 
-![Person Sprite](images/person-sprite.png)
+![Personen-Figur](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -101,7 +101,7 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 Wähle ein `zufälliges`{: class = "block3operators"} Adjektiv zwischen 1 und `Länge der Adjektivliste`{: class = "block3variables"}
 
-![Person Sprite](images/person-sprite.png)
+![Personen-Figur](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -114,7 +114,7 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 Füge im zweiten Feld ein zufälliges Nomen hinzu.
 
-![Person Sprite](images/person-sprite.png)
+![Personen-Figur](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -127,7 +127,7 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 Füge nun Codeblöcke hinzu, damit Deine Person den Benutzernamen sagt.
 
-![Person Sprite](images/person-sprite.png)
+![Personen-Figur](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Teste Deinen Code, indem Du auf das Personensprite klickst. Du solltest jedes Mal einen neuen zufälligen Benutzernamen erhalten.
+Teste Deinen Code, indem Du auf die Personen-Figur klickst. Du solltest jedes Mal einen neuen zufälligen Benutzernamen erhalten.
 
-![Person Sprite sagt Arctic Kestrel](images/usernames-click.png)
+![Personen-Figur sagt Arktischer Sturmfalke](images/usernames-click.png)
 
 \--- /task \---
