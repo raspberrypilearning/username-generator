@@ -1,6 +1,6 @@
 ## Wie geht's weiter?
 
-Wirf einen Blick auf das [Scratch-Katze geht Skifahren](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch Projekt.
+Wirf einen Blick auf das '[Scratch-Katze geht Skifahren](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing)' Scratch Projekt.
 
 --- no-print ---
 
