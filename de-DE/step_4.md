@@ -12,7 +12,7 @@ Erstelle eine neue Liste mit dem Namen `Meine Benutzernamen`:
 
 \--- task \---
 
-Die Liste erscheint auf der Bühne. Ziehe es rechts neben Dein Personen-Sprite und mache es breiter.
+Die Liste erscheint auf der Bühne. Ziehe es rechts neben deiner Personen-Figur und mache es breiter.
 
 ![Meine Benutzernamen-Liste mit Größenänderung unten links hervorgehoben](images/usernames-like-stage.png)
 
@@ -20,19 +20,19 @@ Die Liste erscheint auf der Bühne. Ziehe es rechts neben Dein Personen-Sprite u
 
 \--- task \---
 
-Füge das Sprite `Button4`, das wie <span style="color: green;">✔</span>aussieht, ein. Ziehe es über die Bühne, bis es sich rechts von der Sprechblase befindet.
+Füge die Figur `Button4` hinzu, welche wie ein <span style="color: green;">✔</span>aussieht und ziehe sie über die Bühne, bis sie sich rechts von der Sprechblase befindet.
 
-![grünes Häkchen Sprite auf der Bühne neben der Meine Benutzernamen-Liste](images/usernames-tick.png)
+!['grünes Häkchen'-Figur auf der Bühne neben der 'Meine Benutzernamen'-Liste](images/usernames-tick.png)
 
-Möglicherweise musst Du die `Meine Benutzernamen` Liste verschieben, wenn der `Button4` Sprite darunter liegt.
+Möglicherweise musst Du die `Meine Benutzernamen` Liste verschieben, wenn die `Button4` -Figur darunter liegt.
 
 \--- /task \---
 
 \--- task \---
 
-Füge dem Schaltflächen-Sprite Code hinzu, sodass beim Klicken der aktuelle Benutzername zu `Meine Benutzernamen` hinzugefügt wird.
+Füge der Knopf (englisch Button) -Figur einen Code hinzu, sodass beim Klicken der aktuelle Benutzername zu `Meine Benutzernamen` hinzugefügt wird.
 
-![Knopf-Sprite](images/button-sprite.png)
+![Knopf-Figur](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,7 +43,7 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Teste Deinen Code, indem Du auf das Personensprite klickst, bis Du einen gewünschten Benutzernamen findest. Klicke dann auf <span style="color: green;">✔</span>.
+Teste Deinen Code, indem Du auf die Personen-Figur klickst, bis Du einen gewünschten Benutzernamen findest. Klicke dann auf <span style="color: green;">✔</span>.
 
 ![Meine Benutzernamen Liste gefüllt](images/usernames-like-list.png)
 
