@@ -1,7 +1,7 @@
-adjectives
+形容词
 
-nouns
+名词
 
-username
+用户名
 
-names I like
+我喜欢的名字
