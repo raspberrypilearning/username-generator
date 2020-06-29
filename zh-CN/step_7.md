@@ -1,10 +1,10 @@
-## What next?
+## 接下来还有什么？
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+试试看 [小猫滑雪](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch 项目。
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+点击绿旗开始。 使用左右箭头控制滑雪者。
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![完成项目](images/skiing-final.png)
 
 --- /print-only ---
