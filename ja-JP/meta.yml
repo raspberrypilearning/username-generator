@@ -1,0 +1,18 @@
+---
+hero_image: images/banner.png
+listed: true
+title: ユーザー名生成ツール
+description: オンラインで使える、カッコいいユーザー名を生成 (せいせい) しよう
+version: 4
+last_tested: 2018-03-11
+steps:
+  - title: はじめに
+  - title: ユーザー名の生成
+  - title: "チャレンジ: 単語をふやす"
+    challenge: true
+  - title: 好きなユーザー名を保存する
+  - title: "チャレンジ: 数字を追加する"
+    challenge: true
+  - title: "チャレンジ: プロフィール画像 (がぞう) をつくる"
+    challenge: true
+  - title: '次は何をしましょうか？'
