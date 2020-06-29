@@ -73,7 +73,7 @@ set [nome de usuário v] to []
 
 --- task ---
 
-Você precisa combinar um adjetivo e um substantivo, então adicione um bloco `junte`{class="block3operators"} dentro do seu bloco `mude`{:class="block3variables"}.
+Você precisa combinar um adjetivo e um substantivo, então adicione um bloco `junte`{:class="block3operators"} dentro do seu bloco `mude`{:class="block3variables"}.
 
 ![ator pessoa](images/person-sprite.png)
 
