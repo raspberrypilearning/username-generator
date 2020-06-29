@@ -8,7 +8,7 @@
 
 [[[generic-scratch3-make-list]]]
 
----/task--
+--- /task ---
 
 --- task ---
 
