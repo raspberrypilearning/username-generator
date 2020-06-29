@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## 挑战：添加多样性
 
-Can you add more items to the lists of adjectives and nouns?
+您能在形容词和名词列表中添加更多项目吗？
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+选中列表左边的方框将它们显示在舞台上。 然后点击**+**图标并在列表中输入一个新词。 不要忘了每个单词都以大写字母开头。
 
-![screenshot](images/usernames-add.png)
+![截图](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+真实的动物和想象生物都可以添加在`名词`列表中。 试着添加新奇不常见的。
 
-Here are some ideas for the `adjectives` list:
+以下是`形容词`的一些备选词汇：
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ 金属：锌、铜、铁、黄铜、银、金。
++ 颜色：深红，浅绿，洋红，金色，靛蓝
++ 宝石：石英，绿宝石，蓝宝石，钻石
++ 栖息地：月亮，沙漠，雪域，丛林，森林，太空
 
-Remember to hide the lists from the stage when testing your project.
+在测试您的项目时记得在舞台上隐藏列表。
