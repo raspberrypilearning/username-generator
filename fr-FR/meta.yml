@@ -9,12 +9,12 @@ steps:
   - 
     title: Introduction
   - 
-    title: Génération des noms d'utilisateur
+    title: Générer des noms d'utilisateur
   - 
-    title: "Défi : Ajoute plus de variété"
+    title: "Défi : ajouter plus de variété"
     challenge: true
   - 
-    title: Enregistrement de tes noms d'utilisateur favoris
+    title: Enregistrer tes noms d'utilisateur favoris
   - 
     title: "Défi : ajouter un chiffre"
     challenge: true
