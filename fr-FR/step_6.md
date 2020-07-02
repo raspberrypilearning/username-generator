@@ -1,4 +1,4 @@
-## Défi: crée ta photo de profil
+## Défi: créer ta photo de profil
 
 Peux-tu utiliser l'outil de peinture dans Scratch pour créer ta propre photo de profil pour aller avec un nom d'utilisateur ?
 
