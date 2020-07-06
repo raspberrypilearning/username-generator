@@ -8,9 +8,9 @@ As you can see, it’s important to choose your username carefully. Let's create
 
 \--- task \---
 
-Open the Scratch starter project.
+打開專案材料包。
 
-**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**線上版**：通過[rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}打開入門專案。
 
 If you have a Scratch account you can make a copy by clicking **Remix**.
 
