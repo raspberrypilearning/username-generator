@@ -1,10 +1,10 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+This is the **Scratch 3** version of the project. 另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/username-generator-scratch2) 版本。
 
 \--- /no-print \---
 
-## Introduction
+## 介紹
 
 It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
 
@@ -26,7 +26,7 @@ To try out the finished project:
 
 \--- print-only \---
 
-![complete project](images/usernames-final.png)
+![完成專案](images/usernames-final.png)
 
 \--- /print-only \---
 
@@ -60,7 +60,7 @@ The starter project can be found [here](http://rpf.io/p/en/username-generator-go
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: 給教師的其它資訊
 
 \--- no-print \---
 
