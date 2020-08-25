@@ -1,21 +1,21 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. 另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/username-generator-scratch2) 版本。
+這個專案是 **Scratch 3** 版本。 另外還有 [Scratch 2](https://projects.raspberrypi.org/en/projects/username-generator-scratch2) 版本。
 
 \--- /no-print \---
 
 ## 介紹
 
-It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
+請勿使用您的真實姓名或任何個人信息作為在線用戶名，這一點很重要。 在此項目中，您將創建可在Scratch等網站上使用的有趣用戶名。
 
-### What you will make
+### 您會做出：
 
 \--- no-print \---
 
-To try out the finished project:
+嘗試以下已完成的項目：
 
-- Click the girl sprite to generate a new username
-- Click the <span style="color: green;">✔</span> to add a username you like to the list
+- 點擊圖中「女精靈」以生成新的用戶名
+- 點擊 <span style="color: green;">✔</span> 將您喜歡的用戶名添加到清單中
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/292974184/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -32,42 +32,42 @@ To try out the finished project:
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: 您會用到
 
-### Hardware
+### 硬體
 
-- A computer capable of running Scratch
+- 可運行 Scratch 的電腦
 
-### Software
+### 軟體
 
-- Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
+- Scratch 3（[線上版](http://rpf.io/scratchon){:target="_blank"} 或 [離線版](http://rpf.io/scratchoff){:target="_blank"}）
 
-### Downloads
+### 下載
 
-The starter project can be found [here](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use lists in Scratch
-- Use the paint tool to create images
-- How to exporting text files and images from Scratch
+入門項目可在 [這裡](http://rpf.io/p/en/username-generator-go) {：target =“ _ blank”}找到。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: 給教師的其它資訊
+## title: 您會學到
+
+- 在 Scratch 中使用清單
+- 使用繪畫工具創建圖像
+- 在 Scratch 中，怎樣匯出文字和圖像檔案
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: 提供教師的補充資訊
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"}.
+如果您需要列印此專案內容，請下載 [列印版本](https://projects.raspberrypi.org/en/projects/username-generator/print){：target =“_ blank”}。
 
 \--- /no-print \---
 
-You can find the [completed project here](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+您可以在這裡找到 [已經完成的專案](http://rpf.io/p/en/username-generator-get){:target="_blank"}。
 
 \--- /collapse \---
