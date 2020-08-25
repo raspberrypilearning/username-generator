@@ -1,9 +1,9 @@
-## Challenge: create your profile picture
+## 挑戰：創建您的個人資料照片
 
-Can you use the paint tool in Scratch to create your own profile picture to go with a username?
+您可以使用Scratch中的繪畫工具來創建自己的個人資料照片以及用戶名嗎？
 
-Here's an example:
+這裡有個例子：
 
-![example of a profile picture](images/usernames-picture.png)
+![個人資料照片例子](images/usernames-picture.png)
 
-Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
+使用屏幕捕獲程式儲存您的圖片，以便您可以在顯示個人資料圖片的網站或應用程式上使用它
