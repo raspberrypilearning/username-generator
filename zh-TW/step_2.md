@@ -1,40 +1,40 @@
-## Generating usernames
+## 創建用戶名
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+許多網站和應用程式都需要使用用戶名來識別您的身份。 該用戶名通常對其他人是可見的。 用戶名也經常被稱為屏幕名稱，遊戲者標籤或手柄。
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+重要的是，您的用戶名應避免使用您的真實姓名，也不要包含任何個人信息，例如您的年齡，出生年份或居住地。 因其他人會看到您的用戶名，請確保它是有禮貌，並考慮其他人在閱讀時會如何看待您。 還有請記住，您可能會使用這個用戶名一段很長的時間 - 所以您最好想想三年後仍會喜歡它嗎？
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+由此可見，小心選擇用戶名是很重要的。 現在讓我們創建一個Scratch項目以生成包含「形容詞名詞」的用戶名，例如 「青銅羚羊」。
 
 \--- task \---
 
-打開專案材料包。
+打開Scratch入門專案。
 
-**線上版**：通過[rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}打開入門專案。
+**線上版**：通過 [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"} 打開入門專案。
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+如果您已經有 Scratch 帳戶，您可以直接**改編**專案。
 
-**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**離線版**：在離線編輯器裡開啟[入門專案](http://rpf.io/p/en/username-generator-go){:target="_blank"}。
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+如果您需要 Scratch 離線版編輯器，可以連結到 [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}。
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+您應該在舞台上看到兩個列表 - `形容詞` 和 `名詞` ：
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![形容詞和名詞清單](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+點擊 **變數** ，然後點擊 `形容詞` 和 `名詞` 旁邊的框用以取消選中它們並隱藏列表。
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![形容詞和名詞變數](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+添加一個名為 `用戶名` 的變數，這個變數適用於**所有角色**。
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,27 +42,27 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+點擊 `用戶名` 旁邊的框，用以取消選中它並在舞台上隱藏該變數。
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![用戶名變數](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+添加一個人物角色 - 您可以選擇自己所喜歡的。
 
-![person sprite](images/person-sprite.png)
+![一個人物角色](images/usernames-person.png)
+
+您也可以點擊 **造型** 然後選擇您喜歡的服裝。
+
+\--- /task \---
+
+\--- task \---
+
+為這角色編寫以下這個程式碼：
+
+![人物角色](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+您需要組合一個形容詞和一個名詞，因此添加一個 `字串組合` {:class =“ block3operators”}塊到您的 `變數` {:class =“ block3variables”} 塊。
 
-![person sprite](images/person-sprite.png)
+![人物角色](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+把「形容詞」放入 `字串組合`{:class="block3operators"} 第一個框中。
 
-![person sprite](images/person-sprite.png)
+![人物角色](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+在「運算」中，選擇 `隨機取數`{:class="block3operators"}，在 1 至 `形容詞清單`的長度{:class="block3variables"}。
 
-![person sprite](images/person-sprite.png)
+![人物角色](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+添加一個隨機名詞到第二個「字串組合」框中。
 
-![person sprite](images/person-sprite.png)
+![人物角色](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+現在添加程式塊，讓您的用戶說出「用戶名」。
 
-![person sprite](images/person-sprite.png)
+![人物角色](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+通過點擊人物精靈來測試您的程式碼。 您應該每次都獲得一個新的隨機用戶名。
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![人物角色稱作「北極紅隼」](images/usernames-click.png)
 
 \--- /task \---
