@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## 挑戰：多樣化
 
-Can you add more items to the lists of adjectives and nouns?
+您可以在形容詞和名詞清單中添加更多項目嗎？
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+選中清單中的框把它們顯示在舞台上。 先點擊 **+** 圖標，然後在列表中輸入新單詞。 如用英文單詞，不要忘記每個單詞都以英文大寫字母開頭。
 
-![screenshot](images/usernames-add.png)
+![截圖](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+真實和虛構的動物和生物都已經在`名詞`清單上。 現在試想想一些不尋常的東西。
 
-Here are some ideas for the `adjectives` list:
+這是一些 `形容詞` 清單的例子：
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ 金屬類：鋅、銅、鐵、黃銅、銀、金
++ 顏色類：深紅色、水色、洋紅色、金色、靛藍色
++ 寶石類：石英、綠寶石、藍寶石、鑽石
++ 棲息地：月亮、沙漠、雪地、叢林、森林、太空
 
-Remember to hide the lists from the stage when testing your project.
+請記住，在測試項目時，在舞台上隱藏清單。
