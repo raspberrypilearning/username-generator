@@ -1,10 +1,10 @@
-## Saving your favourite usernames
+## Guardando tus nombres de usuario favoritos
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+Probablemente querrás probar algunos nombres de usuario diferentes. Añadamos los nombres de usuario que te gusten a una lista.
 
 \--- task \---
 
-Create a new list called `names I like`:
+Crea una nueva lista llamada `nombres que me gustan`:
 
 [[[generic-scratch3-make-list]]]
 
@@ -12,27 +12,27 @@ Create a new list called `names I like`:
 
 \--- task \---
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+La lista aparecerá en el escenario. Arrástralo a la derecha de tu objeto persona y hazlo más ancho.
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
-
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
-
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+![nombres que me gustan resaltados con cambio de tamaño en la parte inferior izquierda](images/usernames-like-stage.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+Añade el objeto `Buttton4`, que se parece a <span style="color: green;">✔</span>, y arrástralo a la derecha de la burbuja de discurso.
 
-![button sprite](images/button-sprite.png)
+![objeto de marca verde en el escenario junto a la lista de nombres que me gustan](images/usernames-tick.png)
+
+Es posible que debas mover la lista `nombres que me gustan ` si el objeto `Button4` está debajo de él.
+
+\--- /task \---
+
+\--- task \---
+
+Añade código al objeto del botón para que cuando se haga clic en él, el nombre de usuario actual se agregue a `nombres que me gustan`.
+
+![objeto botón](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,18 +43,18 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+Prueba tu código haciendo clic en el objeto persona hasta que encuentres un nombre de usuario que te guste y luego haz clic en <span style="color: green;">✔</span>.
 
-![names i like list populated](images/usernames-like-list.png)
+![lista llena con nombres que me gustan](images/usernames-like-list.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+Puedes exportar su lista de nombres de usuario a un archivo de texto para guardarlos. Haz clic derecho en la lista en el escenario `nombres que me gustan`, luego clic en <stong>Exportar</strong> y elije un lugar para guardar la lista como un archivo.
 
-![list menu with export option highlighted](images/usernames-export.png)
+![menú de lista con opción de exportación resaltada](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+Ahora tienes un archivo de texto que contiene una lista de nombres que puede abrir con el Bloc de notas u otro editor de texto.
 
 \--- /task \---
