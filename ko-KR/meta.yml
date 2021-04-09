@@ -1,25 +1,25 @@
 ---
 hero_image: images/banner.png
 listed: true
-title: Username generator
-description: Generate awesome usernames that you can use online
+title: 사용자 이름 생성기
+description: 온라인에서 사용할 수 있는 멋진 사용자명 만들기
 version: 4
 last_tested: 2018-03-11
 steps:
   - 
-    title: Introduction
+    title: 소개
   - 
-    title: Generating usernames
+    title: 사용자명 만들기
   - 
-    title: "Challenge: add more variety"
+    title: "도전과제: 변수 더 추가하기"
     challenge: true
   - 
-    title: Saving your favourite usernames
+    title: 가장 좋아하는 사용자명 저장하기
   - 
-    title: "Challenge: add a number"
+    title: "도전과제: 숫자 추가하기"
     challenge: true
   - 
-    title: "Challenge: create your profile picture"
+    title: "도전과제: 프로필 사진 만들기"
     challenge: true
   - 
-    title: 'What next?'
+    title: '더 나아가기'
