@@ -1,40 +1,40 @@
-## Generating usernames
+## 사용자명 만들기
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+사용자를 식별하기 위해 사용자명을 사용하는 웹 사이트와 앱이 많이 있습니다. 이 사용자명은 종종 다른 사람에게 표시됩니다. 사용자명은 화면 이름, 게이머 태그 또는 핸들이라고도 불립니다.
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+사용자명이 실명이 아니고 나이, 생년월일 또는 거주지와 같은 개인 정보도 포함하지 않는 것이 중요합니다. 다른 사람들이 귀하의 사용자명을 볼 수 있으므로 정중하게 작성하고 사람들이 읽을 때 귀하에 대해 어떻게 생각할지 고려하십시오. 사용자명을 오랫동안 사용하고 있을 수 있다는 것을 기억하십시오. 3년 후에도 계속 사용하시겠습니까?
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+보시다시피 사용자명을 신중하게 선택하는 것이 중요합니다. Scratch 프로젝트를 만들어 'DiamondIguana'와 같은 'AdjectiveNoun' 사용자명을 생성해 봅시다.
 
 \--- task \---
 
-Open the Scratch starter project.
+스크래치 스타터 프로젝트를 엽니다.
 
-**Online**: open the starter project at [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**온라인**: [ rpf.io/usernameon](http://rpf.io/usernameon) {:target="_blank"}에서 스타터 프로젝트를 여세요.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+스크래치 계정이있는 경우 ** Remix를 클릭 ** 하여 사본을 만들 수 있습니다.
 
-**Offline**: open the [starter project](http://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**오프라인** : [스타터 프로젝트](http://rpf.io/p/en/username-generator-go){:target="_blank"} 를 오프라인 에디터에서 여세요.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+스크래치 오프라인 에디터를 다운로드 받아야 하는 경우, [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} 에서 다운로드 받을 수 있습니다.
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+무대에서 두 개의 리스트를 볼 수 있을 것입니다. — `형용사` 그리고 `명사`:
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![형용사와 명사가 있는 목록](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+**변수**을 클릭 한 다음 `형용사` 및 `명사` 옆의 상자를 클릭하여 선택을 취소하고 목록을 숨깁니다.
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![형용사 및 명사 변수](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+**모든 스프라이트**가 사용가능한 `사용자명`이라는 변수를 추가합니다.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,27 +42,27 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+`username` 옆의 상자를 클릭하여 선택을 취소하고 스테이지에서 변수를 숨깁니다.
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![사용자명 변수](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+사람 스프라이트 추가 — 좋아하는 것을 선택할 수 있습니다.
 
-![person sprite](images/person-sprite.png)
+![개인 스프라이트](images/usernames-person.png)
+
+**코스튬**을 클릭하고 원하는 코스튬을 선택할 수도 있습니다.
+
+\--- /task \---
+
+\--- task \---
+
+이 코드를 사람 스프라이트에 추가해 보세요:
+
+![개인 스프라이트](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+형용사와 명사를 결합해야 하므로, `결합하기`{:class="block3operators"} 블록을 `정하기`{:class="block3variables"} 블록 안에 추가하세요.
 
-![person sprite](images/person-sprite.png)
+![개인 스프라이트](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+`결합하기`{:class="block3operators"} 블록의 첫번째 상자에 형용사를 추가합니다.
 
-![person sprite](images/person-sprite.png)
+![개인 스프라이트](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+1 사이의 `랜덤`{:class="block3operators"}한 형용사와 `형용사 목록의 길이`{:class="block3variables"} 를 고르세요.
 
-![person sprite](images/person-sprite.png)
+![개인 스프라이트](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+두번째 상자에 임의의 명사를 추가하세요.
 
-![person sprite](images/person-sprite.png)
+![개인 스프라이트](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+이제 사용자가 사용자명을 말하도록 코드블록을 추가하세요.
 
-![person sprite](images/person-sprite.png)
+![개인 스프라이트](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+사람 스프라이트를 클릭해서 코드를 테스트해보세요. 당신은 이제 매번 무작위의 사용자명을 갖게 될 것입니다.
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![Arctic Kestrel 이라고 말하는 사람 스프라이트](images/usernames-click.png)
 
 \--- /task \---
