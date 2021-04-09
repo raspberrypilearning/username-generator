@@ -1,7 +1,7 @@
-adjectives
+형용사
 
-nouns
+명사
 
-username
+사용자명
 
-names I like
+내가 좋아하는 이름
