@@ -1,10 +1,10 @@
-## Saving your favourite usernames
+## 가장 좋아하는 사용자명 저장하기
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+몇 가지 다른 사용자명을 고려하고 싶을 것입니다. 좋아하는 사용자명을 목록에 추가해 보겠습니다.
 
 \--- task \---
 
-Create a new list called `names I like`:
+`내가 좋아하는 이름` 이라는 새 목록을 만듭니다.
 
 [[[generic-scratch3-make-list]]]
 
@@ -12,27 +12,27 @@ Create a new list called `names I like`:
 
 \--- task \---
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+이 목록은 스테이지에 나타납니다. 사람 스프라이트의 오른쪽으로 드래그하여 더 넓게 합니다.
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
-
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
-
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+![왼쪽 하단에 크기 조정이 강조 표시된 목록 중 마음에 드는 이름](images/usernames-like-stage.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+<span style="color: green;">✔</span>으로 보이는 `버튼4` 스프라이트를 추가하고, 스테이지를 가로질러 말풍선 오른쪽으로 드래그합니다.
 
-![button sprite](images/button-sprite.png)
+![내가 좋아하는 이름 옆에 있는 스테이지의 초록색 틱 스프라이트](images/usernames-tick.png)
+
+`버튼4` 스프라이트가 그 아래에 있는 경우, `내가 좋아하는 이름` 목록을 이동해야 할 수도 있습니다.
+
+\--- /task \---
+
+\--- task \---
+
+클릭했을 때, 현재 사용자명이 `내가 좋아하는 이름` 에 추가되도록 버튼 스프라이트에 코드를 추가합니다.
+
+![버튼 스프라이트](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,18 +43,18 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+좋아하는 사용자명을 찾을 때까지 사람 스프라이트를 클릭한 다음 <span style="color: green;">✔</span>을 클릭하여 코드를 테스트 합니다.
 
-![names i like list populated](images/usernames-like-list.png)
+![내가 좋아하는 이름이 채워진 목록](images/usernames-like-list.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+사용자명 목록을 텍스트파일로 내보내서 저장할 수 있습니다. 스테이지에서 `내가 좋아하는 이름` 목록을 우클릭하고, **내보내기**를 클릭 한 후, 목록을 파일로 저장할 위치를 선택합니다.
 
-![list menu with export option highlighted](images/usernames-export.png)
+![내보내기 옵션이 강조 표시된 목록 메뉴](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+이제 메모장이나 다른 텍스트 편집기로 열 수있는 이름 목록이 포함 된 텍스트 파일이 생겼습니다.
 
 \--- /task \---
