@@ -1,9 +1,9 @@
-## Challenge: create your profile picture
+## 도전과제: 프로필 사진 만들기
 
-Can you use the paint tool in Scratch to create your own profile picture to go with a username?
+스크래치의 페인트 도구를 사용하여 사용자 이름과 함께 할 자신의 프로필 사진을 만들 수 있나요?
 
-Here's an example:
+아래 예제를 참고하세요:
 
-![example of a profile picture](images/usernames-picture.png)
+![프로필 사진의 예](images/usernames-picture.png)
 
-Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
+화면 캡쳐 프로그램을 사용하여 사진을 저장하면 프로필 사진을 표시하는 웹사이트나 앱에서 사용할 수 있습니다.
