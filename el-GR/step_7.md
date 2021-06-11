@@ -1,4 +1,4 @@
-## Τι υπάρχει στη συνέχεια;
+## Και τώρα;
 
 Ρίξε μια ματιά στο Scratch έργο [Η γάτα του Scratch πάει για σκι](https://projects.raspberrypi.org/el-GR/projects/scratch-cat-goes-skiing).
 

@@ -86,7 +86,7 @@ set [όνομα χρήστη v] to (join [apple] [banana] :: +)
 
 --- task ---
 
-Βάλε ένα επίθετο στο πρώτο πλαίσιο του μπλοκ `ένωσε`μπλοκ{:class="block3operators"}.
+Βάλε ένα επίθετο στο πρώτο πλαίσιο του μπλοκ `ένωσε`{:class="block3operators"} μπλοκ.
 
 ![αντικείμενο Άτομο](images/person-sprite.png)
 
