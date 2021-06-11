@@ -32,7 +32,7 @@
 
 Πρόσθεσε κώδικα στο κουμπί έτσι ώστε όταν κάνεις κλικ πάνω του, το τρέχον όνομα χρήστη να προστίθεται στη λίστα `ονόματα που μου αρέσουν`.
 
-![button sprite](images/button-sprite.png)
+![κουμπί](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
