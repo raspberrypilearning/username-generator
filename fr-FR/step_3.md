@@ -11,7 +11,7 @@ Les animaux et les créatures réels et imaginaires fonctionnent bien dans la li
 Voici quelques idées pour la liste `adjectifs` :
 
 + Métaux : Zinc, Cuivre, Fer, Laiton, Argent, Or
-+ Couleurs : Crimson, Aqua, Magenta, Golden, Indigo
++ Couleurs : Pourpre, Bleu marine, Magenta, Doré, Indigo
 + Pierres précieuses : Quartz, Émeraude, Saphir, Diamant
 + Habitats : Lune, Désert, Neige, Jungle, Forêt, Espace
 
