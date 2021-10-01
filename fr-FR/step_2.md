@@ -73,7 +73,7 @@ set [username v] to []
 
 \--- task \---
 
-Tu dois combiner un adjectif et un nom, alors ajoute un bloc `join`{:class="block3operators"} à l'intérieur de ton `set`{:class="block3variables"}.
+Tu dois combiner un adjectif et un nom, alors ajoute un bloc `regrouper`{:class="block3operators"} à l'intérieur de ton `mettre`{:class="block3variables"}.
 
 ![sprite de personne](images/person-sprite.png)
 
@@ -86,7 +86,7 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Ajoute un adjectif dans la première case du bloc `joindre`{:class="block3operators"}.
+Ajoute un adjectif dans la première case du bloc `regrouper`{:class="block3operators"}.
 
 ![sprite de personne](images/person-sprite.png)
 
