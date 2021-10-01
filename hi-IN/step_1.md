@@ -44,7 +44,7 @@
 
 ### डाउनलोड
 
-स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](http://rpf.io/p/en/username-generator-go){:target="_blank"}|
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@
 
 \--- /no-print \---
 
-आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/en/username-generator-get){:target="_blank"} देख सकते हैं ।
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
