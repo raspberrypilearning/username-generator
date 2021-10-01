@@ -44,7 +44,7 @@
 
 ### للتحميل
 
-برنامج البداية ستجدة [هنا ](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@
 
 \--- /no-print \---
 
-يمكنك الحصول على [المشروع كاملاً من هنا](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
