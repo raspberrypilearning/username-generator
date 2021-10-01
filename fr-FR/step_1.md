@@ -14,8 +14,8 @@ Il est important de ne pas utiliser ton vrai nom ou tes renseignements personnel
 
 Pour essayer le projet terminé :
 
-- Clique sur le lutin de fille pour générer un nouveau nom d'utilisateur
-- Cliquez sur le <span style="color: green;">✔</span> pour ajouter à la liste un nom d'utilisateur que tu aimes
+- Clique sur le sprite de fille pour générer un nouveau nom d'utilisateur
+- Clique sur le <span style="color: green;">✔</span> pour ajouter à la liste un nom d'utilisateur que tu aimes
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/407843555/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -55,7 +55,7 @@ title: Ce que tu vas apprendre
 ---
 
 - Utiliser les listes dans Scratch
-- Utilisez l'outil de peinture pour créer des images
+- Utiliser l'outil de peinture pour créer des images
 - Comment exporter des fichiers texte et des images depuis Scratch
 
 --- /collapse ---
@@ -71,6 +71,6 @@ Si vous besoin d'imprimer ce projet, utilisez la [version imprimable](https://pr
 
 --- /no-print ---
 
-Vous pouvez trouver le [projet terminé ici](http://rpf.io/p/fr-FR/username-generator-get){:target="_blank"}.
+Vous pouvez trouver le [projet terminé ici](https://rpf.io/p/fr-FR/username-generator-get){:target="_blank"}.
 
 --- /collapse ---

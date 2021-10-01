@@ -1,10 +1,10 @@
-## Génération des noms d'utilisateur
+## Générer des noms d'utilisateur
 
 Il y a beaucoup de sites web et d'applications qui utilisent un nom d'utilisateur pour t'identifier. Ce nom d'utilisateur est souvent visible par les autres. Les noms d'utilisateur peuvent également être appelés noms d'écran, tags de joueurs ou gestionnaires.
 
 Il est important que ton nom d'utilisateur ne soit pas ton vrai nom et n'inclut pas d'informations personnelles, comme ton âge, ton année de naissance ou ton lieu de résidence. D'autres personnes verront ton nom d'utilisateur, alors assure-toi qu'il soit poli, et réfléchis à ce que les gens penseront de toi en le lisant. N'oublie pas que tu peux utiliser ton nom d'utilisateur pendant une longue période — l'aimeras-tu encore dans trois ans ?
 
-Comme tu peux le voir, il est important de choisir son nom d’utilisateur avec soin. Créons un projet Scratch pour générer des noms d'utilisateur 'AdjectiveNoun' comme 'DiamondIguana'.
+Comme tu peux le voir, il est important de choisir son nom d’utilisateur avec soin. Créons un projet Scratch pour générer des noms d'utilisateur 'NomAdjectif' comme 'IguaneDiamant'.
 
 --- task ---
 
@@ -50,9 +50,9 @@ Clique sur la case à côté de `nom d'utilisateur` pour le décocher et masquer
 
 --- task ---
 
-Ajoute un lutin de personne — tu peux choisir ton lutin préféré.
+Ajoute un sprite de personne — tu peux choisir ton sprite préféré.
 
-![un lutin de personne](images/usernames-person.png)
+![un sprite de personne](images/usernames-person.png)
 
 Tu peux également cliquer sur **Costumes** et choisir le costume que tu préféres.
 
@@ -60,9 +60,9 @@ Tu peux également cliquer sur **Costumes** et choisir le costume que tu préfé
 
 --- task ---
 
-Ajoute ce code à ton lutin de personne:
+Ajoute ce code à ton sprite de personne:
 
-![person sprite](images/person-sprite.png)
+![sprite de personne](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -75,7 +75,7 @@ set [nom d'utilisateur v] to []
 
 Tu dois combiner un adjectif et un nom, alors ajoute un bloc `regrouper`{:class="block3operators"} à l'intérieur de ton `mettre`{:class="block3variables"}.
 
-![person sprite](images/person-sprite.png)
+![sprite de personne](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -88,11 +88,11 @@ set [nom d'utilisateur v] to (join [apple] [banana] :: +)
 
 Ajoute un adjectif dans la première case du bloc `regrouper`{:class="block3operators"}.
 
-![personne sprite](images/person-sprite.png)
+![sprite de personne](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
-set [nom d'utilisateur v] to (join (item (1) of [adjectifs v] :: +) [banana])
+set [nom d'utilisateur v] to (join (item (1) of [adjectives v] :: +) [banana])
 ```
 
 --- /task ---
@@ -101,7 +101,7 @@ set [nom d'utilisateur v] to (join (item (1) of [adjectifs v] :: +) [banana])
 
 Choisis un adjectif `aléatoire`{:class="block3operators"} entre 1 et la `longueur de la liste d'adjectifs`{:class="block3variables"}
 
-![person sprite](images/person-sprite.png)
+![sprite de personne](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -114,7 +114,7 @@ set [nom d'utilisateur v] to (join (item (pick random (1) to (length of [adjecti
 
 Ajoute un nom aléatoire dans la seconde boîte.
 
-![lutin de personne](images/person-sprite.png)
+![sprite de personne](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -127,7 +127,7 @@ set [nom d'utilisateur v] to (join (item (pick random (1) to (length of [adjecti
 
 Maintenant, ajoute des blocs de code pour que ton lutin dise son nom d'utilisateur.
 
-![lutin de personne](images/person-sprite.png)
+![sprite de personne](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -141,6 +141,6 @@ set [nom d'utilisateur v] to (join (item (pick random (1) to (length of [adjecti
 
 Teste ton code en cliquant sur le lutin de la personne. Tu devrais obtenir un nouveau nom d'utilisateur aléatoire à chaque fois.
 
-![lutin personne disant crécerelle arctique](images/usernames-click.png)
+![sprite de personne disant crécerelle arctique](images/usernames-click.png)
 
 --- /task ---
