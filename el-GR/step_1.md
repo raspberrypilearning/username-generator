@@ -44,7 +44,7 @@
 
 ### Λήψεις
 
-Το αρχικό project μπορεί να βρεθεί [εδώ](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@
 
 \--- /no-print \---
 
-Μπορείς να βρεις [το ολοκληρωμένο έργο εδώ](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
