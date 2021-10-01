@@ -44,7 +44,7 @@ Para experimentar o projeto concluído:
 
 ### Downloads
 
-O projeto inicial pode ser encontrado [aqui](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@ Se você precisar imprimir este projeto, por favor use a [versão para impressã
 
 \--- /no-print \---
 
-Você pode encontrar o [projeto concluído aqui](http://rpf.io/p/en/username-generator-get){:target="_blank"}.
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
