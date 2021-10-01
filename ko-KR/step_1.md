@@ -44,7 +44,7 @@
 
 ### 다운로드
 
-스타터 프로젝트는 [여기](http://rpf.io/p/en/username-generator-go){:target="_blank"}를 클릭하면 열 수 있습니다.
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@
 
 \--- /no-print \---
 
-여기서 [완료된 프로젝트를 확인할 수 있습니다](http://rpf.io/p/en/username-generator-get)"}.
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
