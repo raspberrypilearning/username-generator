@@ -44,7 +44,7 @@
 
 ### ダウンロード
 
-基本（きほん）のプロジェクトは [こちら](http://rpf.io/p/en/username-generator-go){:target="_blank"}にあります。
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@
 
 \--- /no-print \---
 
-[完成したプロジェクトはこちら](http://rpf.io/p/en/username-generator-get){:target="_blank"}にあります。
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
