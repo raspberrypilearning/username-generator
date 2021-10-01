@@ -44,7 +44,7 @@
 
 ### 下載
 
-入門項目可在 [這裡](http://rpf.io/p/en/username-generator-go) {：target =“ _ blank”}找到。
+The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
 
 \--- /collapse \---
 
@@ -68,6 +68,6 @@
 
 \--- /no-print \---
 
-您可以在這裡找到 [已經完成的專案](http://rpf.io/p/en/username-generator-get){:target="_blank"}。
+You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
