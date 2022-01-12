@@ -6,13 +6,15 @@ description: قم بتوليد أسماء مستخدمين رائعة يمكنك
 version: 4
 last_tested: 2018-03-11
 steps:
-  - title: المقدمة
-  - title: توليد أسماء المستخدمين
-  - title: "تحدي: إضافة مزيد من التنوع"
-    challenge: true
-  - title: حفظ أسماء المستخدمين المفضلة لديك
-  - title: "تحدي: إضافة رقم"
-    challenge: true
-  - title: "تحدي: إنشئ صورة ملفك الشخصي"
-    challenge: true
-  - title: 'ما التالي؟'
+- title: المقدمة
+  completion: engaged
+- title: توليد أسماء المستخدمين
+- title: 'تحدي: إضافة مزيد من التنوع'
+  challenge: true
+  completion: internal
+- title: حفظ أسماء المستخدمين المفضلة لديك
+- title: 'تحدي: إضافة رقم'
+  challenge: true
+- title: 'تحدي: إنشئ صورة ملفك الشخصي'
+  challenge: true
+- title: ما التالي؟
