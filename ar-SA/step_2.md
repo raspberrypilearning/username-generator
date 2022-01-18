@@ -14,9 +14,9 @@
 
 اذا كنت تملك حساب على منصة السكراتش (Scratch) فيمكنك عمل نسخة بالضغط على **Remix**.
 
-**دون اتصال بالانترنت**: افتح [المشروع المبدئي](http://rpf.io/p/ar-SA/username-generator-go){:target="_blank"} عبر المحرر الموجود على جهازك.
+**دون اتصال بالانترنت**: افتح [المشروع المبدئي](https://rpf.io/p/ar-SA/username-generator-go){:target="_blank"} عبر المحرر الموجود على جهازك.
 
-اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+اذا تحتاج تنزيل وتنصيب برنامج السكراتش Scratch على جهازك الشخصي، ستجده في [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 يجب أن تشاهد قائمتين على المسرح - `صفات` و `اسماء`:
 

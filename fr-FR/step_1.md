@@ -41,11 +41,11 @@ title: Ce dont tu auras besoin
 
 ### Logiciels
 
-- Scratch 3 ([en ligne](http://rpf.io/scratchon) ou [hors ligne](http://rpf.io/scratchoff))
+- Scratch 3 ([en ligne](https://rpf.io/scratchon) ou [hors ligne](https://rpf.io/scratchoff))
 
 ### Téléchargements
 
-Le projet de démarrage peut être trouvé [ici](http://rpf.io/p/fr-FR/username-generator-go){:target="_blank"}.
+Le projet de démarrage peut être trouvé [ici](https://rpf.io/p/fr-FR/username-generator-go){:target="_blank"}.
 
 --- /collapse ---
 

@@ -14,9 +14,9 @@
 
 如果您有Scratch帐户，可以单击 **Remix**制作副本。
 
-在离线编辑器中**离线**: 打开 [初始项目](http://rpf.io/p/zh-CN/username-generator-go){:target="_blank"}.
+在离线编辑器中**离线**: 打开 [初始项目](https://rpf.io/p/zh-CN/username-generator-go){:target="_blank"}.
 
-如果您需要下载并安装Scratch离线编辑器，可以点击链接[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}获取 。
+如果您需要下载并安装Scratch离线编辑器，可以点击链接[rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}获取 。
 
 舞台上应该显示两个列表 — — `形容词`和`名词`：
 
