@@ -10,13 +10,13 @@
 
 Scratch स्टार्टर प्रोजेक्ट खोलें।
 
-**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"} पर खोलें।
+**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"} पर खोलें।
 
 यदि आपके पास एक Scratch खाता है, तो आप **Remix** पर क्लिक करके कौपी बना सकते हैं।
 
-**ऑफ़लाइन**: ऑफ़लाइन संपादक में [स्टार्टर प्रोजेक्ट](http://rpf.io/p/hi-IN/username-generator-go){:target="_blank"} खोलें।
+**ऑफ़लाइन**: ऑफ़लाइन संपादक में [स्टार्टर प्रोजेक्ट](https://rpf.io/p/hi-IN/username-generator-go){:target="_blank"} खोलें।
 
-यदि आपको Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की जरुरत है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"} पर ढूंढ सकते हैं।
+यदि आपको Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की जरुरत है, तो आप इसे [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"} पर ढूंढ सकते हैं।
 
 आपको मंच पर दो सूचियाँ दिखनी चाहिए - `adjectives` और `nouns`:
 

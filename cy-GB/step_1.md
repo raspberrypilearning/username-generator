@@ -49,7 +49,7 @@ Sicrhewch fod gan bob plentyn fynediad i gopi o'r adnoddau yma.
 + Allforio ffeiliau testun a lluniau o Scratch;
 + Pwyisgrwydd peidio rhannu gwybodaeth bersonol arlein. 
 
-Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](http://rpf.io/curriculum):
+Mae'r prosiect yma yn trin elfennau sydd yn rhan o'r adran ganlynol o [Faes Llafur Gwneud Digidol Raspberry Pi](https://rpf.io/curriculum):
 
 + [Cyfuno adeiladwaith rhaglenni i ddatrys problem.](https://www.raspberrypi.org/curriculum/programming/builder)
 

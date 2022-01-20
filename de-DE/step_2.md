@@ -14,9 +14,9 @@ Wie Du siehst, ist es wichtig, dass Du Deinen Benutzernamen sorgfältig auswähl
 
 Wenn Du bereits einen Scratch-Account besitzt, kannst Du Dir durch Klick auf **Remix** eine Kopie anlegen.
 
-**Offline**: Öffne das [Start-Projekt](http://rpf.io/p/de-DE/username-generator-go){:target="_blank"} im Offline-Editor.
+**Offline**: Öffne das [Start-Projekt](https://rpf.io/p/de-DE/username-generator-go){:target="_blank"} im Offline-Editor.
 
-Wenn Du Scratch herunterladen und auf Deinem Rechner installieren möchtest, dann findest Du die Datei unter diesem Link: [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Wenn Du Scratch herunterladen und auf Deinem Rechner installieren möchtest, dann findest Du die Datei unter diesem Link: [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Du solltest zwei Listen auf der Bühne sehen – `Adjektive` und `Nomen`:
 

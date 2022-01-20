@@ -41,11 +41,11 @@ title: आपको क्या जरुरत होगी
 
 ### सॉफ्टवेयर
 
-- Scratch 3 (या तो [ऑनलाइन](http://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](http://rpf.io/scratchoff){:target="_blank"}) 
+- Scratch 3 (या तो [ऑनलाइन](https://rpf.io/scratchon){:target="_blank"} या [ऑफलाइन](https://rpf.io/scratchoff){:target="_blank"}) 
 
 ### डाउनलोड
 
-स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](http://rpf.io/p/hi-IN/username-generator-go){:target="_blank"} ।
+स्टार्टर प्रोजेक्ट [यहाँ पाया जा सकता है](https://rpf.io/p/hi-IN/username-generator-go){:target="_blank"} ।
 
 --- /collapse ---
 
@@ -71,6 +71,6 @@ title: शिक्षकों के लिए अतिरिक्त जा
 
 --- /no-print ---
 
-आप इधर [पूरा किया हुआ प्रोजेक्ट](http://rpf.io/p/hi-IN/username-generator-get){:target="_blank"} देख सकते हैं ।
+आप इधर [पूरा किया हुआ प्रोजेक्ट](https://rpf.io/p/hi-IN/username-generator-get){:target="_blank"} देख सकते हैं ।
 
 --- /collapse ---
