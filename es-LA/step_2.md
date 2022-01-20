@@ -14,9 +14,9 @@ Abre el proyecto inicial de Scratch.
 
 Si tienes una cuenta de Scratch, puedes hacer una copia haciendo clic en **Remix**.
 
-**Sin conexión**: abre el [proyecto de iniciación](http://rpf.io/p/es-LA/username-generator-go){:target=_blank"} en el editor sin conexión.
+**Sin conexión**: abre el [proyecto de iniciación](https://rpf.io/p/es-LA/username-generator-go){:target=_blank"} en el editor sin conexión.
 
-Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si necesitas descargar e instalar el editor offline de Scratch, puedes encontrarlo en [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Deberías ver dos listas en el escenario — `adjetivos` y `sustantivos`:
 

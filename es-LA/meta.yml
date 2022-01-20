@@ -6,13 +6,15 @@ description: Genera nombres de usuario increíbles que puedes usar en línea
 version: 4
 last_tested: 2018-03-11
 steps:
-  - title: Introducción
-  - title: Generando nombres de usuario
-  - title: "Desafío: agrega más variedad"
-    challenge: true
-  - title: Guardando tus nombres de usuario favoritos
-  - title: "Desafío: agrega un número"
-    challenge: true
-  - title: "Desafío: crea tu foto de perfil"
-    challenge: true
-  - title: '¿Qué sigue?'
+- title: Introducción
+  completion: engaged
+- title: Generando nombres de usuario
+- title: 'Desafío: agrega más variedad'
+  challenge: true
+  completion: internal
+- title: Guardando tus nombres de usuario favoritos
+- title: 'Desafío: agrega un número'
+  challenge: true
+- title: 'Desafío: crea tu foto de perfil'
+  challenge: true
+- title: "¿Qué sigue?"

@@ -14,9 +14,9 @@ Ouvre le projet de démarrage Scratch.
 
 Si tu as un compte Scratch, tu peux en créer une copie en cliquant sur **Remix**.
 
-**Hors ligne**: ouvre le [projet de démarrage](http://rpf.io/p/fr-FR/username-generator-go){:target="_blank"} dans l'éditeur hors ligne.
+**Hors ligne**: ouvre le [projet de démarrage](https://rpf.io/p/fr-FR/username-generator-go){:target="_blank"} dans l'éditeur hors ligne.
 
-Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Si tu dois télécharger et installer l'éditeur hors ligne Scratch, tu peux le trouver à [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Tu devrais voir deux listes sur la scène — `adjectifs` et `noms`:
 

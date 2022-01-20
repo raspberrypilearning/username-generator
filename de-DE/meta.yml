@@ -6,13 +6,15 @@ description: Generiere fantastische Benutzernamen, die Du online verwenden kanns
 version: 4
 last_tested: 2018-03-11
 steps:
-  - title: Einleitung
-  - title: Benutzernamen generieren
-  - title: "Herausforderung: mehr Abwechslung hinzufügen"
-    challenge: true
-  - title: Speichere Deine bevorzugten Benutzernamen
-  - title: "Herausforderung: Füge eine Nummer hinzu"
-    challenge: true
-  - title: "Herausforderung: Erstelle dein Profilbild"
-    challenge: true
-  - title: 'Wie geht''s weiter?'
+- title: Einleitung
+  completion: engaged
+- title: Benutzernamen generieren
+- title: 'Herausforderung: mehr Abwechslung hinzufügen'
+  challenge: true
+  completion: internal
+- title: Speichere Deine bevorzugten Benutzernamen
+- title: 'Herausforderung: Füge eine Nummer hinzu'
+  challenge: true
+- title: 'Herausforderung: Erstelle dein Profilbild'
+  challenge: true
+- title: Wie geht's weiter?

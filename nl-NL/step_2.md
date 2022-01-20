@@ -14,9 +14,9 @@ Open het Scratch startproject.
 
 Als je een Scratch-account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open het [startproject](http://rpf.io/p/nl-NL/username-generator-go){:target="_blank"} in de offline editor.
+**Offline**: open het [startproject](https://rpf.io/p/nl-NL/username-generator-go){:target="_blank"} in de offline editor.
 
-Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Je zou twee lijsten op het podium moeten zien - `bijvoeglijke naamwoorden` en `zelfstandige naamwoorden`:
 
