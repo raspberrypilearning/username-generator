@@ -18,10 +18,11 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Cyflwyniad
-  completion: engaged
 - title: Cynhyrchu Enwau Defnyddiwr
 - title: 'Her: Ychwanegu mwy o amrywiaeth'
-  completion: internal
 - title: Arbed dy hoff Enw Defnyddiwr
+  completion:
+  - engaged
+  - internal
 - title: 'Her: Ychwanegu rhif'
 - title: 'Her: Creu dy lun proffil'
