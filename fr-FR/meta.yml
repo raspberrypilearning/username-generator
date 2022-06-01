@@ -7,12 +7,13 @@ version: 4
 last_tested: 2018-03-11
 steps:
 - title: Introduction
-  completion: engaged
 - title: Générer des noms d'utilisateur
 - title: 'Défi : ajoute plus de variété'
   challenge: true
-  completion: internal
 - title: Enregistrer tes noms d'utilisateur favoris
+  completion:
+  - engaged
+  - internal
 - title: 'Défi : ajoute un chiffre'
   challenge: true
 - title: 'Défi: crée ta photo de profil'

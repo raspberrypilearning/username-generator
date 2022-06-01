@@ -8,12 +8,13 @@ version: 4
 last_tested: 2018-03-11
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Δημιουργία ονομάτων χρήστη
 - title: 'Πρόκληση: πρόσθεσε μεγαλύτερη ποικιλία'
   challenge: true
-  completion: internal
 - title: Αποθήκευση των αγαπημένων σου ονομάτων χρήστη
+  completion:
+  - engaged
+  - internal
 - title: 'Πρόκληση: πρόσθεσε έναν αριθμό'
   challenge: true
 - title: 'Πρόκληση: δημιούργησε την εικόνα του προφίλ σου'

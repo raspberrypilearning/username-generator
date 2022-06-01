@@ -7,12 +7,13 @@ version: 4
 last_tested: 2018-03-11
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Benutzernamen generieren
 - title: 'Herausforderung: mehr Abwechslung hinzufügen'
   challenge: true
-  completion: internal
 - title: Speichere Deine bevorzugten Benutzernamen
+  completion:
+  - engaged
+  - internal
 - title: 'Herausforderung: Füge eine Nummer hinzu'
   challenge: true
 - title: 'Herausforderung: Erstelle dein Profilbild'
