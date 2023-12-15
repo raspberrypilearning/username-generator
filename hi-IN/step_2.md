@@ -10,13 +10,13 @@
 
 Scratch स्टार्टर प्रोजेक्ट खोलें।
 
-**ऑनलाइन**: स्टार्टर प्रोजेक्ट को [rpf.io/usernameon](http://rpf.io/usernameon){: target = "_ blank"} पर खोलें।
+**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
 यदि आपके पास एक Scratch खाता है, तो आप ** Remix ** पर क्लिक करके कौपी बना सकते हैं।
 
-**ऑफ़लाइन**: ऑफ़लाइन संपादक में [स्टार्टर प्रोजेक्ट](http://rpf.io/p/en/username-generator-go){: target = "_ blank"} खोलें।
+**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-यदि आपको Scratch ऑफ़लाइन संपादक को डाउनलोड और इंस्टॉल करने की जरुरत है, तो आप इसे [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"} पर ढूंढ सकते हैं।
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 आपको मंच पर दो सूचियाँ दिखनी चाहिए - ` adjectives ` और ` nouns ` :
 
