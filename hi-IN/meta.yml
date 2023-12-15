@@ -11,15 +11,18 @@ steps:
   - 
     title: यूजरनेम  बनाना
   - 
-    title: "चुनौती: अधिक शैलियों (variety) को जोड़ें"
+    title: 'चुनौती: अधिक शैलियों (variety) को जोड़ें'
     challenge: true
   - 
     title: अपने पसंदीदा यूजरनेम सहेजना
+    completion:
+      - engaged
+      - internal
   - 
-    title: "चुनौती: एक नंबर जोड़ें"
+    title: 'चुनौती: एक नंबर जोड़ें'
     challenge: true
   - 
-    title: "चुनौती: अपना प्रोफ़ाइल चित्र बनाएँ"
+    title: 'चुनौती: अपना प्रोफ़ाइल चित्र बनाएँ'
     challenge: true
   - 
-    title: 'आगे क्या है?'
+    title: आगे क्या है?
