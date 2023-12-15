@@ -11,15 +11,18 @@ steps:
   - 
     title: 生成用户名
   - 
-    title: "挑战：添加多样性"
+    title: '挑战：添加多样性'
     challenge: true
   - 
     title: 保存您最喜欢的用户名
+    completion:
+      - engaged
+      - internal
   - 
-    title: "挑战：添加数字"
+    title: '挑战：添加数字'
     challenge: true
   - 
-    title: "挑战：创建您的个人资料图片"
+    title: '挑战：创建您的个人资料图片'
     challenge: true
   - 
-    title: '接下来呢？'
+    title: 接下来呢？
