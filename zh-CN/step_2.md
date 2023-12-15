@@ -10,13 +10,13 @@
 
 打开 Scratch 初始项目。
 
-**在线：** 在 [rpf.io/usernameon](http://rpf.io/usernameon){：target =“_ blank”}打开初始项目。
+**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
 如果您有Scratch帐户，可以单击 **Remix**制作副本。
 
-在离线编辑器中**离线**: 打开 [初始项目](http://rpf.io/p/en/username-generator-go){:target="_blank"}.
+**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-如果您需要下载并安装Scratch离线编辑器，可以点击链接[ rpf.io/scratchoff ](http://rpf.io/scratchoff)获取 {：target="_blank"}。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 舞台上应该显示两个列表 — — `形容词`和`名词`：
 
