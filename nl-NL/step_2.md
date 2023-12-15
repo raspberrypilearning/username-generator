@@ -10,13 +10,13 @@ Zoals je ziet, is het belangrijk om je gebruikersnaam zorgvuldig te kiezen. Late
 
 Open het Scratch startproject.
 
-**Online**: open het startproject via [rpf.io/usernameon](http://rpf.io/usernameon){:target="_ blank"}.
+**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
 Als je een Scratch-account hebt, kun je een kopie maken door op **Remix** te klikken.
 
-**Offline**: open het [startproject](http://rpf.io/p/en/username-generator-go){:target="_ blank"} in de offline editor.
+**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-Als je de Scratch offline editor wilt downloaden en installeren dan kan je die vinden op [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Je zou twee lijsten op het podium moeten zien - `bijvoeglijke naamwoorden` en `zelfstandige naamwoorden`:
 
