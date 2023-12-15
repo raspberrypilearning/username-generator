@@ -11,15 +11,18 @@ steps:
   - 
     title: ユーザー名の生成
   - 
-    title: "チャレンジ: 単語をふやす"
+    title: 'チャレンジ: 単語をふやす'
     challenge: true
   - 
     title: 好きなユーザー名を保存する
+    completion:
+      - engaged
+      - internal
   - 
-    title: "チャレンジ: 数字を追加する"
+    title: 'チャレンジ: 数字を追加する'
     challenge: true
   - 
-    title: "チャレンジ: プロフィール画像 (がぞう) をつくる"
+    title: 'チャレンジ: プロフィール画像 (がぞう) をつくる'
     challenge: true
   - 
-    title: '次は何をしましょうか？'
+    title: 次は何をしましょうか？
