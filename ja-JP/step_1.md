@@ -40,7 +40,7 @@
 
 ### ソフトウェア
 
-- Scratch 3（[オンライン](http://rpf.io/scratchon){:target="_blank"}または[オフライン](http://rpf.io/scratchoff){:target="_blank"}）
+- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
 
 ### ダウンロード
 
