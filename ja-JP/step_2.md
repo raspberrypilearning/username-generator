@@ -10,13 +10,13 @@
 
 基本（きほん）の Scratch プロジェクトを開きます。
 
-**オンライン**: [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}から基本のプロジェクトを開きます。
+**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
 Scratch アカウントを持っている場合は、**リミックス**ボタンをクリックしてプロジェクトをコピーできます。
 
-**オフライン**: オフラインエディターで[基本のプロジェクト](http://rpf.io/p/en/username-generator-go){:target="_blank"}を開きます。
+**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-[rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}から Scratch オフラインエディターをダウンロードしてインストールできます。
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 ステージ上に2つのリスト（`形容詞`と`名詞`）があります。
 
