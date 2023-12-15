@@ -11,15 +11,18 @@ steps:
   - 
     title: Generando nombres de usuario
   - 
-    title: "Desafío: agrega más variedad"
+    title: 'Desafío: agrega más variedad'
     challenge: true
   - 
     title: Guardando tus nombres de usuario favoritos
+    completion:
+      - engaged
+      - internal
   - 
-    title: "Desafío: agregar un número"
+    title: 'Desafío: agregar un número'
     challenge: true
   - 
-    title: "Desafío: crea tu foto de perfil"
+    title: 'Desafío: crea tu foto de perfil'
     challenge: true
   - 
     title: '¿Qué sigue?'
