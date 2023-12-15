@@ -11,15 +11,18 @@ steps:
   - 
     title: Gebruikersnamen genereren
   - 
-    title: "Uitdaging: voeg meer variatie toe"
+    title: 'Uitdaging: voeg meer variatie toe'
     challenge: true
   - 
     title: Je favoriete gebruikersnamen opslaan
+    completion:
+      - engaged
+      - internal
   - 
-    title: "Uitdaging: voeg een getal toe"
+    title: 'Uitdaging: voeg een getal toe'
     challenge: true
   - 
-    title: "Uitdaging: maak een profielfoto"
+    title: 'Uitdaging: maak een profielfoto'
     challenge: true
   - 
-    title: 'Wat kun je verder nog doen?'
+    title: Wat kun je verder nog doen?
