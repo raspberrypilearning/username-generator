@@ -11,15 +11,18 @@ steps:
   - 
     title: 사용자명 만들기
   - 
-    title: "도전과제: 변수 더 추가하기"
+    title: '도전과제: 변수 더 추가하기'
     challenge: true
   - 
     title: 가장 좋아하는 사용자명 저장하기
+    completion:
+      - engaged
+      - internal
   - 
-    title: "도전과제: 숫자 추가하기"
+    title: '도전과제: 숫자 추가하기'
     challenge: true
   - 
-    title: "도전과제: 프로필 사진 만들기"
+    title: '도전과제: 프로필 사진 만들기'
     challenge: true
   - 
-    title: '더 나아가기'
+    title: 더 나아가기
