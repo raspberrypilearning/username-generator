@@ -10,13 +10,13 @@ Como você pode ver, é importante ser cuidadoso na hora de escolher um nome de 
 
 Abra o projeto inicial do Scratch.
 
-**Online**: abra o projeto inicial em [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
 Se você tiver uma conta Scratch, você pode fazer uma cópia clicando em **Remix**.
 
-**Offline**: abra o [projeto inicial](http://rpf.io/p/en/username-generator-go){:target="_blank"} no editor offline.
+**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-Se você precisar baixar e instalar o editor offline do Scratch, você pode encontrá-lo em [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Você deve ver duas listas no palco — `adjetivos` e `substantivos`:
 
