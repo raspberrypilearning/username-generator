@@ -10,13 +10,13 @@ Como puedes ver, es importante elegir cuidadosamente un nombre de usuario. Vamos
 
 Abre el proyecto inicial de Scratch.
 
-**En línea**: abre el proyecto de inicio en [rpf.io/usernameon](http://rpf.io/usernameon){:target="_blank"}.
+**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
 Si tienes una cuenta de Scratch puedes hacer una copia haciendo clic en **Reinventar**.
 
-**Sin conexión**: abre el [proyecto de inicio](http://rpf.io/p/en/username-generator-go){:target="_blank"} en el editor sin conexión.
+**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
 
-Si necesita descargar e instalar el editor sin conexión de Scratch, puede encontrarlo en [rpf.io/scratchoff](http://rpf.io/scratchoff){: target = "_ blank"}.
+If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
 Deberías ver dos listas en el escenario - ` nombres ` y ` adjetivos `:
 
