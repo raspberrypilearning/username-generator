@@ -1,7 +1,7 @@
-adjectives
+aggettivi
 
-nouns
+nomi
 
 username
 
-names I like
+nomi che mi piacciono
