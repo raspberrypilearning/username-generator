@@ -1,21 +1,21 @@
 \--- no-print \---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
+Це — версія проєкту для **Скретч 3**. Також існує [версія проєкту для Скретч 2](https://projects.raspberrypi.org/en/projects/username-generator-scratch2).
 
 \--- /no-print \---
 
-## Introduction
+## Вступ
 
-It’s important not to use your real name or any personal information in your online username. In this project you’ll generate fun usernames that you can use on websites like Scratch.
+Важливо не використовувати своє справжнє ім’я або будь-яку особисту інформацію в імені користувача онлайн. У цьому проєкті ти створиш цікаві імена користувачів, які зможеш використовувати на таких вебсайтах, як Скретч (Scratch).
 
-### What you will make
+### Що ти зробиш
 
 \--- no-print \---
 
-To try out the finished project:
+Щоб спробувати завершений проєкт:
 
-- Click the girl sprite to generate a new username
-- Click the <span style="color: green;">✔</span> to add a username you like to the list
+- Натисни на спрайт дівчинки, щоб створити нове ім’я користувача
+- Натисни <span style="color: green;">✔</span>, щоб додати вподобане ім’я користувача до списку
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/292974184/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -26,48 +26,48 @@ To try out the finished project:
 
 \--- print-only \---
 
-![complete project](images/usernames-final.png)
+![завершений проєкт](images/usernames-final.png)
 
 \--- /print-only \---
 
 ## \--- collapse \---
 
-## title: What you will need
+## title: Що тобі знадобиться
 
-### Hardware
+### Обладнання
 
-- A computer capable of running Scratch
+- Комп'ютер, що підтримує Скретч
 
-### Software
+### Програмне забезпечення
 
-- Scratch 3 (either [online](https://rpf.io/scratchon){:target="_blank"} or [offline](https://rpf.io/scratchoff){:target="_blank"})
+- Скретч 3 (або [онлайн](https://rpf.io/scratchon){:target="_blank"}, або [офлайн](https://rpf.io/scratchoff){:target="_blank"})
 
-### Downloads
+### Завантаження
 
-The starter project can be found [here](https://rpf.io/p/en/username-generator-go){:target="_blank"}.
-
-\--- /collapse \---
-
-## \--- collapse \---
-
-## title: What you will learn
-
-- Use lists in Scratch
-- Use the paint tool to create images
-- How to exporting text files and images from Scratch
+Початковий проєкт можна знайти [тут](https://rpf.io/p/en/username-generator-go){:target="_ blank"}.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Additional information for educators
+## title: Чого ти навчишся
+
+- Використовувати списки в Скретч
+- Використовувати інструмент малювання для створення зображень
+- Як експортувати текстові файли та зображення зі Скретч
+
+\--- /collapse \---
+
+## \--- collapse \---
+
+## title: Додаткова інформація для викладачів
 
 \--- no-print \---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"}.
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/username-generator/print){:target="_blank"}.
 
 \--- /no-print \---
 
-You can find the [completed project here](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
+Ви можете знайти [завершений проєкт тут](https://rpf.io/p/en/username-generator-get){:target="_blank"}.
 
 \--- /collapse \---
