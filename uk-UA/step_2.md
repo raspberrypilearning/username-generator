@@ -79,7 +79,7 @@ set [ім'я користувача v] to []
 
 ```blocks3
 when this sprite clicked
-set [ім'я користувача v] to (join [apple] [banana] :: +)
+set [ім'я користувача v] to (join [яблуко] [банан] :: +)
 ```
 
 --- /task ---
@@ -92,7 +92,7 @@ set [ім'я користувача v] to (join [apple] [banana] :: +)
 
 ```blocks3
 when this sprite clicked
-set [ім'я користувача v] to (join (item (1) of [прикметники v] :: +) [banana])
+set [ім'я користувача v] to (join (item (1) of [прикметники v] :: +) [банан])
 ```
 
 --- /task ---
@@ -105,7 +105,7 @@ set [ім'я користувача v] to (join (item (1) of [прикметни
 
 ```blocks3
 when this sprite clicked
-set [ім'я користувача v] to (join (item (pick random (1) to (length of [прикметники v] :: +) :: +) of [прикметники v]) [banana])
+set [ім'я користувача v] to (join (item (pick random (1) to (length of [прикметники v] :: +) :: +) of [прикметники v]) [банан])
 ```
 
 --- /task ---
