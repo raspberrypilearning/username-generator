@@ -1,9 +1,9 @@
-## Challenge: create your profile picture
+## Завдання: створити своє зображення профілю
 
-Can you use the paint tool in Scratch to create your own profile picture to go with a username?
+Чи можеш ти використати інструмент малювання в Скретчі, щоб створити власне зображення профілю, яке буде підходити до імені користувача?
 
-Here's an example:
+Ось приклад:
 
-![example of a profile picture](images/usernames-picture.png)
+![приклад зображення профілю](images/usernames-picture.png)
 
-Use a screen capture program to save your picture so that you can use it on websites or apps which show profile pictures
+Використовуй програму для знімків екрану, щоб зберегти своє зображення, для використання його на вебсайтах або в додатках, які показують зображення профілю
