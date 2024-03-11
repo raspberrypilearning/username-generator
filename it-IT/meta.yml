@@ -1,28 +1,28 @@
 ---
 hero_image: images/banner.png
 listed: true
-title: Username generator
-description: Generate awesome usernames that you can use online
+title: Generatore di username (nomi utente)
+description: Genera fantastici usename da utilizzare online
 version: 4
 last_tested: 2018-03-11
 steps:
   - 
-    title: Introduction
+    title: Introduzione
   - 
-    title: Generating usernames
+    title: Generare username
   - 
-    title: 'Challenge: add more variety'
+    title: 'Sfida: aggiungi più varietà'
     challenge: true
   - 
-    title: Saving your favourite usernames
+    title: Salvataggio degli username preferiti
     completion:
       - engaged
       - internal
   - 
-    title: 'Challenge: add a number'
+    title: 'Sfida: aggiungi un numero'
     challenge: true
   - 
-    title: 'Challenge: create your profile picture'
+    title: 'Sfida: crea la tua immagine profilo'
     challenge: true
   - 
-    title: What next?
+    title: E adesso?
