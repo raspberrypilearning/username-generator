@@ -1,40 +1,40 @@
-## Generating usernames
+## Створення імен користувачів
 
-There are lots of websites and apps that use a username to identify you. This username is often visible to others. Usernames can also be called screen names, gamer tags, or handles.
+Є багато вебсайтів і програм, які використовують ім'я користувача для твоєї ідентифікації. Це ім’я користувача часто видно іншим. Імена користувачів також можна називати екранними іменами, тегами гравців або маркерами.
 
-It’s important that your username isn’t your real name and also doesn’t include any personal information, such as your age, year of birth, or where you live. Other people will see your username, so make sure it’s polite, and consider what people will think about you when they read it. Remember that you might be using your username for a long time — will you still like it in three years?
+Важливо, щоб ім’я користувача не було твоїм справжнім іменем, а також не містило жодної особистої інформації, як-от твій вік, рік народження або місце проживання. Інші люди бачитимуть твоє ім’я користувача, тому переконайся, що воно ввічливе, і врахуй те, що люди подумають про тебе, коли прочитають його. Пам’ятай, що можливо ти будеш використовувати своє ім’я користувача протягом тривалого часу — чи буде воно тобі подобатися через три роки?
 
-As you can see, it’s important to choose your username carefully. Let's create a Scratch project to generate 'AdjectiveNoun' usernames like 'DiamondIguana'.
+Як бачиш, важливо ретельно вибирати ім’я користувача. Створімо проєкт на Скретч, щоб генерувати імена користувачів «ПрикметникІменник», наприклад «ДіамантоваІгуана».
 
 \--- task \---
 
-Open the Scratch starter project.
+Відкрий початковий проєкт на Скретч.
 
-**Online**: open the starter project at [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
+**Онлайн**: відкрий початковий проєкт на [rpf.io/usernameon](https://rpf.io/usernameon){:target="_blank"}.
 
-If you have a Scratch account you can make a copy by clicking **Remix**.
+Якщо у тебе є обліковий запис Скретч, то ти можеш зробити копію проєкту, натиснувши **Ремікс**.
 
-**Offline**: open the [starter project](https://rpf.io/p/en/username-generator-go){:target="_blank"} in the offline editor.
+**Офлайн**: відкрий [початковий проєкт](https://rpf.io/p/en/username-generator-go){:target="_blank"} в офлайн-редакторі.
 
-If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
+Якщо тобі треба завантажити та встановити офлайн-редактор Скретч, ти можеш його знайти на [rpf.io/scratchoff](https://rpf.io/scratchoff){:target="_blank"}.
 
-You should see two lists on the stage — `adjectives` and `nouns`:
+Ти маєш побачити два списки на сцені — `прикметники` та `іменники`:
 
-![lists with adjectices and nouns](images/usernames-lists.png)
+![списки з прикметниками та іменниками](images/usernames-lists.png)
 
 \--- /task \---
 
 \--- task \---
 
-Click on **Variables**, and then click the boxes next to `adjectives` and `nouns` to uncheck them and hide the lists.
+Натисни **Змінні**, а потім натисни на невеликий квадратик біля `прикметники` та `іменники`, щоб очистити прапорці та приховати списки.
 
-![adjectives and nouns variables](images/usernames-hide.png)
+![змінні прикметники та іменники](images/usernames-hide.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add a variable called `username` which should be available **for all sprites**.
+Додай змінну під назвою `ім’я користувача`, яка має бути доступна **для всіх спрайтів**.
 
 [[[generic-scratch3-add-variable]]]
 
@@ -42,27 +42,27 @@ Add a variable called `username` which should be available **for all sprites**.
 
 \--- task \---
 
-Click the box next to `username` to uncheck it and hide the variable from the stage.
+Натисни невеликий квадратик біля `ім’я користувача`, щоб очистити прапорець і сховати змінну зі сцени.
 
-![username variable](images/usernames-hide-variable.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add a person sprite — you can choose your favourite one.
-
-![a person sprite](images/usernames-person.png)
-
-You can also click on **Costumes** and choose the costume you prefer.
+![змінна ім’я користувача](images/usernames-hide-variable.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add this code to your person sprite:
+Додай спрайт людини — ти можеш вибрати свій улюблений.
 
-![person sprite](images/person-sprite.png)
+![спрайт людини](images/usernames-person.png)
+
+Ти також можеш натиснути **Образи** і вибрати той, який тобі більш до вподоби.
+
+\--- /task \---
+
+\--- task \---
+
+Додайте цей код до свого спрайту людини:
+
+![спрайт людини](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -73,9 +73,9 @@ set [username v] to []
 
 \--- task \---
 
-You need to combine an adjective and a noun, so add a `join`{:class="block3operators"} block inside your `set`{:class="block3variables"} block.
+Тобі потрібно поєднати прикметник та іменник, тому додай блок `з’єднати`{:class="block3operators"} у свій блок `надати`{:class="block3variables"}.
 
-![person sprite](images/person-sprite.png)
+![спрайт людини](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -86,9 +86,9 @@ set [username v] to (join [apple] [banana] :: +)
 
 \--- task \---
 
-Add an adjective in the first box in the `join`{:class="block3operators"} block.
+Додай прикметник у перше віконце блока `з’єднати`{:class="block3operators"}.
 
-![person sprite](images/person-sprite.png)
+![спрайт людини](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -99,9 +99,9 @@ set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
 
 \--- task \---
 
-Pick a `random`{:class="block3operators"} adjective between 1 and the `length of the adjectives list`{:class="block3variables"}
+Вибери `випадковий`{:class="block3operators"} прикметник між 1 і `довжиною списку прикметників`{:class="block3variables"}
 
-![person sprite](images/person-sprite.png)
+![спрайт людини](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -112,9 +112,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v] ::
 
 \--- task \---
 
-Add a random noun in the second box.
+Додай випадковий іменник у друге віконце.
 
-![person sprite](images/person-sprite.png)
+![спрайт людини](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -125,9 +125,9 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Now add code blocks to get your person to say the username.
+Тепер додай блок коду, щоб твій спрайт міг вимовити ім'я користувача.
 
-![person sprite](images/person-sprite.png)
+![спрайт людини](images/person-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -139,8 +139,8 @@ set [username v] to (join (item (pick random (1) to (length of [adjectives v])) 
 
 \--- task \---
 
-Test your code by clicking on the person sprite. You should get a new random username each time.
+Протестуй свій код, натиснувши на спрайт людини. Щоразу ти маєш отримувати нове випадкове ім’я користувача.
 
-![person sprite saying Arctic Kestrel](images/usernames-click.png)
+![спрайт людини, яка каже Нефритова Пустельга](images/usernames-click.png)
 
 \--- /task \---
