@@ -1,0 +1,21 @@
+---
+hero_image: images/banner.png
+listed: true
+title: Генератор імені користувача
+description: Створюй чудові імена користувачів, якими ти зможеш користуватися онлайн
+version: 4
+last_tested: 2018-03-11
+steps:
+  - title: Вступ
+  - title: Створення імен користувачів
+  - title: 'Завдання: додати більше різноманітності'
+    challenge: true
+  - title: Збереження улюблених імен користувача
+    completion:
+      - engaged
+      - internal
+  - title: 'Завдання: додати число'
+    challenge: true
+  - title: 'Завдання: створи своє зображення профілю'
+    challenge: true
+  - title: Що далі?
