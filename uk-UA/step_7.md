@@ -1,10 +1,10 @@
-## What next?
+## Що далі?
 
-Take a look at the [Scratch cat goes skiing](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing) Scratch project.
+Поглянь на Скретч проєкт [Скретч-кіт катається на лижах](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing).
 
 --- no-print ---
 
-Click on the green flag to start. Use the left and right arrow keys to control the skier.
+Натисни на зелений прапорець, щоб почати. Використовуй клавіші зі стрілками вліво і вправо для керування лижником.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/281116583/?autostart=false" frameborder="0" scrolling="no"></iframe>
@@ -15,6 +15,6 @@ Click on the green flag to start. Use the left and right arrow keys to control t
 
 --- print-only ---
 
-![complete project](images/skiing-final.png)
+![завершений проєкт](images/skiing-final.png)
 
 --- /print-only ---
