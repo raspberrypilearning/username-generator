@@ -1,18 +1,18 @@
-## Challenge: add more variety
+## Завдання: додати більше різноманітності
 
-Can you add more items to the lists of adjectives and nouns?
+Чи можеш ти додати більше елементів до списків прикметників та іменників?
 
-Check the boxes for the lists to show them on the stage. Then click the **+** icon and type a new word into the list. Don't forget to start each word with a capital letter.
+Постав прапорці у квадратиках біля списків, щоб вони відобразилися на сцені. Потім натисни іконку **+** і введи нове слово в список. Не забувай починати кожне слово з великої літери.
 
-![screenshot](images/usernames-add.png)
+![знімок екрана](images/usernames-add.png)
 
-Real and imaginary animals and creatures work well in the `nouns` list. Try to think of unusual ones.
+Справжні та уявні тварини та істоти добре підходять для списку `іменники`. Спробуй вигадати щось незвичайне.
 
-Here are some ideas for the `adjectives` list:
+Ось кілька ідей для списку `прикметників`:
 
-+ Metals: Zinc, Copper, Iron, Brass, Silver, Gold
-+ Colours: Crimson, Aqua, Magenta, Golden, Indigo
-+ Gemstones: Quartz, Emerald, Sapphire, Diamond
-+ Habitats: Moon, Desert, Snow, Jungle, Forest, Space
++ Метали: Цинковий, Мідний, Залізний, Бронзовий, Срібний, Золотий, Хромовий
++ Кольори: Багряний, Водяний, Пурпуровий, Золотий, Лазурний, Зеленавий
++ Дорогоцінне каміння: Кварцовий, Смарагдовий, Сапфіровий, Діамантовий, Нефритовий, Рубіновий
++ Середовище проживання: Місячний, Пустельний, Арктичний, Джунглевий, Лісовий, Піщаний
 
-Remember to hide the lists from the stage when testing your project.
+Не забудь сховати списки зі сцени при тестуванні свого проєкту.
