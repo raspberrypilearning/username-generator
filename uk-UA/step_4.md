@@ -1,10 +1,10 @@
-## Saving your favourite usernames
+## Збереження вподобаних імен користувачів
 
-You probably want to consider a few different usernames. Let’s add usernames that you like to a list.
+Ймовірно, ти захочеш розглянути кілька різних імен користувачів. Додамо імена користувачів, які тобі подобаються, до списку.
 
 \--- task \---
 
-Create a new list called `names I like`:
+Створи новий список під назвою `імена, що мені подобаються`:
 
 [[[generic-scratch3-make-list]]]
 
@@ -12,27 +12,27 @@ Create a new list called `names I like`:
 
 \--- task \---
 
-The list will appear on the stage. Drag it to the right of your person sprite and make it wider.
+Список з'явиться на екрані. Перетягни його праворуч від спрайта людини та зроби його ширшим.
 
-![names I like list with resize in bottom left highlighted](images/usernames-like-stage.png)
-
-\--- /task \---
-
-\--- task \---
-
-Add the `Button4` sprite, which looks like <span style="color: green;">✔</span>, and drag it across the stage to the right of the speech bubble.
-
-![green tick sprite on the stage next to the names I like list](images/usernames-tick.png)
-
-You may need to move the `names I like` list if the `Button4` sprite is underneath it.
+![список імен, які мені подобаються, з функцією зміни розміру, розташований та виділений в нижньому лівому куті](images/usernames-like-stage.png)
 
 \--- /task \---
 
 \--- task \---
 
-Add code to the button sprite so that when it is clicked, the current username is added to `names I like`.
+Додай спрайт кнопки `Button4 `, який виглядає як <span style="color: green;">✔️</span>, і перетягни його по сцені праворуч від хмарки репліки.
 
-![button sprite](images/button-sprite.png)
+![спрайт із зеленою галочкою на сцені біля списку імен, що мені подобаються](images/usernames-tick.png)
+
+Тобі може знадобитися перемістити список `імена, що мені подобаються`, якщо спрайт `Button4` знаходитиметься під ним.
+
+\--- /task \---
+
+\--- task \---
+
+Додай код до спрайта кнопки, щоб після її натискання поточне ім’я користувача додавалося до `імена, що мені подобаються`.
+
+![спрайт кнопки](images/button-sprite.png)
 
 ```blocks3
 when this sprite clicked
@@ -43,18 +43,18 @@ add (username :: variables) to [names I like v]
 
 \--- task \---
 
-Test your code by clicking on the person sprite until you find a username you like and then clicking the <span style="color: green;">✔</span>.
+Протестуй свій код, натискаючи на спрайт людини, доки ти не знайдеш ім'я користувача, яке тобі подобається, а потім натисни на <span style="color: green;">✔️</span>.
 
-![names i like list populated](images/usernames-like-list.png)
+![заповнений список імен, що мені подобаються](images/usernames-like-list.png)
 
 \--- /task \---
 
 \--- task \---
 
-You can export your list of usernames to a text file to save them. Right-click on the `names I like` list on the stage, click **Export**, and choose a place to save the list as a file.
+Ти можеш експортувати свій список імен користувачів у текстовий файл, щоб їх зберегти. Клацни правою кнопкою миші по списку `імена, що мені подобаються` на сцені, натисни **Експорт**, та вибери місце для збереження списку як файлу.
 
-![list menu with export option highlighted](images/usernames-export.png)
+![меню-список з виділеною функцією експорту](images/usernames-export.png)
 
-You now have a text file containing a list of names that you can open with Notepad or another text editor.
+Тепер у тебе є текстовий файл, що містить список імен, які можна відкрити в Блокноті або іншому текстовому редакторі.
 
 \--- /task \---
