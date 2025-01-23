@@ -8,14 +8,17 @@ last_tested: 2018-03-11
 steps:
 - title: Introduction
 - title: Generating usernames
+  completion:
+  - engaged
 - title: 'Challenge: add more variety'
   challenge: true
 - title: Saving your favourite usernames
-  completion:
-  - engaged
-  - internal
 - title: 'Challenge: add a number'
   challenge: true
 - title: 'Challenge: create your profile picture'
   challenge: true
-- title: What next?
+  completion:
+  - internal
+- title: What can you do now?
+  completion:
+  - external
