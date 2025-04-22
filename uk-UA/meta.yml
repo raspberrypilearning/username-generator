@@ -10,19 +10,22 @@ steps:
     title: Вступ
   - 
     title: Створення імен користувачів
+    completion:
+      - engaged
   - 
     title: 'Завдання: додати більше різноманітності'
     challenge: true
   - 
     title: Збереження улюблених імен користувачів
-    completion:
-      - engaged
-      - internal
   - 
     title: 'Завдання: додати число'
     challenge: true
   - 
     title: 'Завдання: створи своє зображення профілю'
     challenge: true
+    completion:
+      - internal
   - 
-    title: Що далі?
+    title: What can you do now?
+    completion:
+      - external
