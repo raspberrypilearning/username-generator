@@ -10,19 +10,22 @@ steps:
     title: 介紹
   - 
     title: 創建用戶名
+    completion:
+      - engaged
   - 
     title: '挑戰：添加多樣化'
     challenge: true
   - 
     title: 保存您喜歡的用戶名
-    completion:
-      - engaged
-      - internal
   - 
     title: '挑戰：加入數字'
     challenge: true
   - 
     title: '挑戰：創建您的個人資料照片'
     challenge: true
+    completion:
+      - internal
   - 
-    title: 下一步是什麼？
+    title: What can you do now?
+    completion:
+      - external
