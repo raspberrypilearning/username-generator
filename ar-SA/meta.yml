@@ -10,19 +10,22 @@ steps:
     title: المقدمة
   - 
     title: توليد أسماء المستخدمين
+    completion:
+      - engaged
   - 
     title: 'تحدي: إضافة مزيد من التنوع'
     challenge: true
   - 
     title: حفظ أسماء المستخدمين المفضلة لديك
-    completion:
-      - engaged
-      - internal
   - 
     title: 'تحدي: إضافة رقم'
     challenge: true
   - 
     title: 'تحدي: إنشئ صورة ملفك الشخصي'
     challenge: true
+    completion:
+      - internal
   - 
-    title: ما التالي؟
+    title: What can you do now?
+    completion:
+      - external
