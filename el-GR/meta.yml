@@ -10,19 +10,22 @@ steps:
     title: Εισαγωγή
   - 
     title: Δημιουργία ονομάτων χρήστη
+    completion:
+      - engaged
   - 
     title: 'Πρόκληση: πρόσθεσε μεγαλύτερη ποικιλία'
     challenge: true
   - 
     title: Αποθήκευση των αγαπημένων σου ονομάτων χρήστη
-    completion:
-      - engaged
-      - internal
   - 
     title: 'Πρόκληση: πρόσθεσε έναν αριθμό'
     challenge: true
   - 
     title: 'Πρόκληση: δημιούργησε την εικόνα του προφίλ σου'
     challenge: true
+    completion:
+      - internal
   - 
-    title: Και τώρα;
+    title: What can you do now?
+    completion:
+      - external
