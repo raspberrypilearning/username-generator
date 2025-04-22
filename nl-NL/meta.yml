@@ -10,19 +10,22 @@ steps:
     title: Inleiding
   - 
     title: Gebruikersnamen genereren
+    completion:
+      - engaged
   - 
     title: 'Uitdaging: voeg meer variatie toe'
     challenge: true
   - 
     title: Je favoriete gebruikersnamen opslaan
-    completion:
-      - engaged
-      - internal
   - 
     title: 'Uitdaging: voeg een getal toe'
     challenge: true
   - 
     title: 'Uitdaging: maak een profielfoto'
     challenge: true
+    completion:
+      - internal
   - 
-    title: Wat kun je verder nog doen?
+    title: What can you do now?
+    completion:
+      - external
