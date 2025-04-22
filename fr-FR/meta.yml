@@ -10,19 +10,22 @@ steps:
     title: Introduction
   - 
     title: Générer des noms d'utilisateur
+    completion:
+      - engaged
   - 
     title: 'Défi : ajouter plus de variété'
     challenge: true
   - 
     title: Enregistrer tes noms d'utilisateur favoris
-    completion:
-      - engaged
-      - internal
   - 
     title: 'Défi : ajouter un chiffre'
     challenge: true
   - 
     title: 'Défi: crée ta photo de profil'
     challenge: true
+    completion:
+      - internal
   - 
-    title: Et ensuite ?
+    title: What can you do now?
+    completion:
+      - external
