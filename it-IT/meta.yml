@@ -10,19 +10,22 @@ steps:
     title: Introduzione
   - 
     title: Generare username
+    completion:
+      - engaged
   - 
     title: 'Sfida: aggiungi più varietà'
     challenge: true
   - 
     title: Salvataggio degli username preferiti
-    completion:
-      - engaged
-      - internal
   - 
     title: 'Sfida: aggiungi un numero'
     challenge: true
   - 
     title: 'Sfida: crea la tua immagine profilo'
     challenge: true
+    completion:
+      - internal
   - 
-    title: E adesso?
+    title: What can you do now?
+    completion:
+      - external
