@@ -26,6 +26,6 @@ steps:
     completion:
       - internal
   - 
-    title: What can you do now?
+    title: Cosa puoi fare adesso?
     completion:
       - external
