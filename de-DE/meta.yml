@@ -10,19 +10,22 @@ steps:
     title: Einleitung
   - 
     title: Benutzernamen generieren
+    completion:
+      - engaged
   - 
     title: 'Herausforderung: mehr Abwechslung hinzufügen'
     challenge: true
   - 
     title: Speichere Deine bevorzugten Benutzernamen
-    completion:
-      - engaged
-      - internal
   - 
     title: 'Herausforderung: Füge eine Nummer hinzu'
     challenge: true
   - 
     title: 'Herausforderung: Erstelle Dein Profilbild'
     challenge: true
+    completion:
+      - internal
   - 
-    title: Wie geht es weiter?
+    title: What can you do now?
+    completion:
+      - external
