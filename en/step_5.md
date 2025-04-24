@@ -9,7 +9,7 @@ set [username v] to [0]
 
 join [hello] [world]
 
-username :: variables
+username
 
 pick random (20) to (99)
 ```
