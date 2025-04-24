@@ -32,7 +32,7 @@ Per provare il progetto finito:
 
 ## \--- collapse \---
 
-## title: Di cosa avrai bisogno
+## title: Di cosa hai bisogno
 
 ### Hardware
 
@@ -56,7 +56,7 @@ Il progetto dal quale partire può essere trovato [qui](https://rpf.io/p/en/user
 - Usare lo strumento di disegno per creare immagini
 - Come esportare file di testo e immagini da Scratch
 
-\--- / chiudi \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
