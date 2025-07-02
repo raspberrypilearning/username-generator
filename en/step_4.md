@@ -36,7 +36,7 @@ Add code to the button sprite so that when it is clicked, the current username i
 
 ```blocks3
 when this sprite clicked
-add (username :: variables) to [names I like v]
+add (username) to [names I like v]
 ```
 
 --- /task ---

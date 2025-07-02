@@ -79,7 +79,7 @@ You need to combine an adjective and a noun, so add a `join`{:class="block3opera
 
 ```blocks3
 when this sprite clicked
-set [username v] to (join [apple] [banana] :: +)
+set [username v] to (join [apple] [banana])
 ```
 
 --- /task ---
@@ -92,7 +92,7 @@ Add an adjective in the first box in the `join`{:class="block3operators"} block.
 
 ```blocks3
 when this sprite clicked
-set [username v] to (join (item (1) of [adjectives v] :: +) [banana])
+set [username v] to (join (item (1) of [adjectives v]) [banana])
 ```
 
 --- /task ---
@@ -105,7 +105,7 @@ Pick a `random`{:class="block3operators"} adjective between 1 and the `length of
 
 ```blocks3
 when this sprite clicked
-set [username v] to (join (item (pick random (1) to (length of [adjectives v] :: +) :: +) of [adjectives v]) [banana])
+set [username v] to (join (item (pick random (1) to (length of [adjectives v] )) of [adjectives v]) [banana])
 ```
 
 --- /task ---
@@ -118,7 +118,7 @@ Add a random noun in the second box.
 
 ```blocks3
 when this sprite clicked
-set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v] :: +) :: +) of [nouns v] :: +))
+set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v] ) ) of [nouns v] ))
 ```
 
 --- /task ---
@@ -132,7 +132,7 @@ Now add code blocks to get your person to say the username.
 ```blocks3
 when this sprite clicked
 set [username v] to (join (item (pick random (1) to (length of [adjectives v])) of [adjectives v]) (item (pick random (1) to (length of [nouns v])) of [nouns v]))
-+ say (username :: variables)
++ say (username)
 ```
 
 --- /task ---
