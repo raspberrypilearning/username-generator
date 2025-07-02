@@ -19,6 +19,5 @@ steps:
     challenge: true
     completion:
       - internal
-  - title: Cosa puoi fare adesso?
     completion:
       - external
